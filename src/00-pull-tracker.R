@@ -19,7 +19,7 @@ dat_in = tryCatch(data.table::fread(url),
                   error = function(e) NULL)
 
 if(!is.null(dat_in)){
-  data.table::fwrite(dat_in, here::here("data-raw", basename(url)))
+  data.table::fwrite(dat_in, file.path("data-raw", basename(url)))
 }
 
 
