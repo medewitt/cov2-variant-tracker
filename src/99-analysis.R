@@ -26,7 +26,7 @@ save_figs = TRUE
 if (save_figs) pdf(file.path("output", "sgtf-nc-helix.pdf"), height=8, width=10, colormodel="gray")
 par(mar=c(4,3,2,2), mgp=c(1.5, .5, 0), tck=-.01)
 plot(pred*100~date, data = prediction_out,
-     ylab = "% of Circulating Strains", xlab = '', type = "l")
+     ylab = "% of Circulating Variants", xlab = '', type = "l")
 lines(prediction_out$date, prediction_out$pred_lo*100, type = "l", lty = 2)
 lines(prediction_out$date, prediction_out$pred_hi*100, type = "l", lty = 2)
 title("Estimated Proportion of B.1.1.7 Circulating in North Carolina", adj = 0)
