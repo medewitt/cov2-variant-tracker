@@ -20,12 +20,18 @@ dat_in = tryCatch(data.table::fread(url),
                   error = function(e) NULL)
 
 if(!is.null(dat_in)){
-  url <- sprintf("https://www.cdc.gov/coronavirus/2019-ncov/transmission/docs/%s_Web-UpdateCSV-TABLE.csv", date_for_cdc_alt)
+  url <- sprintf("https://www.cdc.gov/coronavirus/2019-ncov/transmission/docs/%s-Web-UpdateCSV-TABLE.csv", date_for_cdc_alt)
 
   dat_in = tryCatch(data.table::fread(url),
                     error = function(e) NULL)
 }
 
+if(!is.null(dat_in)){
+  url <- sprintf("https://www.cdc.gov/coronavirus/2019-ncov/transmission/docs/%s_Web-UpdateCSV-TABLE.csv", date_for_cdc_alt)
+
+  dat_in = tryCatch(data.table::fread(url),
+                    error = function(e) NULL)
+}
 
 if(!is.null(dat_in)){
   data.table::fwrite(dat_in, file.path("data-raw", basename(url)))
