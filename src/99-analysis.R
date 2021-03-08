@@ -7,9 +7,10 @@ nc_all = dat[state=="NC"][,t:=.I]
 
 fit <- glm(cbind(all_SGTF,positive ) ~ t, family = binomial, data = nc_all)
 summary(fit)
+if(interactive()){
 plot(fit)
 plot(nc_all$all_SGTF/nc_all$positive, type = "l")
-
+}
 likely_rate = predict(fit, newdata = data.frame(t = 1:200), type = "response")
 
 prediction_out = data.frame(date = seq.Date(min(nc_all$collection_date),
