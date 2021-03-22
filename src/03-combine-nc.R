@@ -16,3 +16,5 @@ names(dat_raw) = update_dates
 dat_raw = rbindlist(dat_raw, idcol = "update_date")
 
 dat_raw[,update_date:=as.Date(update_date)]
+
+nc_only = dat_raw[State=="NC"]
