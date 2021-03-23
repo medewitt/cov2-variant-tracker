@@ -1,3 +1,4 @@
 Imports:
     data.table,
-    magrittr
+    magrittr,
+    ggplot2
