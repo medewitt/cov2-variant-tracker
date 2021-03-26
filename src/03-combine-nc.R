@@ -11,6 +11,21 @@ dat_raw = lapply(csv_to_combine, data.table::fread)
 
 update_dates = as.Date(gsub("(\\d+).+","\\1",basename(csv_to_combine)), format = "%m%d%y")
 
+
+process_date <- function(update_dates, csv_to_combine){
+  error_in = which(as.integer(format(update_dates, "%Y"))<2021L,update_dates)
+
+  update_dates[error_in] = as.Date(gsub("(\\d+).+","\\1",basename(csv_to_combine[error_in])), format = "%m%d%Y")
+  update_dates
+  }
+
+update_dates = process_date(update_dates, csv_to_combine)
+
+dat_raw = lapply(dat_raw, function(x) {
+  y = which(x = grepl("State|Variant", names(x)))
+  x[,..y]
+  })
+
 names(dat_raw) = update_dates
 
 dat_raw = rbindlist(dat_raw, idcol = "update_date")
@@ -32,3 +47,8 @@ ggplot(data = nc_long, aes(update_date, value, colour = variable))+
     colour = "Variants",
     y = "Count of Identified Samples"
   )+ggsave(filename = "output/nc-variants-cdc.pdf")
+
+
+# write outputs -----------------------------------------------------------
+
+fwrite(nc_long, "data/cdc-latest.csv")
