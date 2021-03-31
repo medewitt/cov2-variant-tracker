@@ -13,7 +13,7 @@ nearest_date = calendar_use[calendar_use>=Sys.Date()-1][1]
 
 date_for_cdc = format(nearest_date, "%m%d%Y")
 date_for_cdc_alt = format(nearest_date, "%m%d%y")
-"https://www.cdc.gov/coronavirus/2019-ncov/downloads/transmission/03162021_Web-UpdateCSV-TABLE.csv"
+"https://www.cdc.gov/coronavirus/2019-ncov/downloads/transmission/03302021_Web-Update.csv"
 url <- sprintf("https://www.cdc.gov/coronavirus/2019-ncov/transmission/docs/%s_Web-UpdateCSV-TABLE.csv", date_for_cdc)
 
 dat_in = tryCatch(data.table::fread(url),
@@ -27,7 +27,14 @@ if(is.null(dat_in)){
 }
 
 if(is.null(dat_in)){
-  url <- sprintf("https://www.cdc.gov/coronavirus/2019-ncov/transmission/docs/%s_Web-UpdateCSV-TABLE.csv", date_for_cdc_alt)
+  url <- sprintf("https://www.cdc.gov/coronavirus/2019-ncov/downloads/transmission/%s_Web-Update.csv", date_for_cdc)
+
+  dat_in = tryCatch(data.table::fread(url),
+                    error = function(e) NULL)
+}
+
+if(is.null(dat_in)){
+  url <- sprintf("https://www.cdc.gov/coronavirus/2019-ncov/transmission/docs/%s_Web-UpdateCSV-TABLE.csv", date_for_cdc)
 
   dat_in = tryCatch(data.table::fread(url),
                     error = function(e) NULL)
