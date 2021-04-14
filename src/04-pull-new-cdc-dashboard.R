@@ -4,3 +4,4 @@ url <- "https://public.tableau.com/views/State_Proportions_table/StateProportion
 current_time <- format(Sys.time(), "%Y%m%d%H%M")
 try(download.file(url = url, destfile = here::here("data-raw","new-format",
                                                    paste0(current_time,"_cdc_metrics.csv"))))
+
