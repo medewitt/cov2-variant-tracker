@@ -1,0 +1,151 @@
+Measure Names,State,Measure Values
+B.1.1.7,Arizona,0.2938
+B.1.351,Arizona,0.0025
+B.1.427 / B.1.429,Arizona,0.3062
+P.1,Arizona,0.0296
+Other lineages,Arizona,0.3679
+Total Available Sequences,Arizona,405
+B.1.1.7,California,0.2981
+B.1.351,California,0.0053
+B.1.427 / B.1.429,California,0.3922
+P.1,California,0.0392
+Other lineages,California,0.2651
+Total Available Sequences,California,"7,185"
+B.1.1.7,Colorado,0.4647
+B.1.351,Colorado,0.0048
+B.1.427 / B.1.429,Colorado,0.2502
+P.1,Colorado,0.0103
+Other lineages,Colorado,0.27
+Total Available Sequences,Colorado,"1,459"
+B.1.1.7,Connecticut,0.3933
+B.1.351,Connecticut,0.005
+B.1.427 / B.1.429,Connecticut,0.037
+P.1,Connecticut,0.0118
+Other lineages,Connecticut,0.5529
+Total Available Sequences,Connecticut,595
+B.1.1.7,Florida,0.6154
+B.1.351,Florida,0.0028
+B.1.427 / B.1.429,Florida,0.05
+P.1,Florida,0.0458
+Other lineages,Florida,0.286
+Total Available Sequences,Florida,"6,817"
+B.1.1.7,Georgia,0.6432
+B.1.351,Georgia,0.0237
+B.1.427 / B.1.429,Georgia,0.0356
+P.1,Georgia,0.0119
+Other lineages,Georgia,0.2856
+Total Available Sequences,Georgia,"1,264"
+B.1.1.7,Illinois,0.4295
+B.1.351,Illinois,0.0063
+B.1.427 / B.1.429,Illinois,0.1141
+P.1,Illinois,0.1426
+Other lineages,Illinois,0.3074
+Total Available Sequences,Illinois,"2,524"
+B.1.1.7,Indiana,0.4693
+B.1.351,Indiana,0.004
+B.1.427 / B.1.429,Indiana,0.0854
+P.1,Indiana,0.0231
+Other lineages,Indiana,0.4181
+Total Available Sequences,Indiana,995
+B.1.1.7,Kentucky,0.3686
+B.1.351,Kentucky,
+B.1.427 / B.1.429,Kentucky,0.0434
+P.1,Kentucky,0.0136
+Other lineages,Kentucky,0.5745
+Total Available Sequences,Kentucky,369
+B.1.1.7,Maryland,0.5875
+B.1.351,Maryland,0.0246
+B.1.427 / B.1.429,Maryland,0.0218
+P.1,Maryland,0.0104
+Other lineages,Maryland,0.3557
+Total Available Sequences,Maryland,"1,057"
+B.1.1.7,Massachusetts,0.438
+B.1.351,Massachusetts,0.0008
+B.1.427 / B.1.429,Massachusetts,0.0309
+P.1,Massachusetts,0.0706
+Other lineages,Massachusetts,0.4597
+Total Available Sequences,Massachusetts,"2,395"
+B.1.1.7,Michigan,0.6985
+B.1.351,Michigan,0.0034
+B.1.427 / B.1.429,Michigan,0.0405
+P.1,Michigan,0.011
+Other lineages,Michigan,0.2465
+Total Available Sequences,Michigan,"4,365"
+B.1.1.7,Minnesota,0.6831
+B.1.351,Minnesota,0.0056
+B.1.427 / B.1.429,Minnesota,0.1071
+P.1,Minnesota,0.0066
+Other lineages,Minnesota,0.1975
+Total Available Sequences,Minnesota,"3,913"
+B.1.1.7,New Hampshire,0.3701
+B.1.351,New Hampshire,0.0022
+B.1.427 / B.1.429,New Hampshire,0.0693
+P.1,New Hampshire,0.0411
+Other lineages,New Hampshire,0.5173
+Total Available Sequences,New Hampshire,462
+B.1.1.7,New Jersey,0.4132
+B.1.351,New Jersey,0.0013
+B.1.427 / B.1.429,New Jersey,0.012
+P.1,New Jersey,0.0144
+Other lineages,New Jersey,0.559
+Total Available Sequences,New Jersey,"4,576"
+B.1.1.7,New York,0.3786
+B.1.351,New York,0.0053
+B.1.427 / B.1.429,New York,0.0292
+P.1,New York,0.0124
+Other lineages,New York,0.5746
+Total Available Sequences,New York,"2,092"
+B.1.1.7,North Carolina,0.4425
+B.1.351,North Carolina,0.0381
+B.1.427 / B.1.429,North Carolina,0.0543
+P.1,North Carolina,0.0081
+Other lineages,North Carolina,0.4571
+Total Available Sequences,North Carolina,"1,234"
+B.1.1.7,Ohio,0.4756
+B.1.351,Ohio,0.0184
+B.1.427 / B.1.429,Ohio,0.0528
+P.1,Ohio,0.016
+Other lineages,Ohio,0.4373
+Total Available Sequences,Ohio,"1,251"
+B.1.1.7,Pennsylvania,0.496
+B.1.351,Pennsylvania,0.0066
+B.1.427 / B.1.429,Pennsylvania,0.0316
+P.1,Pennsylvania,0.0127
+Other lineages,Pennsylvania,0.4531
+Total Available Sequences,Pennsylvania,"3,770"
+B.1.1.7,Rhode Island,0.3281
+B.1.351,Rhode Island,
+B.1.427 / B.1.429,Rhode Island,0.0659
+P.1,Rhode Island,0.0244
+Other lineages,Rhode Island,0.5817
+Total Available Sequences,Rhode Island,698
+B.1.1.7,Tennessee,0.7226
+B.1.351,Tennessee,0.0019
+B.1.427 / B.1.429,Tennessee,0.0276
+P.1,Tennessee,0.0019
+Other lineages,Tennessee,0.2459
+Total Available Sequences,Tennessee,"1,049"
+B.1.1.7,Texas,0.5915
+B.1.351,Texas,0.0028
+B.1.427 / B.1.429,Texas,0.0604
+P.1,Texas,0.0204
+Other lineages,Texas,0.3249
+Total Available Sequences,Texas,"2,502"
+B.1.1.7,Virginia,0.5334
+B.1.351,Virginia,0.0234
+B.1.427 / B.1.429,Virginia,0.0598
+P.1,Virginia,0.0047
+Other lineages,Virginia,0.3787
+Total Available Sequences,Virginia,853
+B.1.1.7,West Virginia,0.3058
+B.1.351,West Virginia,0.0014
+B.1.427 / B.1.429,West Virginia,0.1014
+P.1,West Virginia,0.0029
+Other lineages,West Virginia,0.5884
+Total Available Sequences,West Virginia,690
+B.1.1.7,Wisconsin,0.4019
+B.1.351,Wisconsin,0.0125
+B.1.427 / B.1.429,Wisconsin,0.1001
+P.1,Wisconsin,0.0306
+Other lineages,Wisconsin,0.4548
+Total Available Sequences,Wisconsin,719
