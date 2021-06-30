@@ -1,0 +1,151 @@
+Measure Names,State,Measure Values
+B.1.1.7,Arizona,0.6427
+B.1.351,Arizona,
+B.1.617.2,Arizona,0.0719
+P.1,Arizona,0.1678
+Other lineages,Arizona,0.1068
+Grand Total,Arizona,459
+B.1.1.7,California,0.5631
+B.1.351,California,0.0023
+B.1.617.2,California,0.0849
+P.1,California,0.1086
+Other lineages,California,0.2017
+Grand Total,California,"2,662"
+B.1.1.7,Colorado,0.7205
+B.1.351,Colorado,0.0038
+B.1.617.2,Colorado,0.122
+P.1,Colorado,0.0365
+Other lineages,Colorado,0.1085
+Grand Total,Colorado,"2,655"
+B.1.1.7,Connecticut,0.5535
+B.1.351,Connecticut,
+B.1.617.2,Connecticut,0.0545
+P.1,Connecticut,0.0808
+Other lineages,Connecticut,0.3071
+Grand Total,Connecticut,495
+B.1.1.7,Florida,0.6228
+B.1.351,Florida,0.0019
+B.1.617.2,Florida,0.0275
+P.1,Florida,0.1503
+Other lineages,Florida,0.1933
+Grand Total,Florida,"2,582"
+B.1.1.7,Georgia,0.7876
+B.1.351,Georgia,0.0132
+B.1.617.2,Georgia,0.0056
+P.1,Georgia,0.0602
+Other lineages,Georgia,0.1297
+Grand Total,Georgia,532
+B.1.1.7,Illinois,0.604
+B.1.351,Illinois,0.0072
+B.1.617.2,Illinois,0.0382
+P.1,Illinois,0.239
+Other lineages,Illinois,0.1044
+Grand Total,Illinois,"1,255"
+B.1.1.7,Indiana,0.716
+B.1.351,Indiana,
+B.1.617.2,Indiana,0.0747
+P.1,Indiana,0.1241
+Other lineages,Indiana,0.0822
+Grand Total,Indiana,669
+B.1.1.7,Maryland,0.7289
+B.1.351,Maryland,0.008
+B.1.617.2,Maryland,0.0221
+P.1,Maryland,0.0241
+Other lineages,Maryland,0.2169
+Grand Total,Maryland,498
+B.1.1.7,Massachusetts,0.513
+B.1.351,Massachusetts,0.0009
+B.1.617.2,Massachusetts,0.0492
+P.1,Massachusetts,0.1707
+Other lineages,Massachusetts,0.2615
+Grand Total,Massachusetts,"2,115"
+B.1.1.7,Michigan,0.7709
+B.1.351,Michigan,0.0065
+B.1.617.2,Michigan,0.0131
+P.1,Michigan,0.0622
+Other lineages,Michigan,0.144
+Grand Total,Michigan,611
+B.1.1.7,Minnesota,0.7947
+B.1.351,Minnesota,0.011
+B.1.617.2,Minnesota,0.0093
+P.1,Minnesota,0.0472
+Other lineages,Minnesota,0.124
+Grand Total,Minnesota,"1,822"
+B.1.1.7,Missouri,0.5881
+B.1.351,Missouri,0.0094
+B.1.617.2,Missouri,0.2987
+P.1,Missouri,0.0409
+Other lineages,Missouri,0.0629
+Grand Total,Missouri,318
+B.1.1.7,New Jersey,0.4945
+B.1.351,New Jersey,
+B.1.617.2,New Jersey,0.1023
+P.1,New Jersey,0.0755
+Other lineages,New Jersey,0.3289
+Grand Total,New Jersey,821
+B.1.1.7,New York,0.5481
+B.1.351,New York,0.0224
+B.1.617.2,New York,0.0337
+P.1,New York,0.0897
+Other lineages,New York,0.3013
+Grand Total,New York,624
+B.1.1.7,North Carolina,0.7095
+B.1.351,North Carolina,0.0058
+B.1.617.2,North Carolina,0.0124
+P.1,North Carolina,0.0473
+Other lineages,North Carolina,0.2274
+Grand Total,North Carolina,"1,205"
+B.1.1.7,Ohio,0.8175
+B.1.351,Ohio,0.0045
+B.1.617.2,Ohio,0.0104
+P.1,Ohio,0.0742
+Other lineages,Ohio,0.0935
+Grand Total,Ohio,674
+B.1.1.7,Oregon,0.4862
+B.1.351,Oregon,0.0221
+B.1.617.2,Oregon,
+P.1,Oregon,0.2099
+Other lineages,Oregon,0.221
+Grand Total,Oregon,362
+B.1.1.7,Pennsylvania,0.7061
+B.1.351,Pennsylvania,0.0016
+B.1.617.2,Pennsylvania,0.0095
+P.1,Pennsylvania,0.0334
+Other lineages,Pennsylvania,0.2478
+Grand Total,Pennsylvania,"1,259"
+B.1.1.7,Rhode Island,0.498
+B.1.351,Rhode Island,0.0101
+B.1.617.2,Rhode Island,0.0161
+P.1,Rhode Island,0.1431
+Other lineages,Rhode Island,0.3327
+Grand Total,Rhode Island,496
+B.1.1.7,Tennessee,0.8168
+B.1.351,Tennessee,0.0149
+B.1.617.2,Tennessee,0.0173
+P.1,Tennessee,0.0965
+Other lineages,Tennessee,0.0545
+Grand Total,Tennessee,404
+B.1.1.7,Texas,0.6651
+B.1.351,Texas,0.0029
+B.1.617.2,Texas,0.0693
+P.1,Texas,0.0789
+Other lineages,Texas,0.1781
+Grand Total,Texas,"2,078"
+B.1.1.7,Virginia,0.7452
+B.1.351,Virginia,0.0104
+B.1.617.2,Virginia,0.0416
+P.1,Virginia,0.0607
+Other lineages,Virginia,0.1438
+Grand Total,Virginia,577
+B.1.1.7,Washington,0.5657
+B.1.351,Washington,0.0093
+B.1.617.2,Washington,0.0625
+P.1,Washington,0.1956
+Other lineages,Washington,0.1214
+Grand Total,Washington,"1,713"
+B.1.1.7,West Virginia,0.6614
+B.1.351,West Virginia,
+B.1.617.2,West Virginia,
+P.1,West Virginia,0.0045
+Other lineages,West Virginia,0.3363
+Grand Total,West Virginia,443
