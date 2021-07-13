@@ -27,7 +27,13 @@ dat_ratio <- dat_raw[!grepl("Total", `Measure Names`)][
   ,`Measure Names`:=ifelse(`Measure Names`=="B.1.427 / B.1.429",
                            "B.1.427/B.1.429", `Measure Names` )]
 
+dat_sequences <- dat_raw[grepl("Total", `Measure Names`)]
+
+setnames(dat_sequences,old = "Measure Values", new = "samples")
+
 dat_nc_sequence <- dat_nc[grepl("Total", `Measure Names`)][,NewSequenceCT:=c(0,diff(`Measure Values`))]
+
+dat_ratio <- merge(dat_ratio, dat_sequences[,.(UpdateDTS,State,samples)], by = c("UpdateDTS", "State"))
 
 # dat_nc_ratio %>%
 #   ggplot(aes(UpdateDTS,`Measure Values`, colour = `Measure Names`))+
