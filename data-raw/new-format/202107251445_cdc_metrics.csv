@@ -1,0 +1,79 @@
+Measure Names,State,Measure Values
+B.1.1.7,Arizona,0.328389831
+B.1.351,Arizona,
+B.1.617.2,Arizona,0.360169492
+P.1,Arizona,0.192796610
+Other lineages,Arizona,0.118644068
+Total Available Sequences,Arizona,472
+B.1.1.7,California,0.227842118
+B.1.351,California,0.001181754
+B.1.617.2,California,0.567714488
+P.1,California,0.090285984
+Other lineages,California,0.112975656
+Total Available Sequences,California,"4,231"
+B.1.1.7,Colorado,0.328277356
+B.1.351,Colorado,
+B.1.617.2,Colorado,0.589382449
+P.1,Colorado,0.043336945
+Other lineages,Colorado,0.039003250
+Total Available Sequences,Colorado,923
+B.1.1.7,Florida,0.340115163
+B.1.351,Florida,0.000383877
+B.1.617.2,Florida,0.361228407
+P.1,Florida,0.136660269
+Other lineages,Florida,0.161612284
+Total Available Sequences,Florida,"2,605"
+B.1.1.7,Georgia,0.449339207
+B.1.351,Georgia,
+B.1.617.2,Georgia,0.365638767
+P.1,Georgia,0.074889868
+Other lineages,Georgia,0.107929515
+Total Available Sequences,Georgia,454
+B.1.1.7,Illinois,0.343065693
+B.1.351,Illinois,
+B.1.617.2,Illinois,0.430656934
+P.1,Illinois,0.138686131
+Other lineages,Illinois,0.082725061
+Total Available Sequences,Illinois,411
+B.1.1.7,Missouri,0.071351351
+B.1.351,Missouri,
+B.1.617.2,Missouri,0.899459459
+P.1,Missouri,0.011891892
+Other lineages,Missouri,0.017297297
+Total Available Sequences,Missouri,925
+B.1.1.7,Nevada,0.162966700
+B.1.351,Nevada,
+B.1.617.2,Nevada,0.710393542
+P.1,Nevada,0.048940464
+Other lineages,Nevada,0.077699294
+Total Available Sequences,Nevada,"1,982"
+B.1.1.7,New Jersey,0.254617414
+B.1.351,New Jersey,
+B.1.617.2,New Jersey,0.531662269
+P.1,New Jersey,0.065963061
+Other lineages,New Jersey,0.147757256
+Total Available Sequences,New Jersey,758
+B.1.1.7,New York,0.253644315
+B.1.351,New York,
+B.1.617.2,New York,0.373177843
+P.1,New York,0.090379009
+Other lineages,New York,0.282798834
+Total Available Sequences,New York,343
+B.1.1.7,North Carolina,0.373589165
+B.1.351,North Carolina,0.002257336
+B.1.617.2,North Carolina,0.364559819
+P.1,North Carolina,0.046275395
+Other lineages,North Carolina,0.213318284
+Total Available Sequences,North Carolina,886
+B.1.1.7,Texas,0.343220339
+B.1.351,Texas,0.000423729
+B.1.617.2,Texas,0.421610169
+P.1,Texas,0.064830508
+Other lineages,Texas,0.169915254
+Total Available Sequences,Texas,"2,360"
+B.1.1.7,Washington,0.359262229
+B.1.351,Washington,0.002405774
+B.1.617.2,Washington,0.407377706
+P.1,Washington,0.132317562
+Other lineages,Washington,0.098636728
+Total Available Sequences,Washington,"1,247"
