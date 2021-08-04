@@ -6,4 +6,5 @@ Imports:
     dplyr,
     RCurl,
     curl,
-    here
+    here,
+    fs
