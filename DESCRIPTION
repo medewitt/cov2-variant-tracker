@@ -7,4 +7,5 @@ Imports:
     RCurl,
     curl,
     here,
-    fs
+    fs,
+    stringr
