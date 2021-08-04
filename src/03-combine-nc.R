@@ -36,7 +36,7 @@ nc_only = dat_raw[State=="NC"]
 
 nc_long = melt(nc_only, id.vars = c("State", "update_date"))
 
-ggplot(data = nc_long, aes(update_date, value, colour = variable))+
+p <- ggplot(data = nc_long, aes(update_date, value, colour = variable))+
   geom_line(size = 1.2)+
   theme_bw()+
   scale_colour_manual(values = c("#00468BFF", "#ED0000FF", "#42B540FF"))+
@@ -46,7 +46,9 @@ ggplot(data = nc_long, aes(update_date, value, colour = variable))+
     caption = "Data from Centers for Disease Control",
     colour = "Variants",
     y = "Count of Identified Samples"
-  )+ggsave(filename = "output/nc-variants-cdc.pdf")
+  )
+
+ggsave(p, filename = "output/nc-variants-cdc.pdf")
 
 
 # write outputs -----------------------------------------------------------
