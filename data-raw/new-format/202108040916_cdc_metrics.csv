@@ -1,0 +1,153 @@
+Measure Names,State,Measure Values
+B.1.1.7,Alabama,0.1396
+B.1.351,Alabama,
+B.1.617.2,Alabama,0.7175
+P.1,Alabama,0.0325
+AY.2,Alabama,
+AY.3,Alabama,0.0747
+Other lineages,Alabama,0.0357
+Total Available Sequences,Alabama,308
+B.1.1.7,Arizona,0.158
+B.1.351,Arizona,
+B.1.617.2,Arizona,0.6039
+P.1,Arizona,0.1104
+AY.2,Arizona,0.0065
+AY.3,Arizona,0.026
+Other lineages,Arizona,0.0952
+Total Available Sequences,Arizona,462
+B.1.1.7,California,0.0863
+B.1.351,California,0.0002
+B.1.617.2,California,0.7366
+P.1,California,0.044
+AY.2,California,0.0353
+AY.3,California,0.0241
+Other lineages,California,0.0663
+Total Available Sequences,California,"8,184"
+B.1.1.7,Colorado,0.09
+B.1.351,Colorado,
+B.1.617.2,Colorado,0.8279
+P.1,Colorado,0.0271
+AY.2,Colorado,0.0026
+AY.3,Colorado,0.0183
+Other lineages,Colorado,0.0341
+Total Available Sequences,Colorado,"1,145"
+B.1.1.7,Florida,0.1426
+B.1.351,Florida,0.0003
+B.1.617.2,Florida,0.6543
+P.1,Florida,0.0727
+AY.2,Florida,0.0018
+AY.3,Florida,0.0206
+Other lineages,Florida,0.1077
+Total Available Sequences,Florida,"3,975"
+B.1.1.7,Georgia,0.1728
+B.1.351,Georgia,0.0013
+B.1.617.2,Georgia,0.6163
+P.1,Georgia,0.033
+AY.2,Georgia,0.0178
+AY.3,Georgia,0.1017
+Other lineages,Georgia,0.0572
+Total Available Sequences,Georgia,787
+B.1.1.7,Illinois,0.1426
+B.1.351,Illinois,
+B.1.617.2,Illinois,0.5517
+P.1,Illinois,0.0558
+AY.2,Illinois,0.0041
+AY.3,Illinois,0.1777
+Other lineages,Illinois,0.0661
+Total Available Sequences,Illinois,484
+B.1.1.7,Massachusetts,0.0421
+B.1.351,Massachusetts,
+B.1.617.2,Massachusetts,0.7401
+P.1,Massachusetts,0.0446
+AY.2,Massachusetts,
+AY.3,Massachusetts,0.0631
+Other lineages,Massachusetts,0.1101
+Total Available Sequences,Massachusetts,808
+B.1.1.7,Minnesota,0.1507
+B.1.351,Minnesota,
+B.1.617.2,Minnesota,0.6928
+P.1,Minnesota,0.0464
+AY.2,Minnesota,0.0058
+AY.3,Minnesota,0.0638
+Other lineages,Minnesota,0.0406
+Total Available Sequences,Minnesota,345
+B.1.1.7,Missouri,0.0234
+B.1.351,Missouri,
+B.1.617.2,Missouri,0.5273
+P.1,Missouri,0.0043
+AY.2,Missouri,0.0043
+AY.3,Missouri,0.426
+Other lineages,Missouri,0.0147
+Total Available Sequences,Missouri,"1,155"
+B.1.1.7,Nevada,0.0761
+B.1.351,Nevada,0.0005
+B.1.617.2,Nevada,0.777
+P.1,Nevada,0.0316
+AY.2,Nevada,0.0579
+AY.3,Nevada,0.0091
+Other lineages,Nevada,0.0478
+Total Available Sequences,Nevada,"2,090"
+B.1.1.7,New Jersey,0.0551
+B.1.351,New Jersey,
+B.1.617.2,New Jersey,0.7041
+P.1,New Jersey,0.0378
+AY.2,New Jersey,
+AY.3,New Jersey,0.0961
+Other lineages,New Jersey,0.1069
+Total Available Sequences,New Jersey,926
+B.1.1.7,New York,0.072
+B.1.351,New York,
+B.1.617.2,New York,0.6214
+P.1,New York,0.057
+AY.2,New York,0.0034
+AY.3,New York,0.0737
+Other lineages,New York,0.1709
+Total Available Sequences,New York,597
+B.1.1.7,North Carolina,0.1557
+B.1.351,North Carolina,0.0019
+B.1.617.2,North Carolina,0.6632
+P.1,North Carolina,0.0356
+AY.2,North Carolina,
+AY.3,North Carolina,0.0291
+Other lineages,North Carolina,0.1144
+Total Available Sequences,North Carolina,"1,066"
+B.1.1.7,South Carolina,0.1624
+B.1.351,South Carolina,
+B.1.617.2,South Carolina,0.6752
+P.1,South Carolina,0.0255
+AY.2,South Carolina,0.0032
+AY.3,South Carolina,0.0701
+Other lineages,South Carolina,0.0605
+Total Available Sequences,South Carolina,314
+B.1.1.7,Tennessee,0.1709
+B.1.351,Tennessee,
+B.1.617.2,Tennessee,0.5639
+P.1,Tennessee,0.0196
+AY.2,Tennessee,0.002
+AY.3,Tennessee,0.1729
+Other lineages,Tennessee,0.0707
+Total Available Sequences,Tennessee,509
+B.1.1.7,Texas,0.1464
+B.1.351,Texas,0.0003
+B.1.617.2,Texas,0.619
+P.1,Texas,0.0336
+AY.2,Texas,0.0075
+AY.3,Texas,0.0906
+Other lineages,Texas,0.1025
+Total Available Sequences,Texas,"3,189"
+B.1.1.7,Utah,0.0535
+B.1.351,Utah,
+B.1.617.2,Utah,0.8491
+P.1,Utah,0.0314
+AY.2,Utah,0.0189
+AY.3,Utah,
+Other lineages,Utah,0.0472
+Total Available Sequences,Utah,318
+B.1.1.7,Washington,0.18
+B.1.351,Washington,0.0018
+B.1.617.2,Washington,0.6497
+P.1,Washington,0.0711
+AY.2,Washington,0.0061
+AY.3,Washington,0.0158
+Other lineages,Washington,0.0755
+Total Available Sequences,Washington,"1,139"
