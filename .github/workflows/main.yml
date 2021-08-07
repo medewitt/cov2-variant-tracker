@@ -34,6 +34,7 @@ jobs:
         if: runner.os == 'Linux'
         env:
           RHUB_PLATFORM: linux-x86_64-ubuntu-gcc
+          GITHUB_PAT: ${{secrets.PAT}}
         run: |
           Rscript -e "remotes::install_github('r-hub/sysreqs')"
           Rscript -e "install.packages('stringi', type='source')"
