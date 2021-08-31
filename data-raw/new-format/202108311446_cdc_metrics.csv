@@ -1,0 +1,273 @@
+Measure Names,State,Measure Values
+B.1.1.7,Alabama,0.038
+B.1.351,Alabama,
+B.1.617.2,Alabama,0.9422
+AY.1,Alabama,
+AY.2,Alabama,0.0015
+P.1,Alabama,0.0099
+Other lineages,Alabama,0.0084
+Total Available Sequences,Alabama,"1,316"
+B.1.1.7,Arizona,0.0229
+B.1.351,Arizona,
+B.1.617.2,Arizona,0.8932
+AY.1,Arizona,
+AY.2,Arizona,0.0095
+P.1,Arizona,0.0353
+Other lineages,Arizona,0.0391
+Total Available Sequences,Arizona,"1,049"
+B.1.1.7,Arkansas,0.0274
+B.1.351,Arkansas,
+B.1.617.2,Arkansas,0.9649
+AY.1,Arkansas,
+AY.2,Arkansas,
+P.1,Arkansas,0.003
+Other lineages,Arkansas,0.0046
+Total Available Sequences,Arkansas,656
+B.1.1.7,California,0.0208
+B.1.351,California,0
+B.1.617.2,California,0.9168
+AY.1,California,0.0053
+AY.2,California,0.0152
+P.1,California,0.0147
+Other lineages,California,0.0271
+Total Available Sequences,California,"22,309"
+B.1.1.7,Colorado,0.0322
+B.1.351,Colorado,
+B.1.617.2,Colorado,0.9333
+AY.1,Colorado,
+AY.2,Colorado,0.0042
+P.1,Colorado,0.0084
+Other lineages,Colorado,0.0219
+Total Available Sequences,Colorado,"2,608"
+B.1.1.7,Florida,0.0288
+B.1.351,Florida,0.0002
+B.1.617.2,Florida,0.9102
+AY.1,Florida,0.0001
+AY.2,Florida,0.0021
+P.1,Florida,0.0223
+Other lineages,Florida,0.0363
+Total Available Sequences,Florida,"14,079"
+B.1.1.7,Georgia,0.0328
+B.1.351,Georgia,
+B.1.617.2,Georgia,0.9266
+AY.1,Georgia,
+AY.2,Georgia,0.0055
+P.1,Georgia,0.0119
+Other lineages,Georgia,0.0232
+Total Available Sequences,Georgia,"3,107"
+B.1.1.7,Illinois,0.0217
+B.1.351,Illinois,
+B.1.617.2,Illinois,0.9327
+AY.1,Illinois,0.0007
+AY.2,Illinois,0.0087
+P.1,Illinois,0.0152
+Other lineages,Illinois,0.021
+Total Available Sequences,Illinois,"1,381"
+B.1.1.7,Indiana,0.0143
+B.1.351,Indiana,
+B.1.617.2,Indiana,0.9488
+AY.1,Indiana,
+AY.2,Indiana,0.0041
+P.1,Indiana,0.0143
+Other lineages,Indiana,0.0184
+Total Available Sequences,Indiana,488
+B.1.1.7,Kansas,0.0146
+B.1.351,Kansas,
+B.1.617.2,Kansas,0.9665
+AY.1,Kansas,
+AY.2,Kansas,
+P.1,Kansas,
+Other lineages,Kansas,0.0188
+Total Available Sequences,Kansas,478
+B.1.1.7,Kentucky,0.0503
+B.1.351,Kentucky,
+B.1.617.2,Kentucky,0.8774
+AY.1,Kentucky,
+AY.2,Kentucky,0.0031
+P.1,Kentucky,0.0346
+Other lineages,Kentucky,0.0346
+Total Available Sequences,Kentucky,318
+B.1.1.7,Louisiana,0.0572
+B.1.351,Louisiana,
+B.1.617.2,Louisiana,0.9247
+AY.1,Louisiana,
+AY.2,Louisiana,0.001
+P.1,Louisiana,0.002
+Other lineages,Louisiana,0.0151
+Total Available Sequences,Louisiana,996
+B.1.1.7,Maryland,0.0555
+B.1.351,Maryland,
+B.1.617.2,Maryland,0.8926
+AY.1,Maryland,0.0012
+AY.2,Maryland,0.0072
+P.1,Maryland,0.0205
+Other lineages,Maryland,0.0229
+Total Available Sequences,Maryland,829
+B.1.1.7,Massachusetts,0.0054
+B.1.351,Massachusetts,
+B.1.617.2,Massachusetts,0.9488
+AY.1,Massachusetts,0.0003
+AY.2,Massachusetts,
+P.1,Massachusetts,0.0159
+Other lineages,Massachusetts,0.0296
+Total Available Sequences,Massachusetts,"3,147"
+B.1.1.7,Michigan,0.0386
+B.1.351,Michigan,
+B.1.617.2,Michigan,0.9139
+AY.1,Michigan,
+AY.2,Michigan,0.0089
+P.1,Michigan,0.0059
+Other lineages,Michigan,0.0326
+Total Available Sequences,Michigan,337
+B.1.1.7,Minnesota,0.0136
+B.1.351,Minnesota,
+B.1.617.2,Minnesota,0.9489
+AY.1,Minnesota,
+AY.2,Minnesota,0.0026
+P.1,Minnesota,0.0128
+Other lineages,Minnesota,0.0221
+Total Available Sequences,Minnesota,"1,174"
+B.1.1.7,Mississippi,0.036
+B.1.351,Mississippi,
+B.1.617.2,Mississippi,0.9281
+AY.1,Mississippi,
+AY.2,Mississippi,0.0024
+P.1,Mississippi,0.0024
+Other lineages,Mississippi,0.0312
+Total Available Sequences,Mississippi,417
+B.1.1.7,Missouri,0.0096
+B.1.351,Missouri,
+B.1.617.2,Missouri,0.9732
+AY.1,Missouri,
+AY.2,Missouri,0.0026
+P.1,Missouri,0.0045
+Other lineages,Missouri,0.0102
+Total Available Sequences,Missouri,"1,566"
+B.1.1.7,Nevada,0.0253
+B.1.351,Nevada,
+B.1.617.2,Nevada,0.8963
+AY.1,Nevada,0.0005
+AY.2,Nevada,0.0421
+P.1,Nevada,0.0084
+Other lineages,Nevada,0.0274
+Total Available Sequences,Nevada,"1,900"
+B.1.1.7,New Jersey,0.0181
+B.1.351,New Jersey,
+B.1.617.2,New Jersey,0.9337
+AY.1,New Jersey,0.0021
+AY.2,New Jersey,0.0004
+P.1,New Jersey,0.0124
+Other lineages,New Jersey,0.0333
+Total Available Sequences,New Jersey,"2,429"
+B.1.1.7,New York,0.0104
+B.1.351,New York,
+B.1.617.2,New York,0.9193
+AY.1,New York,0.0017
+AY.2,New York,0.0017
+P.1,New York,0.0145
+Other lineages,New York,0.0522
+Total Available Sequences,New York,"1,723"
+B.1.1.7,North Carolina,0.0292
+B.1.351,North Carolina,0.0003
+B.1.617.2,North Carolina,0.9381
+AY.1,North Carolina,0.0005
+AY.2,North Carolina,
+P.1,North Carolina,0.0076
+Other lineages,North Carolina,0.0243
+Total Available Sequences,North Carolina,"3,943"
+B.1.1.7,Ohio,0.0423
+B.1.351,Ohio,
+B.1.617.2,Ohio,0.9045
+AY.1,Ohio,
+AY.2,Ohio,0.0031
+P.1,Ohio,0.0141
+Other lineages,Ohio,0.036
+Total Available Sequences,Ohio,639
+B.1.1.7,Oklahoma,0.009
+B.1.351,Oklahoma,
+B.1.617.2,Oklahoma,0.964
+AY.1,Oklahoma,
+AY.2,Oklahoma,
+P.1,Oklahoma,
+Other lineages,Oklahoma,0.027
+Total Available Sequences,Oklahoma,333
+B.1.1.7,Oregon,0.1044
+B.1.351,Oregon,
+B.1.617.2,Oregon,0.8279
+AY.1,Oregon,
+AY.2,Oregon,0.0213
+P.1,Oregon,0.0213
+Other lineages,Oregon,0.0251
+Total Available Sequences,Oregon,517
+B.1.1.7,Pennsylvania,0.0335
+B.1.351,Pennsylvania,
+B.1.617.2,Pennsylvania,0.9229
+AY.1,Pennsylvania,
+AY.2,Pennsylvania,0.0017
+P.1,Pennsylvania,0.0168
+Other lineages,Pennsylvania,0.0251
+Total Available Sequences,Pennsylvania,597
+B.1.1.7,Rhode Island,0.0147
+B.1.351,Rhode Island,
+B.1.617.2,Rhode Island,0.9443
+AY.1,Rhode Island,
+AY.2,Rhode Island,
+P.1,Rhode Island,0.0059
+Other lineages,Rhode Island,0.0352
+Total Available Sequences,Rhode Island,341
+B.1.1.7,South Carolina,0.0409
+B.1.351,South Carolina,
+B.1.617.2,South Carolina,0.9355
+AY.1,South Carolina,0.0012
+AY.2,South Carolina,0.005
+P.1,South Carolina,0.0037
+Other lineages,South Carolina,0.0136
+Total Available Sequences,South Carolina,806
+B.1.1.7,Tennessee,0.0441
+B.1.351,Tennessee,
+B.1.617.2,Tennessee,0.9228
+AY.1,Tennessee,0.0006
+AY.2,Tennessee,0.0075
+P.1,Tennessee,0.0046
+Other lineages,Tennessee,0.0203
+Total Available Sequences,Tennessee,"1,723"
+B.1.1.7,Texas,0.0351
+B.1.351,Texas,0.0001
+B.1.617.2,Texas,0.893
+AY.1,Texas,
+AY.2,Texas,0.0069
+P.1,Texas,0.016
+Other lineages,Texas,0.0488
+Total Available Sequences,Texas,"6,923"
+B.1.1.7,Utah,0.0198
+B.1.351,Utah,
+B.1.617.2,Utah,0.9357
+AY.1,Utah,
+AY.2,Utah,0.0082
+P.1,Utah,0.0066
+Other lineages,Utah,0.0297
+Total Available Sequences,Utah,607
+B.1.1.7,Virginia,0.0231
+B.1.351,Virginia,
+B.1.617.2,Virginia,0.9328
+AY.1,Virginia,0.001
+AY.2,Virginia,0.0021
+P.1,Virginia,0.0178
+Other lineages,Virginia,0.0231
+Total Available Sequences,Virginia,953
+B.1.1.7,Washington,0.0348
+B.1.351,Washington,
+B.1.617.2,Washington,0.9018
+AY.1,Washington,0.0048
+AY.2,Washington,0.0035
+P.1,Washington,0.0269
+Other lineages,Washington,0.0282
+Total Available Sequences,Washington,"2,301"
+B.1.1.7,Wisconsin,0.0078
+B.1.351,Wisconsin,
+B.1.617.2,Wisconsin,0.9495
+AY.1,Wisconsin,
+AY.2,Wisconsin,0.0039
+P.1,Wisconsin,0.0039
+Other lineages,Wisconsin,0.035
+Total Available Sequences,Wisconsin,515
