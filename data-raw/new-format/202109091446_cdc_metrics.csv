@@ -1,0 +1,281 @@
+Measure Names,State,Measure Values
+B.1.1.7,Alabama,0.0154
+B.1.351,Alabama,
+B.1.617.2,Alabama,0.9507
+P.1,Alabama,0.0046
+AY.2,Alabama,0.0012
+Other,Alabama,0.0274
+Total available sequences,Alabama,"2,595"
+B.1.1.7,Arizona,0.007
+B.1.351,Arizona,
+B.1.617.2,Arizona,0.9412
+P.1,Arizona,0.0109
+AY.2,Arizona,0.0026
+Other,Arizona,0.0377
+Total available sequences,Arizona,"1,565"
+B.1.1.7,Arkansas,0.0054
+B.1.351,Arkansas,
+B.1.617.2,Arkansas,0.9678
+P.1,Arkansas,0.0013
+AY.2,Arkansas,0.0027
+Other,Arkansas,0.0228
+Total available sequences,Arkansas,745
+B.1.1.7,California,0.0069
+B.1.351,California,0
+B.1.617.2,California,0.9498
+P.1,California,0.0058
+AY.2,California,0.0093
+Other,California,0.0223
+Total available sequences,California,"34,991"
+B.1.1.7,Colorado,0.0109
+B.1.351,Colorado,0.0006
+B.1.617.2,Colorado,0.9639
+P.1,Colorado,0.0021
+AY.2,Colorado,0.0043
+Other,Colorado,0.0173
+Total available sequences,Colorado,"3,294"
+B.1.1.7,Connecticut,0.0109
+B.1.351,Connecticut,
+B.1.617.2,Connecticut,0.9625
+P.1,Connecticut,0.0063
+AY.2,Connecticut,0.0016
+Other,Connecticut,0.0188
+Total available sequences,Connecticut,640
+B.1.1.7,District of Columbia,0.0026
+B.1.351,District of Columbia,
+B.1.617.2,District of Columbia,0.9895
+P.1,District of Columbia,
+AY.2,District of Columbia,
+Other,District of Columbia,0.0079
+Total available sequences,District of Columbia,382
+B.1.1.7,Florida,0.0127
+B.1.351,Florida,0.0001
+B.1.617.2,Florida,0.9256
+P.1,Florida,0.0105
+AY.2,Florida,0.0015
+Other,Florida,0.0497
+Total available sequences,Florida,"19,294"
+B.1.1.7,Georgia,0.0087
+B.1.351,Georgia,
+B.1.617.2,Georgia,0.9578
+P.1,Georgia,0.0043
+AY.2,Georgia,0.0025
+Other,Georgia,0.0266
+Total available sequences,Georgia,"6,084"
+B.1.1.7,Illinois,0.0079
+B.1.351,Illinois,
+B.1.617.2,Illinois,0.9554
+P.1,Illinois,0.0026
+AY.2,Illinois,0.0071
+Other,Illinois,0.026
+Total available sequences,Illinois,"2,266"
+B.1.1.7,Indiana,0.0083
+B.1.351,Indiana,
+B.1.617.2,Indiana,0.9667
+P.1,Indiana,0.0059
+AY.2,Indiana,0.0024
+Other,Indiana,0.0166
+Total available sequences,Indiana,842
+B.1.1.7,Kansas,0.0019
+B.1.351,Kansas,
+B.1.617.2,Kansas,0.9776
+P.1,Kansas,
+AY.2,Kansas,
+Other,Kansas,0.0206
+Total available sequences,Kansas,535
+B.1.1.7,Kentucky,0.0144
+B.1.351,Kentucky,
+B.1.617.2,Kentucky,0.9444
+P.1,Kentucky,0.0072
+AY.2,Kentucky,0.0021
+Other,Kentucky,0.0309
+Total available sequences,Kentucky,972
+B.1.1.7,Louisiana,0.0285
+B.1.351,Louisiana,
+B.1.617.2,Louisiana,0.9228
+P.1,Louisiana,0.0013
+AY.2,Louisiana,0.0006
+Other,Louisiana,0.0467
+Total available sequences,Louisiana,"1,542"
+B.1.1.7,Maryland,0.0082
+B.1.351,Maryland,
+B.1.617.2,Maryland,0.959
+P.1,Maryland,0.0082
+AY.2,Maryland,0.0023
+Other,Maryland,0.0211
+Total available sequences,Maryland,"1,708"
+B.1.1.7,Massachusetts,0.0012
+B.1.351,Massachusetts,
+B.1.617.2,Massachusetts,0.967
+P.1,Massachusetts,0.0082
+AY.2,Massachusetts,0.0003
+Other,Massachusetts,0.0216
+Total available sequences,Massachusetts,"6,574"
+B.1.1.7,Michigan,0.0037
+B.1.351,Michigan,
+B.1.617.2,Michigan,0.9666
+P.1,Michigan,0.0056
+AY.2,Michigan,0.0037
+Other,Michigan,0.0204
+Total available sequences,Michigan,539
+B.1.1.7,Minnesota,0.0018
+B.1.351,Minnesota,
+B.1.617.2,Minnesota,0.9742
+P.1,Minnesota,0.0037
+AY.2,Minnesota,0.0018
+Other,Minnesota,0.0184
+Total available sequences,Minnesota,"2,717"
+B.1.1.7,Mississippi,0.0067
+B.1.351,Mississippi,
+B.1.617.2,Mississippi,0.9528
+P.1,Mississippi,0.0027
+AY.2,Mississippi,
+Other,Mississippi,0.0377
+Total available sequences,Mississippi,742
+B.1.1.7,Missouri,0.0053
+B.1.351,Missouri,
+B.1.617.2,Missouri,0.9647
+P.1,Missouri,0.0038
+AY.2,Missouri,
+Other,Missouri,0.0263
+Total available sequences,Missouri,"1,333"
+B.1.1.7,Nevada,0.0068
+B.1.351,Nevada,
+B.1.617.2,Nevada,0.9445
+P.1,Nevada,0.0014
+AY.2,Nevada,0.0205
+Other,Nevada,0.0247
+Total available sequences,Nevada,"1,460"
+B.1.1.7,New Jersey,0.0065
+B.1.351,New Jersey,
+B.1.617.2,New Jersey,0.9632
+P.1,New Jersey,0.0032
+AY.2,New Jersey,0.0011
+Other,New Jersey,0.0242
+Total available sequences,New Jersey,"3,719"
+B.1.1.7,New Mexico,0.0077
+B.1.351,New Mexico,
+B.1.617.2,New Mexico,0.9497
+P.1,New Mexico,0.0058
+AY.2,New Mexico,
+Other,New Mexico,0.0368
+Total available sequences,New Mexico,517
+B.1.1.7,New York,0.0035
+B.1.351,New York,
+B.1.617.2,New York,0.9689
+P.1,New York,0.0041
+AY.2,New York,0.0009
+Other,New York,0.0185
+Total available sequences,New York,"3,181"
+B.1.1.7,North Carolina,0.0075
+B.1.351,North Carolina,
+B.1.617.2,North Carolina,0.9726
+P.1,North Carolina,0.0032
+AY.2,North Carolina,0.0003
+Other,North Carolina,0.016
+Total available sequences,North Carolina,"7,420"
+B.1.1.7,Ohio,0.0132
+B.1.351,Ohio,
+B.1.617.2,Ohio,0.9492
+P.1,Ohio,0.0066
+AY.2,Ohio,0.0019
+Other,Ohio,0.0292
+Total available sequences,Ohio,"1,063"
+B.1.1.7,Oklahoma,
+B.1.351,Oklahoma,
+B.1.617.2,Oklahoma,0.9417
+P.1,Oklahoma,
+AY.2,Oklahoma,
+Other,Oklahoma,0.0583
+Total available sequences,Oklahoma,429
+B.1.1.7,Oregon,0.026
+B.1.351,Oregon,
+B.1.617.2,Oregon,0.9314
+P.1,Oregon,0.0102
+AY.2,Oregon,0.0102
+Other,Oregon,0.0221
+Total available sequences,Oregon,"1,269"
+B.1.1.7,Pennsylvania,0.006
+B.1.351,Pennsylvania,
+B.1.617.2,Pennsylvania,0.9783
+P.1,Pennsylvania,0.0037
+AY.2,Pennsylvania,0.0007
+Other,Pennsylvania,0.0105
+Total available sequences,Pennsylvania,"1,337"
+B.1.1.7,Puerto Rico,0.0066
+B.1.351,Puerto Rico,
+B.1.617.2,Puerto Rico,0.9502
+P.1,Puerto Rico,0.0033
+AY.2,Puerto Rico,0.0033
+Other,Puerto Rico,0.0365
+Total available sequences,Puerto Rico,301
+B.1.1.7,Rhode Island,0.0027
+B.1.351,Rhode Island,
+B.1.617.2,Rhode Island,0.9698
+P.1,Rhode Island,0.0014
+AY.2,Rhode Island,
+Other,Rhode Island,0.0261
+Total available sequences,Rhode Island,728
+B.1.1.7,South Carolina,0.01
+B.1.351,South Carolina,
+B.1.617.2,South Carolina,0.9638
+P.1,South Carolina,
+AY.2,South Carolina,0.0031
+Other,South Carolina,0.0231
+Total available sequences,South Carolina,"1,604"
+B.1.1.7,Tennessee,0.0104
+B.1.351,Tennessee,
+B.1.617.2,Tennessee,0.9443
+P.1,Tennessee,0.0023
+AY.2,Tennessee,0.0047
+Other,Tennessee,0.0376
+Total available sequences,Tennessee,"2,980"
+B.1.1.7,Texas,0.0118
+B.1.351,Texas,
+B.1.617.2,Texas,0.9359
+P.1,Texas,0.006
+AY.2,Texas,0.0037
+Other,Texas,0.042
+Total available sequences,Texas,"9,927"
+B.1.1.7,Utah,0.0072
+B.1.351,Utah,
+B.1.617.2,Utah,0.9465
+P.1,Utah,0.0029
+AY.2,Utah,0.0029
+Other,Utah,0.0405
+Total available sequences,Utah,692
+B.1.1.7,Vermont,0.0034
+B.1.351,Vermont,
+B.1.617.2,Vermont,0.9866
+P.1,Vermont,0.0017
+AY.2,Vermont,
+Other,Vermont,0.0084
+Total available sequences,Vermont,597
+B.1.1.7,Virginia,0.0064
+B.1.351,Virginia,
+B.1.617.2,Virginia,0.9732
+P.1,Virginia,0.002
+AY.2,Virginia,0.003
+Other,Virginia,0.0144
+Total available sequences,Virginia,"2,016"
+B.1.1.7,Washington,0.0088
+B.1.351,Washington,
+B.1.617.2,Washington,0.9638
+P.1,Washington,0.0066
+AY.2,Washington,0.0058
+Other,Washington,0.0138
+Total available sequences,Washington,"3,618"
+B.1.1.7,West Virginia,0.0114
+B.1.351,West Virginia,
+B.1.617.2,West Virginia,0.9658
+P.1,West Virginia,0.0091
+AY.2,West Virginia,0.0023
+Other,West Virginia,0.0114
+Total available sequences,West Virginia,438
+B.1.1.7,Wisconsin,0.0008
+B.1.351,Wisconsin,
+B.1.617.2,Wisconsin,0.9707
+P.1,Wisconsin,0.0025
+AY.2,Wisconsin,0.0017
+Other,Wisconsin,0.0243
+Total available sequences,Wisconsin,"1,194"
