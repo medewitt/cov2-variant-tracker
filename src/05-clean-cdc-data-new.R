@@ -73,4 +73,4 @@ combined_out <- rbind(dat_ratio,dat_raw)
 #   geom_line()+
 #   theme_bw()
 
-data.table::fwrite(dat_ratio, here::here("data", "cdc-nc-data.csv"))
+data.table::fwrite(combined_out, here::here("data", "cdc-nc-data.csv"))
