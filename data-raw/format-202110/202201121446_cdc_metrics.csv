@@ -1,0 +1,2656 @@
+Measure Names,State/Jurisdiction,Variant,Measure Values,Total Sequences 
+Share,Alabama,AY.1,0,297
+Share Low,Alabama,AY.1,0,297
+Share High,Alabama,AY.1,0,297
+Share,Alabama,AY.2,0,297
+Share Low,Alabama,AY.2,0,297
+Share High,Alabama,AY.2,0,297
+Share,Alabama,B.1.1.7,0,297
+Share Low,Alabama,B.1.1.7,0,297
+Share High,Alabama,B.1.1.7,0,297
+Share,Alabama,B.1.1.529,0.077120595,297
+Share Low,Alabama,B.1.1.529,0.024439432,297
+Share High,Alabama,B.1.1.529,0.174568579,297
+Share,Alabama,B.1.351,0,297
+Share Low,Alabama,B.1.351,0,297
+Share High,Alabama,B.1.351,0,297
+Share,Alabama,B.1.427/429,0,297
+Share Low,Alabama,B.1.427/429,0,297
+Share High,Alabama,B.1.427/429,0,297
+Share,Alabama,B.1.525,0,297
+Share Low,Alabama,B.1.525,0,297
+Share High,Alabama,B.1.525,0,297
+Share,Alabama,B.1.526,0,297
+Share Low,Alabama,B.1.526,0,297
+Share High,Alabama,B.1.526,0,297
+Share,Alabama,B.1.617.1,0,297
+Share Low,Alabama,B.1.617.1,0,297
+Share High,Alabama,B.1.617.1,0,297
+Share,Alabama,B.1.617.2,0.922879398,297
+Share Low,Alabama,B.1.617.2,0.825431406,297
+Share High,Alabama,B.1.617.2,0.975560546,297
+Share,Alabama,B.1.617.3,0,297
+Share Low,Alabama,B.1.617.3,0,297
+Share High,Alabama,B.1.617.3,0,297
+Share,Alabama,B.1.621,0,297
+Share Low,Alabama,B.1.621,0,297
+Share High,Alabama,B.1.621,0,297
+Share,Alabama,Other,0,297
+Share Low,Alabama,Other,0,297
+Share High,Alabama,Other,0,297
+Share,Alabama,P.1,0,297
+Share Low,Alabama,P.1,0,297
+Share High,Alabama,P.1,0,297
+Share,Alabama,P.2,0,297
+Share Low,Alabama,P.2,0,297
+Share High,Alabama,P.2,0,297
+Share,Alaska,AY.1,0,447
+Share Low,Alaska,AY.1,0,447
+Share High,Alaska,AY.1,0,447
+Share,Alaska,AY.2,0,447
+Share Low,Alaska,AY.2,0,447
+Share High,Alaska,AY.2,0,447
+Share,Alaska,B.1.1.7,0,447
+Share Low,Alaska,B.1.1.7,0,447
+Share High,Alaska,B.1.1.7,0,447
+Share,Alaska,B.1.1.529,0.028000223,447
+Share Low,Alaska,B.1.1.529,0.000220491,447
+Share High,Alaska,B.1.1.529,0.179351255,447
+Share,Alaska,B.1.351,0,447
+Share Low,Alaska,B.1.351,0,447
+Share High,Alaska,B.1.351,0,447
+Share,Alaska,B.1.427/429,0,447
+Share Low,Alaska,B.1.427/429,0,447
+Share High,Alaska,B.1.427/429,0,447
+Share,Alaska,B.1.525,0,447
+Share Low,Alaska,B.1.525,0,447
+Share High,Alaska,B.1.525,0,447
+Share,Alaska,B.1.526,0,447
+Share Low,Alaska,B.1.526,0,447
+Share High,Alaska,B.1.526,0,447
+Share,Alaska,B.1.617.1,0,447
+Share Low,Alaska,B.1.617.1,0,447
+Share High,Alaska,B.1.617.1,0,447
+Share,Alaska,B.1.617.2,0.971999764,447
+Share Low,Alaska,B.1.617.2,0.820648730,447
+Share High,Alaska,B.1.617.2,0.999779522,447
+Share,Alaska,B.1.617.3,0,447
+Share Low,Alaska,B.1.617.3,0,447
+Share High,Alaska,B.1.617.3,0,447
+Share,Alaska,B.1.621,0,447
+Share Low,Alaska,B.1.621,0,447
+Share High,Alaska,B.1.621,0,447
+Share,Alaska,Other,0,447
+Share Low,Alaska,Other,0,447
+Share High,Alaska,Other,0,447
+Share,Alaska,P.1,0,447
+Share Low,Alaska,P.1,0,447
+Share High,Alaska,P.1,0,447
+Share,Alaska,P.2,0,447
+Share Low,Alaska,P.2,0,447
+Share High,Alaska,P.2,0,447
+Share,American Samoa,AY.1,0,1
+Share Low,American Samoa,AY.1,0,1
+Share High,American Samoa,AY.1,0,1
+Share,American Samoa,AY.2,0,1
+Share Low,American Samoa,AY.2,0,1
+Share High,American Samoa,AY.2,0,1
+Share,American Samoa,B.1.1.7,0,1
+Share Low,American Samoa,B.1.1.7,0,1
+Share High,American Samoa,B.1.1.7,0,1
+Share,American Samoa,B.1.1.529,0,1
+Share Low,American Samoa,B.1.1.529,0,1
+Share High,American Samoa,B.1.1.529,0,1
+Share,American Samoa,B.1.351,0,1
+Share Low,American Samoa,B.1.351,0,1
+Share High,American Samoa,B.1.351,0,1
+Share,American Samoa,B.1.427/429,0,1
+Share Low,American Samoa,B.1.427/429,0,1
+Share High,American Samoa,B.1.427/429,0,1
+Share,American Samoa,B.1.525,0,1
+Share Low,American Samoa,B.1.525,0,1
+Share High,American Samoa,B.1.525,0,1
+Share,American Samoa,B.1.526,0,1
+Share Low,American Samoa,B.1.526,0,1
+Share High,American Samoa,B.1.526,0,1
+Share,American Samoa,B.1.617.1,0,1
+Share Low,American Samoa,B.1.617.1,0,1
+Share High,American Samoa,B.1.617.1,0,1
+Share,American Samoa,B.1.617.2,1,1
+Share Low,American Samoa,B.1.617.2,0,1
+Share High,American Samoa,B.1.617.2,0,1
+Share,American Samoa,B.1.617.3,0,1
+Share Low,American Samoa,B.1.617.3,0,1
+Share High,American Samoa,B.1.617.3,0,1
+Share,American Samoa,B.1.621,0,1
+Share Low,American Samoa,B.1.621,0,1
+Share High,American Samoa,B.1.621,0,1
+Share,American Samoa,Other,0,1
+Share Low,American Samoa,Other,0,1
+Share High,American Samoa,Other,0,1
+Share,American Samoa,P.1,0,1
+Share Low,American Samoa,P.1,0,1
+Share High,American Samoa,P.1,0,1
+Share,American Samoa,P.2,0,1
+Share Low,American Samoa,P.2,0,1
+Share High,American Samoa,P.2,0,1
+Share,Arizona,AY.1,0.000252965,"3,413"
+Share Low,Arizona,AY.1,3.876184110e-06,"3,413"
+Share High,Arizona,AY.1,0.001561427,"3,413"
+Share,Arizona,AY.2,0,"3,413"
+Share Low,Arizona,AY.2,0,"3,413"
+Share High,Arizona,AY.2,0,"3,413"
+Share,Arizona,B.1.1.7,0,"3,413"
+Share Low,Arizona,B.1.1.7,0,"3,413"
+Share High,Arizona,B.1.1.7,0,"3,413"
+Share,Arizona,B.1.1.529,0.023800913,"3,413"
+Share Low,Arizona,B.1.1.529,0.006690215,"3,413"
+Share High,Arizona,B.1.1.529,0.059068978,"3,413"
+Share,Arizona,B.1.351,0,"3,413"
+Share Low,Arizona,B.1.351,0,"3,413"
+Share High,Arizona,B.1.351,0,"3,413"
+Share,Arizona,B.1.427/429,0,"3,413"
+Share Low,Arizona,B.1.427/429,0,"3,413"
+Share High,Arizona,B.1.427/429,0,"3,413"
+Share,Arizona,B.1.525,0,"3,413"
+Share Low,Arizona,B.1.525,0,"3,413"
+Share High,Arizona,B.1.525,0,"3,413"
+Share,Arizona,B.1.526,0,"3,413"
+Share Low,Arizona,B.1.526,0,"3,413"
+Share High,Arizona,B.1.526,0,"3,413"
+Share,Arizona,B.1.617.1,0,"3,413"
+Share Low,Arizona,B.1.617.1,0,"3,413"
+Share High,Arizona,B.1.617.1,0,"3,413"
+Share,Arizona,B.1.617.2,0.972344816,"3,413"
+Share Low,Arizona,B.1.617.2,0.924230039,"3,413"
+Share High,Arizona,B.1.617.2,0.993738234,"3,413"
+Share,Arizona,B.1.617.3,0,"3,413"
+Share Low,Arizona,B.1.617.3,0,"3,413"
+Share High,Arizona,B.1.617.3,0,"3,413"
+Share,Arizona,B.1.621,0,"3,413"
+Share Low,Arizona,B.1.621,0,"3,413"
+Share High,Arizona,B.1.621,0,"3,413"
+Share,Arizona,Other,0.003601324,"3,413"
+Share Low,Arizona,Other,7.576546341e-05,"3,413"
+Share High,Arizona,Other,0.020692972,"3,413"
+Share,Arizona,P.1,0,"3,413"
+Share Low,Arizona,P.1,0,"3,413"
+Share High,Arizona,P.1,0,"3,413"
+Share,Arizona,P.2,0,"3,413"
+Share Low,Arizona,P.2,0,"3,413"
+Share High,Arizona,P.2,0,"3,413"
+Share,Arkansas,AY.1,0.002558134,327
+Share Low,Arkansas,AY.1,2.310859782e-05,327
+Share High,Arkansas,AY.1,0.017272770,327
+Share,Arkansas,AY.2,0,327
+Share Low,Arkansas,AY.2,0,327
+Share High,Arkansas,AY.2,0,327
+Share,Arkansas,B.1.1.7,0,327
+Share Low,Arkansas,B.1.1.7,0,327
+Share High,Arkansas,B.1.1.7,0,327
+Share,Arkansas,B.1.1.529,0.058757354,327
+Share Low,Arkansas,B.1.1.529,0.003906828,327
+Share High,Arkansas,B.1.1.529,0.233388111,327
+Share,Arkansas,B.1.351,0,327
+Share Low,Arkansas,B.1.351,0,327
+Share High,Arkansas,B.1.351,0,327
+Share,Arkansas,B.1.427/429,0,327
+Share Low,Arkansas,B.1.427/429,0,327
+Share High,Arkansas,B.1.427/429,0,327
+Share,Arkansas,B.1.525,0,327
+Share Low,Arkansas,B.1.525,0,327
+Share High,Arkansas,B.1.525,0,327
+Share,Arkansas,B.1.526,0,327
+Share Low,Arkansas,B.1.526,0,327
+Share High,Arkansas,B.1.526,0,327
+Share,Arkansas,B.1.617.1,0,327
+Share Low,Arkansas,B.1.617.1,0,327
+Share High,Arkansas,B.1.617.1,0,327
+Share,Arkansas,B.1.617.2,0.938684523,327
+Share Low,Arkansas,B.1.617.2,0.778837144,327
+Share High,Arkansas,B.1.617.2,0.994223952,327
+Share,Arkansas,B.1.617.3,0,327
+Share Low,Arkansas,B.1.617.3,0,327
+Share High,Arkansas,B.1.617.3,0,327
+Share,Arkansas,B.1.621,0,327
+Share Low,Arkansas,B.1.621,0,327
+Share High,Arkansas,B.1.621,0,327
+Share,Arkansas,Other,0,327
+Share Low,Arkansas,Other,0,327
+Share High,Arkansas,Other,0,327
+Share,Arkansas,P.1,0,327
+Share Low,Arkansas,P.1,0,327
+Share High,Arkansas,P.1,0,327
+Share,Arkansas,P.2,0,327
+Share Low,Arkansas,P.2,0,327
+Share High,Arkansas,P.2,0,327
+Share,California,AY.1,0.001023336,"21,161"
+Share Low,California,AY.1,0.000638770,"21,161"
+Share High,California,AY.1,0.001553954,"21,161"
+Share,California,AY.2,0,"21,161"
+Share Low,California,AY.2,0,"21,161"
+Share High,California,AY.2,0,"21,161"
+Share,California,B.1.1.7,0,"21,161"
+Share Low,California,B.1.1.7,0,"21,161"
+Share High,California,B.1.1.7,0,"21,161"
+Share,California,B.1.1.529,0.152404025,"21,161"
+Share Low,California,B.1.1.529,0.122097827,"21,161"
+Share High,California,B.1.1.529,0.186869860,"21,161"
+Share,California,B.1.351,0,"21,161"
+Share Low,California,B.1.351,0,"21,161"
+Share High,California,B.1.351,0,"21,161"
+Share,California,B.1.427/429,0,"21,161"
+Share Low,California,B.1.427/429,0,"21,161"
+Share High,California,B.1.427/429,0,"21,161"
+Share,California,B.1.525,0,"21,161"
+Share Low,California,B.1.525,0,"21,161"
+Share High,California,B.1.525,0,"21,161"
+Share,California,B.1.526,0,"21,161"
+Share Low,California,B.1.526,0,"21,161"
+Share High,California,B.1.526,0,"21,161"
+Share,California,B.1.617.1,0,"21,161"
+Share Low,California,B.1.617.1,0,"21,161"
+Share High,California,B.1.617.1,0,"21,161"
+Share,California,B.1.617.2,0.844750881,"21,161"
+Share Low,California,B.1.617.2,0.814026177,"21,161"
+Share High,California,B.1.617.2,0.872190177,"21,161"
+Share,California,B.1.617.3,0,"21,161"
+Share Low,California,B.1.617.3,0,"21,161"
+Share High,California,B.1.617.3,0,"21,161"
+Share,California,B.1.621,0,"21,161"
+Share Low,California,B.1.621,0,"21,161"
+Share High,California,B.1.621,0,"21,161"
+Share,California,Other,0.001821770,"21,161"
+Share Low,California,Other,1.645690463e-05,"21,161"
+Share High,California,Other,0.012327275,"21,161"
+Share,California,P.1,0,"21,161"
+Share Low,California,P.1,0,"21,161"
+Share High,California,P.1,0,"21,161"
+Share,California,P.2,0,"21,161"
+Share Low,California,P.2,0,"21,161"
+Share High,California,P.2,0,"21,161"
+Share,Colorado,AY.1,0.000116783,"7,577"
+Share Low,Colorado,AY.1,1.957327186e-06,"7,577"
+Share High,Colorado,AY.1,0.000708583,"7,577"
+Share,Colorado,AY.2,0,"7,577"
+Share Low,Colorado,AY.2,0,"7,577"
+Share High,Colorado,AY.2,0,"7,577"
+Share,Colorado,B.1.1.7,0.000163451,"7,577"
+Share Low,Colorado,B.1.1.7,7.577220913e-06,"7,577"
+Share High,Colorado,B.1.1.7,0.000788957,"7,577"
+Share,Colorado,B.1.1.529,0.144577354,"7,577"
+Share Low,Colorado,B.1.1.529,0.103371456,"7,577"
+Share High,Colorado,B.1.1.529,0.194478139,"7,577"
+Share,Colorado,B.1.351,0,"7,577"
+Share Low,Colorado,B.1.351,0,"7,577"
+Share High,Colorado,B.1.351,0,"7,577"
+Share,Colorado,B.1.427/429,0,"7,577"
+Share Low,Colorado,B.1.427/429,0,"7,577"
+Share High,Colorado,B.1.427/429,0,"7,577"
+Share,Colorado,B.1.525,0,"7,577"
+Share Low,Colorado,B.1.525,0,"7,577"
+Share High,Colorado,B.1.525,0,"7,577"
+Share,Colorado,B.1.526,0,"7,577"
+Share Low,Colorado,B.1.526,0,"7,577"
+Share High,Colorado,B.1.526,0,"7,577"
+Share,Colorado,B.1.617.1,0,"7,577"
+Share Low,Colorado,B.1.617.1,0,"7,577"
+Share High,Colorado,B.1.617.1,0,"7,577"
+Share,Colorado,B.1.617.2,0.853512645,"7,577"
+Share Low,Colorado,B.1.617.2,0.806932569,"7,577"
+Share High,Colorado,B.1.617.2,0.892524183,"7,577"
+Share,Colorado,B.1.617.3,0,"7,577"
+Share Low,Colorado,B.1.617.3,0,"7,577"
+Share High,Colorado,B.1.617.3,0,"7,577"
+Share,Colorado,B.1.621,0,"7,577"
+Share Low,Colorado,B.1.621,0,"7,577"
+Share High,Colorado,B.1.621,0,"7,577"
+Share,Colorado,Other,0.001629744,"7,577"
+Share Low,Colorado,Other,5.305215382e-06,"7,577"
+Share High,Colorado,Other,0.012943722,"7,577"
+Share,Colorado,P.1,0,"7,577"
+Share Low,Colorado,P.1,0,"7,577"
+Share High,Colorado,P.1,0,"7,577"
+Share,Colorado,P.2,0,"7,577"
+Share Low,Colorado,P.2,0,"7,577"
+Share High,Colorado,P.2,0,"7,577"
+Share,Commonwealth of the Northern Mariana Islands,AY.1,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,AY.1,0,0
+Share High,Commonwealth of the Northern Mariana Islands,AY.1,0,0
+Share,Commonwealth of the Northern Mariana Islands,AY.2,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,AY.2,0,0
+Share High,Commonwealth of the Northern Mariana Islands,AY.2,0,0
+Share,Commonwealth of the Northern Mariana Islands,B.1.1.7,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,B.1.1.7,0,0
+Share High,Commonwealth of the Northern Mariana Islands,B.1.1.7,0,0
+Share,Commonwealth of the Northern Mariana Islands,B.1.1.529,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,B.1.1.529,0,0
+Share High,Commonwealth of the Northern Mariana Islands,B.1.1.529,0,0
+Share,Commonwealth of the Northern Mariana Islands,B.1.351,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,B.1.351,0,0
+Share High,Commonwealth of the Northern Mariana Islands,B.1.351,0,0
+Share,Commonwealth of the Northern Mariana Islands,B.1.427/429,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,B.1.427/429,0,0
+Share High,Commonwealth of the Northern Mariana Islands,B.1.427/429,0,0
+Share,Commonwealth of the Northern Mariana Islands,B.1.525,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,B.1.525,0,0
+Share High,Commonwealth of the Northern Mariana Islands,B.1.525,0,0
+Share,Commonwealth of the Northern Mariana Islands,B.1.526,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,B.1.526,0,0
+Share High,Commonwealth of the Northern Mariana Islands,B.1.526,0,0
+Share,Commonwealth of the Northern Mariana Islands,B.1.617.1,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,B.1.617.1,0,0
+Share High,Commonwealth of the Northern Mariana Islands,B.1.617.1,0,0
+Share,Commonwealth of the Northern Mariana Islands,B.1.617.2,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,B.1.617.2,0,0
+Share High,Commonwealth of the Northern Mariana Islands,B.1.617.2,0,0
+Share,Commonwealth of the Northern Mariana Islands,B.1.617.3,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,B.1.617.3,0,0
+Share High,Commonwealth of the Northern Mariana Islands,B.1.617.3,0,0
+Share,Commonwealth of the Northern Mariana Islands,B.1.621,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,B.1.621,0,0
+Share High,Commonwealth of the Northern Mariana Islands,B.1.621,0,0
+Share,Commonwealth of the Northern Mariana Islands,Other,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,Other,0,0
+Share High,Commonwealth of the Northern Mariana Islands,Other,0,0
+Share,Commonwealth of the Northern Mariana Islands,P.1,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,P.1,0,0
+Share High,Commonwealth of the Northern Mariana Islands,P.1,0,0
+Share,Commonwealth of the Northern Mariana Islands,P.2,0,0
+Share Low,Commonwealth of the Northern Mariana Islands,P.2,0,0
+Share High,Commonwealth of the Northern Mariana Islands,P.2,0,0
+Share,Connecticut,AY.1,0.001329421,"1,845"
+Share Low,Connecticut,AY.1,9.739989764e-05,"1,845"
+Share High,Connecticut,AY.1,0.005643792,"1,845"
+Share,Connecticut,AY.2,0,"1,845"
+Share Low,Connecticut,AY.2,0,"1,845"
+Share High,Connecticut,AY.2,0,"1,845"
+Share,Connecticut,B.1.1.7,0,"1,845"
+Share Low,Connecticut,B.1.1.7,0,"1,845"
+Share High,Connecticut,B.1.1.7,0,"1,845"
+Share,Connecticut,B.1.1.529,0.068482921,"1,845"
+Share Low,Connecticut,B.1.1.529,0.038158361,"1,845"
+Share High,Connecticut,B.1.1.529,0.111795619,"1,845"
+Share,Connecticut,B.1.351,0,"1,845"
+Share Low,Connecticut,B.1.351,0,"1,845"
+Share High,Connecticut,B.1.351,0,"1,845"
+Share,Connecticut,B.1.427/429,0,"1,845"
+Share Low,Connecticut,B.1.427/429,0,"1,845"
+Share High,Connecticut,B.1.427/429,0,"1,845"
+Share,Connecticut,B.1.525,0,"1,845"
+Share Low,Connecticut,B.1.525,0,"1,845"
+Share High,Connecticut,B.1.525,0,"1,845"
+Share,Connecticut,B.1.526,0,"1,845"
+Share Low,Connecticut,B.1.526,0,"1,845"
+Share High,Connecticut,B.1.526,0,"1,845"
+Share,Connecticut,B.1.617.1,0,"1,845"
+Share Low,Connecticut,B.1.617.1,0,"1,845"
+Share High,Connecticut,B.1.617.1,0,"1,845"
+Share,Connecticut,B.1.617.2,0.924445510,"1,845"
+Share Low,Connecticut,B.1.617.2,0.879238307,"1,845"
+Share High,Connecticut,B.1.617.2,0.956694901,"1,845"
+Share,Connecticut,B.1.617.3,0,"1,845"
+Share Low,Connecticut,B.1.617.3,0,"1,845"
+Share High,Connecticut,B.1.617.3,0,"1,845"
+Share,Connecticut,B.1.621,0,"1,845"
+Share Low,Connecticut,B.1.621,0,"1,845"
+Share High,Connecticut,B.1.621,0,"1,845"
+Share,Connecticut,Other,0.005742155,"1,845"
+Share Low,Connecticut,Other,0.000111099,"1,845"
+Share High,Connecticut,Other,0.033386588,"1,845"
+Share,Connecticut,P.1,0,"1,845"
+Share Low,Connecticut,P.1,0,"1,845"
+Share High,Connecticut,P.1,0,"1,845"
+Share,Connecticut,P.2,0,"1,845"
+Share Low,Connecticut,P.2,0,"1,845"
+Share High,Connecticut,P.2,0,"1,845"
+Share,Delaware,AY.1,0.002098720,367
+Share Low,Delaware,AY.1,2.052989839e-05,367
+Share High,Delaware,AY.1,0.013995674,367
+Share,Delaware,AY.2,0,367
+Share Low,Delaware,AY.2,0,367
+Share High,Delaware,AY.2,0,367
+Share,Delaware,B.1.1.7,0,367
+Share Low,Delaware,B.1.1.7,0,367
+Share High,Delaware,B.1.1.7,0,367
+Share,Delaware,B.1.1.529,0.034390762,367
+Share Low,Delaware,B.1.1.529,0.004710068,367
+Share High,Delaware,B.1.1.529,0.114141397,367
+Share,Delaware,B.1.351,0,367
+Share Low,Delaware,B.1.351,0,367
+Share High,Delaware,B.1.351,0,367
+Share,Delaware,B.1.427/429,0,367
+Share Low,Delaware,B.1.427/429,0,367
+Share High,Delaware,B.1.427/429,0,367
+Share,Delaware,B.1.525,0,367
+Share Low,Delaware,B.1.525,0,367
+Share High,Delaware,B.1.525,0,367
+Share,Delaware,B.1.526,0,367
+Share Low,Delaware,B.1.526,0,367
+Share High,Delaware,B.1.526,0,367
+Share,Delaware,B.1.617.1,0,367
+Share Low,Delaware,B.1.617.1,0,367
+Share High,Delaware,B.1.617.1,0,367
+Share,Delaware,B.1.617.2,0.956725121,367
+Share Low,Delaware,B.1.617.2,0.844135821,367
+Share High,Delaware,B.1.617.2,0.995538712,367
+Share,Delaware,B.1.617.3,0,367
+Share Low,Delaware,B.1.617.3,0,367
+Share High,Delaware,B.1.617.3,0,367
+Share,Delaware,B.1.621,0,367
+Share Low,Delaware,B.1.621,0,367
+Share High,Delaware,B.1.621,0,367
+Share,Delaware,Other,0.006785412,367
+Share Low,Delaware,Other,4.779022674e-06,367
+Share High,Delaware,Other,0.064018711,367
+Share,Delaware,P.1,0,367
+Share Low,Delaware,P.1,0,367
+Share High,Delaware,P.1,0,367
+Share,Delaware,P.2,0,367
+Share Low,Delaware,P.2,0,367
+Share High,Delaware,P.2,0,367
+Share,District of Columbia,AY.1,0,612
+Share Low,District of Columbia,AY.1,0,612
+Share High,District of Columbia,AY.1,0,612
+Share,District of Columbia,AY.2,0,612
+Share Low,District of Columbia,AY.2,0,612
+Share High,District of Columbia,AY.2,0,612
+Share,District of Columbia,B.1.1.7,0,612
+Share Low,District of Columbia,B.1.1.7,0,612
+Share High,District of Columbia,B.1.1.7,0,612
+Share,District of Columbia,B.1.1.529,0.480945647,612
+Share Low,District of Columbia,B.1.1.529,0.440718323,612
+Share High,District of Columbia,B.1.1.529,0.521357656,612
+Share,District of Columbia,B.1.351,0,612
+Share Low,District of Columbia,B.1.351,0,612
+Share High,District of Columbia,B.1.351,0,612
+Share,District of Columbia,B.1.427/429,0,612
+Share Low,District of Columbia,B.1.427/429,0,612
+Share High,District of Columbia,B.1.427/429,0,612
+Share,District of Columbia,B.1.525,0,612
+Share Low,District of Columbia,B.1.525,0,612
+Share High,District of Columbia,B.1.525,0,612
+Share,District of Columbia,B.1.526,0,612
+Share Low,District of Columbia,B.1.526,0,612
+Share High,District of Columbia,B.1.526,0,612
+Share,District of Columbia,B.1.617.1,0,612
+Share Low,District of Columbia,B.1.617.1,0,612
+Share High,District of Columbia,B.1.617.1,0,612
+Share,District of Columbia,B.1.617.2,0.517376840,612
+Share Low,District of Columbia,B.1.617.2,0.476968139,612
+Share High,District of Columbia,B.1.617.2,0.557617128,612
+Share,District of Columbia,B.1.617.3,0,612
+Share Low,District of Columbia,B.1.617.3,0,612
+Share High,District of Columbia,B.1.617.3,0,612
+Share,District of Columbia,B.1.621,0,612
+Share Low,District of Columbia,B.1.621,0,612
+Share High,District of Columbia,B.1.621,0,612
+Share,District of Columbia,Other,0.001677511,612
+Share Low,District of Columbia,Other,5.355673682e-09,612
+Share High,District of Columbia,Other,0.025851345,612
+Share,District of Columbia,P.1,0,612
+Share Low,District of Columbia,P.1,0,612
+Share High,District of Columbia,P.1,0,612
+Share,District of Columbia,P.2,0,612
+Share Low,District of Columbia,P.2,0,612
+Share High,District of Columbia,P.2,0,612
+Share,Federated States of Micronesia,AY.1,,0
+Share Low,Federated States of Micronesia,AY.1,0,0
+Share High,Federated States of Micronesia,AY.1,0,0
+Share,Federated States of Micronesia,AY.2,,0
+Share Low,Federated States of Micronesia,AY.2,0,0
+Share High,Federated States of Micronesia,AY.2,0,0
+Share,Federated States of Micronesia,B.1.1.7,,0
+Share Low,Federated States of Micronesia,B.1.1.7,0,0
+Share High,Federated States of Micronesia,B.1.1.7,0,0
+Share,Federated States of Micronesia,B.1.1.529,,0
+Share Low,Federated States of Micronesia,B.1.1.529,0,0
+Share High,Federated States of Micronesia,B.1.1.529,0,0
+Share,Federated States of Micronesia,B.1.351,,0
+Share Low,Federated States of Micronesia,B.1.351,0,0
+Share High,Federated States of Micronesia,B.1.351,0,0
+Share,Federated States of Micronesia,B.1.427/429,,0
+Share Low,Federated States of Micronesia,B.1.427/429,0,0
+Share High,Federated States of Micronesia,B.1.427/429,0,0
+Share,Federated States of Micronesia,B.1.525,,0
+Share Low,Federated States of Micronesia,B.1.525,0,0
+Share High,Federated States of Micronesia,B.1.525,0,0
+Share,Federated States of Micronesia,B.1.526,,0
+Share Low,Federated States of Micronesia,B.1.526,0,0
+Share High,Federated States of Micronesia,B.1.526,0,0
+Share,Federated States of Micronesia,B.1.617.1,,0
+Share Low,Federated States of Micronesia,B.1.617.1,0,0
+Share High,Federated States of Micronesia,B.1.617.1,0,0
+Share,Federated States of Micronesia,B.1.617.2,,0
+Share Low,Federated States of Micronesia,B.1.617.2,0,0
+Share High,Federated States of Micronesia,B.1.617.2,0,0
+Share,Federated States of Micronesia,B.1.617.3,,0
+Share Low,Federated States of Micronesia,B.1.617.3,0,0
+Share High,Federated States of Micronesia,B.1.617.3,0,0
+Share,Federated States of Micronesia,B.1.621,,0
+Share Low,Federated States of Micronesia,B.1.621,0,0
+Share High,Federated States of Micronesia,B.1.621,0,0
+Share,Federated States of Micronesia,Other,,0
+Share Low,Federated States of Micronesia,Other,0,0
+Share High,Federated States of Micronesia,Other,0,0
+Share,Federated States of Micronesia,P.1,,0
+Share Low,Federated States of Micronesia,P.1,0,0
+Share High,Federated States of Micronesia,P.1,0,0
+Share,Federated States of Micronesia,P.2,,0
+Share Low,Federated States of Micronesia,P.2,0,0
+Share High,Federated States of Micronesia,P.2,0,0
+Share,Florida,AY.1,0.000233069,"3,367"
+Share Low,Florida,AY.1,2.463491683e-06,"3,367"
+Share High,Florida,AY.1,0.001541362,"3,367"
+Share,Florida,AY.2,0,"3,367"
+Share Low,Florida,AY.2,0,"3,367"
+Share High,Florida,AY.2,0,"3,367"
+Share,Florida,B.1.1.7,0,"3,367"
+Share Low,Florida,B.1.1.7,0,"3,367"
+Share High,Florida,B.1.1.7,0,"3,367"
+Share,Florida,B.1.1.529,0.449094355,"3,367"
+Share Low,Florida,B.1.1.529,0.256842464,"3,367"
+Share High,Florida,B.1.1.529,0.653174818,"3,367"
+Share,Florida,B.1.351,0,"3,367"
+Share Low,Florida,B.1.351,0,"3,367"
+Share High,Florida,B.1.351,0,"3,367"
+Share,Florida,B.1.427/429,0,"3,367"
+Share Low,Florida,B.1.427/429,0,"3,367"
+Share High,Florida,B.1.427/429,0,"3,367"
+Share,Florida,B.1.525,0,"3,367"
+Share Low,Florida,B.1.525,0,"3,367"
+Share High,Florida,B.1.525,0,"3,367"
+Share,Florida,B.1.526,0,"3,367"
+Share Low,Florida,B.1.526,0,"3,367"
+Share High,Florida,B.1.526,0,"3,367"
+Share,Florida,B.1.617.1,0,"3,367"
+Share Low,Florida,B.1.617.1,0,"3,367"
+Share High,Florida,B.1.617.1,0,"3,367"
+Share,Florida,B.1.617.2,0.548389077,"3,367"
+Share Low,Florida,B.1.617.2,0.341494679,"3,367"
+Share High,Florida,B.1.617.2,0.743711352,"3,367"
+Share,Florida,B.1.617.3,0,"3,367"
+Share Low,Florida,B.1.617.3,0,"3,367"
+Share High,Florida,B.1.617.3,0,"3,367"
+Share,Florida,B.1.621,0.000219929,"3,367"
+Share Low,Florida,B.1.621,1.819380259e-06,"3,367"
+Share High,Florida,B.1.621,0.001517877,"3,367"
+Share,Florida,Other,0.002063592,"3,367"
+Share Low,Florida,Other,0.000108902,"3,367"
+Share High,Florida,Other,0.009594558,"3,367"
+Share,Florida,P.1,0,"3,367"
+Share Low,Florida,P.1,0,"3,367"
+Share High,Florida,P.1,0,"3,367"
+Share,Florida,P.2,0,"3,367"
+Share Low,Florida,P.2,0,"3,367"
+Share High,Florida,P.2,0,"3,367"
+Share,Georgia,AY.1,0.003928370,"2,287"
+Share Low,Georgia,AY.1,0.000376908,"2,287"
+Share High,Georgia,AY.1,0.015280310,"2,287"
+Share,Georgia,AY.2,0,"2,287"
+Share Low,Georgia,AY.2,0,"2,287"
+Share High,Georgia,AY.2,0,"2,287"
+Share,Georgia,B.1.1.7,0,"2,287"
+Share Low,Georgia,B.1.1.7,0,"2,287"
+Share High,Georgia,B.1.1.7,0,"2,287"
+Share,Georgia,B.1.1.529,0.433479846,"2,287"
+Share Low,Georgia,B.1.1.529,0.168717682,"2,287"
+Share High,Georgia,B.1.1.529,0.729937315,"2,287"
+Share,Georgia,B.1.351,0,"2,287"
+Share Low,Georgia,B.1.351,0,"2,287"
+Share High,Georgia,B.1.351,0,"2,287"
+Share,Georgia,B.1.427/429,0,"2,287"
+Share Low,Georgia,B.1.427/429,0,"2,287"
+Share High,Georgia,B.1.427/429,0,"2,287"
+Share,Georgia,B.1.525,0,"2,287"
+Share Low,Georgia,B.1.525,0,"2,287"
+Share High,Georgia,B.1.525,0,"2,287"
+Share,Georgia,B.1.526,0,"2,287"
+Share Low,Georgia,B.1.526,0,"2,287"
+Share High,Georgia,B.1.526,0,"2,287"
+Share,Georgia,B.1.617.1,0,"2,287"
+Share Low,Georgia,B.1.617.1,0,"2,287"
+Share High,Georgia,B.1.617.1,0,"2,287"
+Share,Georgia,B.1.617.2,0.559966862,"2,287"
+Share Low,Georgia,B.1.617.2,0.268382102,"2,287"
+Share High,Georgia,B.1.617.2,0.823687494,"2,287"
+Share,Georgia,B.1.617.3,0,"2,287"
+Share Low,Georgia,B.1.617.3,0,"2,287"
+Share High,Georgia,B.1.617.3,0,"2,287"
+Share,Georgia,B.1.621,0,"2,287"
+Share Low,Georgia,B.1.621,0,"2,287"
+Share High,Georgia,B.1.621,0,"2,287"
+Share,Georgia,Other,0.002624915,"2,287"
+Share Low,Georgia,Other,0.000141429,"2,287"
+Share High,Georgia,Other,0.012124684,"2,287"
+Share,Georgia,P.1,0,"2,287"
+Share Low,Georgia,P.1,0,"2,287"
+Share High,Georgia,P.1,0,"2,287"
+Share,Georgia,P.2,0,"2,287"
+Share Low,Georgia,P.2,0,"2,287"
+Share High,Georgia,P.2,0,"2,287"
+Share,Guam,AY.1,0,0
+Share Low,Guam,AY.1,0,0
+Share High,Guam,AY.1,0,0
+Share,Guam,AY.2,0,0
+Share Low,Guam,AY.2,0,0
+Share High,Guam,AY.2,0,0
+Share,Guam,B.1.1.7,0,0
+Share Low,Guam,B.1.1.7,0,0
+Share High,Guam,B.1.1.7,0,0
+Share,Guam,B.1.1.529,0,0
+Share Low,Guam,B.1.1.529,0,0
+Share High,Guam,B.1.1.529,0,0
+Share,Guam,B.1.351,0,0
+Share Low,Guam,B.1.351,0,0
+Share High,Guam,B.1.351,0,0
+Share,Guam,B.1.427/429,0,0
+Share Low,Guam,B.1.427/429,0,0
+Share High,Guam,B.1.427/429,0,0
+Share,Guam,B.1.525,0,0
+Share Low,Guam,B.1.525,0,0
+Share High,Guam,B.1.525,0,0
+Share,Guam,B.1.526,0,0
+Share Low,Guam,B.1.526,0,0
+Share High,Guam,B.1.526,0,0
+Share,Guam,B.1.617.1,0,0
+Share Low,Guam,B.1.617.1,0,0
+Share High,Guam,B.1.617.1,0,0
+Share,Guam,B.1.617.2,0,0
+Share Low,Guam,B.1.617.2,0,0
+Share High,Guam,B.1.617.2,0,0
+Share,Guam,B.1.617.3,0,0
+Share Low,Guam,B.1.617.3,0,0
+Share High,Guam,B.1.617.3,0,0
+Share,Guam,B.1.621,0,0
+Share Low,Guam,B.1.621,0,0
+Share High,Guam,B.1.621,0,0
+Share,Guam,Other,0,0
+Share Low,Guam,Other,0,0
+Share High,Guam,Other,0,0
+Share,Guam,P.1,0,0
+Share Low,Guam,P.1,0,0
+Share High,Guam,P.1,0,0
+Share,Guam,P.2,0,0
+Share Low,Guam,P.2,0,0
+Share High,Guam,P.2,0,0
+Share,Hawaii,AY.1,0.001761266,390
+Share Low,Hawaii,AY.1,1.035649984e-05,390
+Share High,Hawaii,AY.1,0.012794003,390
+Share,Hawaii,AY.2,0,390
+Share Low,Hawaii,AY.2,0,390
+Share High,Hawaii,AY.2,0,390
+Share,Hawaii,B.1.1.7,0,390
+Share Low,Hawaii,B.1.1.7,0,390
+Share High,Hawaii,B.1.1.7,0,390
+Share,Hawaii,B.1.1.529,0.436588883,390
+Share Low,Hawaii,B.1.1.529,0.249128670,390
+Share High,Hawaii,B.1.1.529,0.638330877,390
+Share,Hawaii,B.1.351,0,390
+Share Low,Hawaii,B.1.351,0,390
+Share High,Hawaii,B.1.351,0,390
+Share,Hawaii,B.1.427/429,0,390
+Share Low,Hawaii,B.1.427/429,0,390
+Share High,Hawaii,B.1.427/429,0,390
+Share,Hawaii,B.1.525,0,390
+Share Low,Hawaii,B.1.525,0,390
+Share High,Hawaii,B.1.525,0,390
+Share,Hawaii,B.1.526,0,390
+Share Low,Hawaii,B.1.526,0,390
+Share High,Hawaii,B.1.526,0,390
+Share,Hawaii,B.1.617.1,0,390
+Share Low,Hawaii,B.1.617.1,0,390
+Share High,Hawaii,B.1.617.1,0,390
+Share,Hawaii,B.1.617.2,0.561649859,390
+Share Low,Hawaii,B.1.617.2,0.361652076,390
+Share High,Hawaii,B.1.617.2,0.747979462,390
+Share,Hawaii,B.1.617.3,0,390
+Share Low,Hawaii,B.1.617.3,0,390
+Share High,Hawaii,B.1.617.3,0,390
+Share,Hawaii,B.1.621,0,390
+Share Low,Hawaii,B.1.621,0,390
+Share High,Hawaii,B.1.621,0,390
+Share,Hawaii,Other,0,390
+Share Low,Hawaii,Other,0,390
+Share High,Hawaii,Other,0,390
+Share,Hawaii,P.1,0,390
+Share Low,Hawaii,P.1,0,390
+Share High,Hawaii,P.1,0,390
+Share,Hawaii,P.2,0,390
+Share Low,Hawaii,P.2,0,390
+Share High,Hawaii,P.2,0,390
+Share,Idaho,AY.1,0,724
+Share Low,Idaho,AY.1,0,724
+Share High,Idaho,AY.1,0,724
+Share,Idaho,AY.2,0,724
+Share Low,Idaho,AY.2,0,724
+Share High,Idaho,AY.2,0,724
+Share,Idaho,B.1.1.7,0,724
+Share Low,Idaho,B.1.1.7,0,724
+Share High,Idaho,B.1.1.7,0,724
+Share,Idaho,B.1.1.529,0.005133019,724
+Share Low,Idaho,B.1.1.529,0.001146655,724
+Share High,Idaho,B.1.1.529,0.014407574,724
+Share,Idaho,B.1.351,0,724
+Share Low,Idaho,B.1.351,0,724
+Share High,Idaho,B.1.351,0,724
+Share,Idaho,B.1.427/429,0,724
+Share Low,Idaho,B.1.427/429,0,724
+Share High,Idaho,B.1.427/429,0,724
+Share,Idaho,B.1.525,0,724
+Share Low,Idaho,B.1.525,0,724
+Share High,Idaho,B.1.525,0,724
+Share,Idaho,B.1.526,0,724
+Share Low,Idaho,B.1.526,0,724
+Share High,Idaho,B.1.526,0,724
+Share,Idaho,B.1.617.1,0,724
+Share Low,Idaho,B.1.617.1,0,724
+Share High,Idaho,B.1.617.1,0,724
+Share,Idaho,B.1.617.2,0.993583739,724
+Share Low,Idaho,B.1.617.2,0.977298856,724
+Share High,Idaho,B.1.617.2,0.999194324,724
+Share,Idaho,B.1.617.3,0,724
+Share Low,Idaho,B.1.617.3,0,724
+Share High,Idaho,B.1.617.3,0,724
+Share,Idaho,B.1.621,0,724
+Share Low,Idaho,B.1.621,0,724
+Share High,Idaho,B.1.621,0,724
+Share,Idaho,Other,0.001283255,724
+Share Low,Idaho,Other,3.826040029e-06,724
+Share High,Idaho,Other,0.010332327,724
+Share,Idaho,P.1,0,724
+Share Low,Idaho,P.1,0,724
+Share High,Idaho,P.1,0,724
+Share,Idaho,P.2,0,724
+Share Low,Idaho,P.2,0,724
+Share High,Idaho,P.2,0,724
+Share,Illinois,AY.1,0.006616177,"5,305"
+Share Low,Illinois,AY.1,0.003914145,"5,305"
+Share High,Illinois,AY.1,0.010459625,"5,305"
+Share,Illinois,AY.2,0,"5,305"
+Share Low,Illinois,AY.2,0,"5,305"
+Share High,Illinois,AY.2,0,"5,305"
+Share,Illinois,B.1.1.7,0,"5,305"
+Share Low,Illinois,B.1.1.7,0,"5,305"
+Share High,Illinois,B.1.1.7,0,"5,305"
+Share,Illinois,B.1.1.529,0.162634626,"5,305"
+Share Low,Illinois,B.1.1.529,0.044067346,"5,305"
+Share High,Illinois,B.1.1.529,0.372759193,"5,305"
+Share,Illinois,B.1.351,0,"5,305"
+Share Low,Illinois,B.1.351,0,"5,305"
+Share High,Illinois,B.1.351,0,"5,305"
+Share,Illinois,B.1.427/429,0,"5,305"
+Share Low,Illinois,B.1.427/429,0,"5,305"
+Share High,Illinois,B.1.427/429,0,"5,305"
+Share,Illinois,B.1.525,0,"5,305"
+Share Low,Illinois,B.1.525,0,"5,305"
+Share High,Illinois,B.1.525,0,"5,305"
+Share,Illinois,B.1.526,0,"5,305"
+Share Low,Illinois,B.1.526,0,"5,305"
+Share High,Illinois,B.1.526,0,"5,305"
+Share,Illinois,B.1.617.1,0,"5,305"
+Share Low,Illinois,B.1.617.1,0,"5,305"
+Share High,Illinois,B.1.617.1,0,"5,305"
+Share,Illinois,B.1.617.2,0.823719203,"5,305"
+Share Low,Illinois,B.1.617.2,0.609200835,"5,305"
+Share High,Illinois,B.1.617.2,0.949282944,"5,305"
+Share,Illinois,B.1.617.3,0,"5,305"
+Share Low,Illinois,B.1.617.3,0,"5,305"
+Share High,Illinois,B.1.617.3,0,"5,305"
+Share,Illinois,B.1.621,0,"5,305"
+Share Low,Illinois,B.1.621,0,"5,305"
+Share High,Illinois,B.1.621,0,"5,305"
+Share,Illinois,Other,0.007029989,"5,305"
+Share Low,Illinois,Other,0.001179631,"5,305"
+Share High,Illinois,Other,0.022270450,"5,305"
+Share,Illinois,P.1,0,"5,305"
+Share Low,Illinois,P.1,0,"5,305"
+Share High,Illinois,P.1,0,"5,305"
+Share,Illinois,P.2,0,"5,305"
+Share Low,Illinois,P.2,0,"5,305"
+Share High,Illinois,P.2,0,"5,305"
+Share,Indiana,AY.1,0.000562641,"3,317"
+Share Low,Indiana,AY.1,6.090017996e-05,"3,317"
+Share High,Indiana,AY.1,0.002112141,"3,317"
+Share,Indiana,AY.2,0,"3,317"
+Share Low,Indiana,AY.2,0,"3,317"
+Share High,Indiana,AY.2,0,"3,317"
+Share,Indiana,B.1.1.7,0.000312091,"3,317"
+Share Low,Indiana,B.1.1.7,1.355130280e-06,"3,317"
+Share High,Indiana,B.1.1.7,0.002386991,"3,317"
+Share,Indiana,B.1.1.529,0.028597511,"3,317"
+Share Low,Indiana,B.1.1.529,0.004096359,"3,317"
+Share High,Indiana,B.1.1.529,0.094033681,"3,317"
+Share,Indiana,B.1.351,0,"3,317"
+Share Low,Indiana,B.1.351,0,"3,317"
+Share High,Indiana,B.1.351,0,"3,317"
+Share,Indiana,B.1.427/429,0,"3,317"
+Share Low,Indiana,B.1.427/429,0,"3,317"
+Share High,Indiana,B.1.427/429,0,"3,317"
+Share,Indiana,B.1.525,0,"3,317"
+Share Low,Indiana,B.1.525,0,"3,317"
+Share High,Indiana,B.1.525,0,"3,317"
+Share,Indiana,B.1.526,0,"3,317"
+Share Low,Indiana,B.1.526,0,"3,317"
+Share High,Indiana,B.1.526,0,"3,317"
+Share,Indiana,B.1.617.1,0,"3,317"
+Share Low,Indiana,B.1.617.1,0,"3,317"
+Share High,Indiana,B.1.617.1,0,"3,317"
+Share,Indiana,B.1.617.2,0.967977822,"3,317"
+Share Low,Indiana,B.1.617.2,0.893838584,"3,317"
+Share High,Indiana,B.1.617.2,0.995565951,"3,317"
+Share,Indiana,B.1.617.3,0,"3,317"
+Share Low,Indiana,B.1.617.3,0,"3,317"
+Share High,Indiana,B.1.617.3,0,"3,317"
+Share,Indiana,B.1.621,0,"3,317"
+Share Low,Indiana,B.1.621,0,"3,317"
+Share High,Indiana,B.1.621,0,"3,317"
+Share,Indiana,Other,0.002549959,"3,317"
+Share Low,Indiana,Other,4.092273230e-05,"3,317"
+Share High,Indiana,Other,0.015506845,"3,317"
+Share,Indiana,P.1,0,"3,317"
+Share Low,Indiana,P.1,0,"3,317"
+Share High,Indiana,P.1,0,"3,317"
+Share,Indiana,P.2,0,"3,317"
+Share Low,Indiana,P.2,0,"3,317"
+Share High,Indiana,P.2,0,"3,317"
+Share,Iowa,AY.1,0.002229753,"1,372"
+Share Low,Iowa,AY.1,0.000469895,"1,372"
+Share High,Iowa,AY.1,0.006441346,"1,372"
+Share,Iowa,AY.2,0,"1,372"
+Share Low,Iowa,AY.2,0,"1,372"
+Share High,Iowa,AY.2,0,"1,372"
+Share,Iowa,B.1.1.7,0,"1,372"
+Share Low,Iowa,B.1.1.7,0,"1,372"
+Share High,Iowa,B.1.1.7,0,"1,372"
+Share,Iowa,B.1.1.529,0.013839966,"1,372"
+Share Low,Iowa,B.1.1.529,0.003523089,"1,372"
+Share High,Iowa,B.1.1.529,0.036298193,"1,372"
+Share,Iowa,B.1.351,0,"1,372"
+Share Low,Iowa,B.1.351,0,"1,372"
+Share High,Iowa,B.1.351,0,"1,372"
+Share,Iowa,B.1.427/429,0,"1,372"
+Share Low,Iowa,B.1.427/429,0,"1,372"
+Share High,Iowa,B.1.427/429,0,"1,372"
+Share,Iowa,B.1.525,0,"1,372"
+Share Low,Iowa,B.1.525,0,"1,372"
+Share High,Iowa,B.1.525,0,"1,372"
+Share,Iowa,B.1.526,0,"1,372"
+Share Low,Iowa,B.1.526,0,"1,372"
+Share High,Iowa,B.1.526,0,"1,372"
+Share,Iowa,B.1.617.1,0,"1,372"
+Share Low,Iowa,B.1.617.1,0,"1,372"
+Share High,Iowa,B.1.617.1,0,"1,372"
+Share,Iowa,B.1.617.2,0.981249571,"1,372"
+Share Low,Iowa,B.1.617.2,0.949815750,"1,372"
+Share High,Iowa,B.1.617.2,0.995461822,"1,372"
+Share,Iowa,B.1.617.3,0,"1,372"
+Share Low,Iowa,B.1.617.3,0,"1,372"
+Share High,Iowa,B.1.617.3,0,"1,372"
+Share,Iowa,B.1.621,0,"1,372"
+Share Low,Iowa,B.1.621,0,"1,372"
+Share High,Iowa,B.1.621,0,"1,372"
+Share,Iowa,Other,0.002680737,"1,372"
+Share Low,Iowa,Other,7.972431376e-06,"1,372"
+Share High,Iowa,Other,0.021484116,"1,372"
+Share,Iowa,P.1,0,"1,372"
+Share Low,Iowa,P.1,0,"1,372"
+Share High,Iowa,P.1,0,"1,372"
+Share,Iowa,P.2,0,"1,372"
+Share Low,Iowa,P.2,0,"1,372"
+Share High,Iowa,P.2,0,"1,372"
+Share,Kansas,AY.1,0,"1,401"
+Share Low,Kansas,AY.1,0,"1,401"
+Share High,Kansas,AY.1,0,"1,401"
+Share,Kansas,AY.2,0,"1,401"
+Share Low,Kansas,AY.2,0,"1,401"
+Share High,Kansas,AY.2,0,"1,401"
+Share,Kansas,B.1.1.7,0,"1,401"
+Share Low,Kansas,B.1.1.7,0,"1,401"
+Share High,Kansas,B.1.1.7,0,"1,401"
+Share,Kansas,B.1.1.529,0.017522732,"1,401"
+Share Low,Kansas,B.1.1.529,0.004177881,"1,401"
+Share High,Kansas,B.1.1.529,0.047269858,"1,401"
+Share,Kansas,B.1.351,0,"1,401"
+Share Low,Kansas,B.1.351,0,"1,401"
+Share High,Kansas,B.1.351,0,"1,401"
+Share,Kansas,B.1.427/429,0,"1,401"
+Share Low,Kansas,B.1.427/429,0,"1,401"
+Share High,Kansas,B.1.427/429,0,"1,401"
+Share,Kansas,B.1.525,0,"1,401"
+Share Low,Kansas,B.1.525,0,"1,401"
+Share High,Kansas,B.1.525,0,"1,401"
+Share,Kansas,B.1.526,0,"1,401"
+Share Low,Kansas,B.1.526,0,"1,401"
+Share High,Kansas,B.1.526,0,"1,401"
+Share,Kansas,B.1.617.1,0,"1,401"
+Share Low,Kansas,B.1.617.1,0,"1,401"
+Share High,Kansas,B.1.617.1,0,"1,401"
+Share,Kansas,B.1.617.2,0.978077590,"1,401"
+Share Low,Kansas,B.1.617.2,0.937349379,"1,401"
+Share High,Kansas,B.1.617.2,0.995442867,"1,401"
+Share,Kansas,B.1.617.3,0,"1,401"
+Share Low,Kansas,B.1.617.3,0,"1,401"
+Share High,Kansas,B.1.617.3,0,"1,401"
+Share,Kansas,B.1.621,0,"1,401"
+Share Low,Kansas,B.1.621,0,"1,401"
+Share High,Kansas,B.1.621,0,"1,401"
+Share,Kansas,Other,0.004399665,"1,401"
+Share Low,Kansas,Other,1.970969970e-05,"1,401"
+Share High,Kansas,Other,0.033037040,"1,401"
+Share,Kansas,P.1,0,"1,401"
+Share Low,Kansas,P.1,0,"1,401"
+Share High,Kansas,P.1,0,"1,401"
+Share,Kansas,P.2,0,"1,401"
+Share Low,Kansas,P.2,0,"1,401"
+Share High,Kansas,P.2,0,"1,401"
+Share,Kentucky,AY.1,0,930
+Share Low,Kentucky,AY.1,0,930
+Share High,Kentucky,AY.1,0,930
+Share,Kentucky,AY.2,0.001071816,930
+Share Low,Kentucky,AY.2,2.686093831e-05,930
+Share High,Kentucky,AY.2,0.005970342,930
+Share,Kentucky,B.1.1.7,0,930
+Share Low,Kentucky,B.1.1.7,0,930
+Share High,Kentucky,B.1.1.7,0,930
+Share,Kentucky,B.1.1.529,0.016784310,930
+Share Low,Kentucky,B.1.1.529,0.003414652,930
+Share High,Kentucky,B.1.1.529,0.048630591,930
+Share,Kentucky,B.1.351,0,930
+Share Low,Kentucky,B.1.351,0,930
+Share High,Kentucky,B.1.351,0,930
+Share,Kentucky,B.1.427/429,0,930
+Share Low,Kentucky,B.1.427/429,0,930
+Share High,Kentucky,B.1.427/429,0,930
+Share,Kentucky,B.1.525,0,930
+Share Low,Kentucky,B.1.525,0,930
+Share High,Kentucky,B.1.525,0,930
+Share,Kentucky,B.1.526,0,930
+Share Low,Kentucky,B.1.526,0,930
+Share High,Kentucky,B.1.526,0,930
+Share,Kentucky,B.1.617.1,0,930
+Share Low,Kentucky,B.1.617.1,0,930
+Share High,Kentucky,B.1.617.1,0,930
+Share,Kentucky,B.1.617.2,0.977523506,930
+Share Low,Kentucky,B.1.617.2,0.924628496,930
+Share High,Kentucky,B.1.617.2,0.996891499,930
+Share,Kentucky,B.1.617.3,0,930
+Share Low,Kentucky,B.1.617.3,0,930
+Share High,Kentucky,B.1.617.3,0,930
+Share,Kentucky,B.1.621,0,930
+Share Low,Kentucky,B.1.621,0,930
+Share High,Kentucky,B.1.621,0,930
+Share,Kentucky,Other,0.004620394,930
+Share Low,Kentucky,Other,1.128234999e-05,930
+Share High,Kentucky,Other,0.037777033,930
+Share,Kentucky,P.1,0,930
+Share Low,Kentucky,P.1,0,930
+Share High,Kentucky,P.1,0,930
+Share,Kentucky,P.2,0,930
+Share Low,Kentucky,P.2,0,930
+Share High,Kentucky,P.2,0,930
+Share,Louisiana,AY.1,0,377
+Share Low,Louisiana,AY.1,0,377
+Share High,Louisiana,AY.1,0,377
+Share,Louisiana,AY.2,0,377
+Share Low,Louisiana,AY.2,0,377
+Share High,Louisiana,AY.2,0,377
+Share,Louisiana,B.1.1.7,0,377
+Share Low,Louisiana,B.1.1.7,0,377
+Share High,Louisiana,B.1.1.7,0,377
+Share,Louisiana,B.1.1.529,0.420538157,377
+Share Low,Louisiana,B.1.1.529,0.280491292,377
+Share High,Louisiana,B.1.1.529,0.570615590,377
+Share,Louisiana,B.1.351,0,377
+Share Low,Louisiana,B.1.351,0,377
+Share High,Louisiana,B.1.351,0,377
+Share,Louisiana,B.1.427/429,0,377
+Share Low,Louisiana,B.1.427/429,0,377
+Share High,Louisiana,B.1.427/429,0,377
+Share,Louisiana,B.1.525,0,377
+Share Low,Louisiana,B.1.525,0,377
+Share High,Louisiana,B.1.525,0,377
+Share,Louisiana,B.1.526,0,377
+Share Low,Louisiana,B.1.526,0,377
+Share High,Louisiana,B.1.526,0,377
+Share,Louisiana,B.1.617.1,0,377
+Share Low,Louisiana,B.1.617.1,0,377
+Share High,Louisiana,B.1.617.1,0,377
+Share,Louisiana,B.1.617.2,0.572403967,377
+Share Low,Louisiana,B.1.617.2,0.411408603,377
+Share High,Louisiana,B.1.617.2,0.722911358,377
+Share,Louisiana,B.1.617.3,0,377
+Share Low,Louisiana,B.1.617.3,0,377
+Share High,Louisiana,B.1.617.3,0,377
+Share,Louisiana,B.1.621,0,377
+Share Low,Louisiana,B.1.621,0,377
+Share High,Louisiana,B.1.621,0,377
+Share,Louisiana,Other,0.007057888,377
+Share Low,Louisiana,Other,0.000240615,377
+Share High,Louisiana,Other,0.036218897,377
+Share,Louisiana,P.1,0,377
+Share Low,Louisiana,P.1,0,377
+Share High,Louisiana,P.1,0,377
+Share,Louisiana,P.2,0,377
+Share Low,Louisiana,P.2,0,377
+Share High,Louisiana,P.2,0,377
+Share,Maine,AY.1,0,911
+Share Low,Maine,AY.1,0,911
+Share High,Maine,AY.1,0,911
+Share,Maine,AY.2,0,911
+Share Low,Maine,AY.2,0,911
+Share High,Maine,AY.2,0,911
+Share,Maine,B.1.1.7,0,911
+Share Low,Maine,B.1.1.7,0,911
+Share High,Maine,B.1.1.7,0,911
+Share,Maine,B.1.1.529,0.015515507,911
+Share Low,Maine,B.1.1.529,0.008535960,911
+Share High,Maine,B.1.1.529,0.025834013,911
+Share,Maine,B.1.351,0,911
+Share Low,Maine,B.1.351,0,911
+Share High,Maine,B.1.351,0,911
+Share,Maine,B.1.427/429,0,911
+Share Low,Maine,B.1.427/429,0,911
+Share High,Maine,B.1.427/429,0,911
+Share,Maine,B.1.525,0,911
+Share Low,Maine,B.1.525,0,911
+Share High,Maine,B.1.525,0,911
+Share,Maine,B.1.526,0,911
+Share Low,Maine,B.1.526,0,911
+Share High,Maine,B.1.526,0,911
+Share,Maine,B.1.617.1,0,911
+Share Low,Maine,B.1.617.1,0,911
+Share High,Maine,B.1.617.1,0,911
+Share,Maine,B.1.617.2,0.981091917,911
+Share Low,Maine,B.1.617.2,0.964076936,911
+Share High,Maine,B.1.617.2,0.991443276,911
+Share,Maine,B.1.617.3,0,911
+Share Low,Maine,B.1.617.3,0,911
+Share High,Maine,B.1.617.3,0,911
+Share,Maine,B.1.621,0,911
+Share Low,Maine,B.1.621,0,911
+Share High,Maine,B.1.621,0,911
+Share,Maine,Other,0.003392548,911
+Share Low,Maine,Other,8.259117749e-06,911
+Share High,Maine,Other,0.027875509,911
+Share,Maine,P.1,0,911
+Share Low,Maine,P.1,0,911
+Share High,Maine,P.1,0,911
+Share,Maine,P.2,0,911
+Share Low,Maine,P.2,0,911
+Share High,Maine,P.2,0,911
+Share,Maryland,AY.1,0.000468457,"2,372"
+Share Low,Maryland,AY.1,2.735172302e-06,"2,372"
+Share High,Maryland,AY.1,0.003420807,"2,372"
+Share,Maryland,AY.2,0,"2,372"
+Share Low,Maryland,AY.2,0,"2,372"
+Share High,Maryland,AY.2,0,"2,372"
+Share,Maryland,B.1.1.7,0.000468457,"2,372"
+Share Low,Maryland,B.1.1.7,2.735172302e-06,"2,372"
+Share High,Maryland,B.1.1.7,0.003420807,"2,372"
+Share,Maryland,B.1.1.529,0.220322758,"2,372"
+Share Low,Maryland,B.1.1.529,0.074292272,"2,372"
+Share High,Maryland,B.1.1.529,0.445342690,"2,372"
+Share,Maryland,B.1.351,0,"2,372"
+Share Low,Maryland,B.1.351,0,"2,372"
+Share High,Maryland,B.1.351,0,"2,372"
+Share,Maryland,B.1.427/429,0,"2,372"
+Share Low,Maryland,B.1.427/429,0,"2,372"
+Share High,Maryland,B.1.427/429,0,"2,372"
+Share,Maryland,B.1.525,0,"2,372"
+Share Low,Maryland,B.1.525,0,"2,372"
+Share High,Maryland,B.1.525,0,"2,372"
+Share,Maryland,B.1.526,0,"2,372"
+Share Low,Maryland,B.1.526,0,"2,372"
+Share High,Maryland,B.1.526,0,"2,372"
+Share,Maryland,B.1.617.1,0,"2,372"
+Share Low,Maryland,B.1.617.1,0,"2,372"
+Share High,Maryland,B.1.617.1,0,"2,372"
+Share,Maryland,B.1.617.2,0.776285112,"2,372"
+Share Low,Maryland,B.1.617.2,0.547841072,"2,372"
+Share High,Maryland,B.1.617.2,0.924933314,"2,372"
+Share,Maryland,B.1.617.3,0,"2,372"
+Share Low,Maryland,B.1.617.3,0,"2,372"
+Share High,Maryland,B.1.617.3,0,"2,372"
+Share,Maryland,B.1.621,0,"2,372"
+Share Low,Maryland,B.1.621,0,"2,372"
+Share High,Maryland,B.1.621,0,"2,372"
+Share,Maryland,Other,0.002455216,"2,372"
+Share Low,Maryland,Other,3.856579133e-05,"2,372"
+Share High,Maryland,Other,0.014996458,"2,372"
+Share,Maryland,P.1,0,"2,372"
+Share Low,Maryland,P.1,0,"2,372"
+Share High,Maryland,P.1,0,"2,372"
+Share,Maryland,P.2,0,"2,372"
+Share Low,Maryland,P.2,0,"2,372"
+Share High,Maryland,P.2,0,"2,372"
+Share,Massachusetts,AY.1,0,"19,826"
+Share Low,Massachusetts,AY.1,0,"19,826"
+Share High,Massachusetts,AY.1,0,"19,826"
+Share,Massachusetts,AY.2,0,"19,826"
+Share Low,Massachusetts,AY.2,0,"19,826"
+Share High,Massachusetts,AY.2,0,"19,826"
+Share,Massachusetts,B.1.1.7,0,"19,826"
+Share Low,Massachusetts,B.1.1.7,0,"19,826"
+Share High,Massachusetts,B.1.1.7,0,"19,826"
+Share,Massachusetts,B.1.1.529,0.047938693,"19,826"
+Share Low,Massachusetts,B.1.1.529,0.042710159,"19,826"
+Share High,Massachusetts,B.1.1.529,0.053605210,"19,826"
+Share,Massachusetts,B.1.351,0,"19,826"
+Share Low,Massachusetts,B.1.351,0,"19,826"
+Share High,Massachusetts,B.1.351,0,"19,826"
+Share,Massachusetts,B.1.427/429,0,"19,826"
+Share Low,Massachusetts,B.1.427/429,0,"19,826"
+Share High,Massachusetts,B.1.427/429,0,"19,826"
+Share,Massachusetts,B.1.525,0,"19,826"
+Share Low,Massachusetts,B.1.525,0,"19,826"
+Share High,Massachusetts,B.1.525,0,"19,826"
+Share,Massachusetts,B.1.526,0,"19,826"
+Share Low,Massachusetts,B.1.526,0,"19,826"
+Share High,Massachusetts,B.1.526,0,"19,826"
+Share,Massachusetts,B.1.617.1,0,"19,826"
+Share Low,Massachusetts,B.1.617.1,0,"19,826"
+Share High,Massachusetts,B.1.617.1,0,"19,826"
+Share,Massachusetts,B.1.617.2,0.950580418,"19,826"
+Share Low,Massachusetts,B.1.617.2,0.943420827,"19,826"
+Share High,Massachusetts,B.1.617.2,0.957075536,"19,826"
+Share,Massachusetts,B.1.617.3,0,"19,826"
+Share Low,Massachusetts,B.1.617.3,0,"19,826"
+Share High,Massachusetts,B.1.617.3,0,"19,826"
+Share,Massachusetts,B.1.621,0,"19,826"
+Share Low,Massachusetts,B.1.621,0,"19,826"
+Share High,Massachusetts,B.1.621,0,"19,826"
+Share,Massachusetts,Other,0.001480899,"19,826"
+Share Low,Massachusetts,Other,2.191132580e-06,"19,826"
+Share High,Massachusetts,Other,0.013082101,"19,826"
+Share,Massachusetts,P.1,0,"19,826"
+Share Low,Massachusetts,P.1,0,"19,826"
+Share High,Massachusetts,P.1,0,"19,826"
+Share,Massachusetts,P.2,0,"19,826"
+Share Low,Massachusetts,P.2,0,"19,826"
+Share High,Massachusetts,P.2,0,"19,826"
+Share,Michigan,AY.1,0,"5,183"
+Share Low,Michigan,AY.1,0,"5,183"
+Share High,Michigan,AY.1,0,"5,183"
+Share,Michigan,AY.2,0,"5,183"
+Share Low,Michigan,AY.2,0,"5,183"
+Share High,Michigan,AY.2,0,"5,183"
+Share,Michigan,B.1.1.7,0,"5,183"
+Share Low,Michigan,B.1.1.7,0,"5,183"
+Share High,Michigan,B.1.1.7,0,"5,183"
+Share,Michigan,B.1.1.529,0.037344873,"5,183"
+Share Low,Michigan,B.1.1.529,0.021772284,"5,183"
+Share High,Michigan,B.1.1.529,0.059379462,"5,183"
+Share,Michigan,B.1.351,0,"5,183"
+Share Low,Michigan,B.1.351,0,"5,183"
+Share High,Michigan,B.1.351,0,"5,183"
+Share,Michigan,B.1.427/429,0,"5,183"
+Share Low,Michigan,B.1.427/429,0,"5,183"
+Share High,Michigan,B.1.427/429,0,"5,183"
+Share,Michigan,B.1.525,0,"5,183"
+Share Low,Michigan,B.1.525,0,"5,183"
+Share High,Michigan,B.1.525,0,"5,183"
+Share,Michigan,B.1.526,0,"5,183"
+Share Low,Michigan,B.1.526,0,"5,183"
+Share High,Michigan,B.1.526,0,"5,183"
+Share,Michigan,B.1.617.1,0,"5,183"
+Share Low,Michigan,B.1.617.1,0,"5,183"
+Share High,Michigan,B.1.617.1,0,"5,183"
+Share,Michigan,B.1.617.2,0.955909669,"5,183"
+Share Low,Michigan,B.1.617.2,0.916570902,"5,183"
+Share High,Michigan,B.1.617.2,0.980177999,"5,183"
+Share,Michigan,B.1.617.3,0,"5,183"
+Share Low,Michigan,B.1.617.3,0,"5,183"
+Share High,Michigan,B.1.617.3,0,"5,183"
+Share,Michigan,B.1.621,0,"5,183"
+Share Low,Michigan,B.1.621,0,"5,183"
+Share High,Michigan,B.1.621,0,"5,183"
+Share,Michigan,Other,0.006745437,"5,183"
+Share Low,Michigan,Other,0.000153341,"5,183"
+Share High,Michigan,Other,0.037858307,"5,183"
+Share,Michigan,P.1,0,"5,183"
+Share Low,Michigan,P.1,0,"5,183"
+Share High,Michigan,P.1,0,"5,183"
+Share,Michigan,P.2,0,"5,183"
+Share Low,Michigan,P.2,0,"5,183"
+Share High,Michigan,P.2,0,"5,183"
+Share,Minnesota,AY.1,0.000673496,"12,781"
+Share Low,Minnesota,AY.1,0.000301558,"12,781"
+Share High,Minnesota,AY.1,0.001295952,"12,781"
+Share,Minnesota,AY.2,0,"12,781"
+Share Low,Minnesota,AY.2,0,"12,781"
+Share High,Minnesota,AY.2,0,"12,781"
+Share,Minnesota,B.1.1.7,0,"12,781"
+Share Low,Minnesota,B.1.1.7,0,"12,781"
+Share High,Minnesota,B.1.1.7,0,"12,781"
+Share,Minnesota,B.1.1.529,0.019370921,"12,781"
+Share Low,Minnesota,B.1.1.529,0.011903320,"12,781"
+Share High,Minnesota,B.1.1.529,0.029698092,"12,781"
+Share,Minnesota,B.1.351,0,"12,781"
+Share Low,Minnesota,B.1.351,0,"12,781"
+Share High,Minnesota,B.1.351,0,"12,781"
+Share,Minnesota,B.1.427/429,0,"12,781"
+Share Low,Minnesota,B.1.427/429,0,"12,781"
+Share High,Minnesota,B.1.427/429,0,"12,781"
+Share,Minnesota,B.1.525,0,"12,781"
+Share Low,Minnesota,B.1.525,0,"12,781"
+Share High,Minnesota,B.1.525,0,"12,781"
+Share,Minnesota,B.1.526,0,"12,781"
+Share Low,Minnesota,B.1.526,0,"12,781"
+Share High,Minnesota,B.1.526,0,"12,781"
+Share,Minnesota,B.1.617.1,0,"12,781"
+Share Low,Minnesota,B.1.617.1,0,"12,781"
+Share High,Minnesota,B.1.617.1,0,"12,781"
+Share,Minnesota,B.1.617.2,0.978714943,"12,781"
+Share Low,Minnesota,B.1.617.2,0.963277638,"12,781"
+Share High,Minnesota,B.1.617.2,0.988883793,"12,781"
+Share,Minnesota,B.1.617.3,0,"12,781"
+Share Low,Minnesota,B.1.617.3,0,"12,781"
+Share High,Minnesota,B.1.617.3,0,"12,781"
+Share,Minnesota,B.1.621,0,"12,781"
+Share Low,Minnesota,B.1.621,0,"12,781"
+Share High,Minnesota,B.1.621,0,"12,781"
+Share,Minnesota,Other,0.001240625,"12,781"
+Share Low,Minnesota,Other,8.383275940e-07,"12,781"
+Share High,Minnesota,Other,0.012051084,"12,781"
+Share,Minnesota,P.1,0,"12,781"
+Share Low,Minnesota,P.1,0,"12,781"
+Share High,Minnesota,P.1,0,"12,781"
+Share,Minnesota,P.2,0,"12,781"
+Share Low,Minnesota,P.2,0,"12,781"
+Share High,Minnesota,P.2,0,"12,781"
+Share,Mississippi,AY.1,0,115
+Share Low,Mississippi,AY.1,0,115
+Share High,Mississippi,AY.1,0,115
+Share,Mississippi,AY.2,0,115
+Share Low,Mississippi,AY.2,0,115
+Share High,Mississippi,AY.2,0,115
+Share,Mississippi,B.1.1.7,0,115
+Share Low,Mississippi,B.1.1.7,0,115
+Share High,Mississippi,B.1.1.7,0,115
+Share,Mississippi,B.1.1.529,0.126335755,115
+Share Low,Mississippi,B.1.1.529,0.058796123,115
+Share High,Mississippi,B.1.1.529,0.227749407,115
+Share,Mississippi,B.1.351,0,115
+Share Low,Mississippi,B.1.351,0,115
+Share High,Mississippi,B.1.351,0,115
+Share,Mississippi,B.1.427/429,0,115
+Share Low,Mississippi,B.1.427/429,0,115
+Share High,Mississippi,B.1.427/429,0,115
+Share,Mississippi,B.1.525,0,115
+Share Low,Mississippi,B.1.525,0,115
+Share High,Mississippi,B.1.525,0,115
+Share,Mississippi,B.1.526,0,115
+Share Low,Mississippi,B.1.526,0,115
+Share High,Mississippi,B.1.526,0,115
+Share,Mississippi,B.1.617.1,0,115
+Share Low,Mississippi,B.1.617.1,0,115
+Share High,Mississippi,B.1.617.1,0,115
+Share,Mississippi,B.1.617.2,0.852270663,115
+Share Low,Mississippi,B.1.617.2,0.729692042,115
+Share High,Mississippi,B.1.617.2,0.933916450,115
+Share,Mississippi,B.1.617.3,0,115
+Share Low,Mississippi,B.1.617.3,0,115
+Share High,Mississippi,B.1.617.3,0,115
+Share,Mississippi,B.1.621,0,115
+Share Low,Mississippi,B.1.621,0,115
+Share High,Mississippi,B.1.621,0,115
+Share,Mississippi,Other,0.021393586,115
+Share Low,Mississippi,Other,0.003499987,115
+Share High,Mississippi,Other,0.067458414,115
+Share,Mississippi,P.1,0,115
+Share Low,Mississippi,P.1,0,115
+Share High,Mississippi,P.1,0,115
+Share,Mississippi,P.2,0,115
+Share Low,Mississippi,P.2,0,115
+Share High,Mississippi,P.2,0,115
+Share,Missouri,AY.1,0.005524887,"1,263"
+Share Low,Missouri,AY.1,0.001049486,"1,263"
+Share High,Missouri,AY.1,0.016651779,"1,263"
+Share,Missouri,AY.2,0,"1,263"
+Share Low,Missouri,AY.2,0,"1,263"
+Share High,Missouri,AY.2,0,"1,263"
+Share,Missouri,B.1.1.7,0,"1,263"
+Share Low,Missouri,B.1.1.7,0,"1,263"
+Share High,Missouri,B.1.1.7,0,"1,263"
+Share,Missouri,B.1.1.529,0.035285570,"1,263"
+Share Low,Missouri,B.1.1.529,0.003841912,"1,263"
+Share High,Missouri,B.1.1.529,0.126286298,"1,263"
+Share,Missouri,B.1.351,0,"1,263"
+Share Low,Missouri,B.1.351,0,"1,263"
+Share High,Missouri,B.1.351,0,"1,263"
+Share,Missouri,B.1.427/429,0,"1,263"
+Share Low,Missouri,B.1.427/429,0,"1,263"
+Share High,Missouri,B.1.427/429,0,"1,263"
+Share,Missouri,B.1.525,0,"1,263"
+Share Low,Missouri,B.1.525,0,"1,263"
+Share High,Missouri,B.1.525,0,"1,263"
+Share,Missouri,B.1.526,0,"1,263"
+Share Low,Missouri,B.1.526,0,"1,263"
+Share High,Missouri,B.1.526,0,"1,263"
+Share,Missouri,B.1.617.1,0,"1,263"
+Share Low,Missouri,B.1.617.1,0,"1,263"
+Share High,Missouri,B.1.617.1,0,"1,263"
+Share,Missouri,B.1.617.2,0.953486860,"1,263"
+Share Low,Missouri,B.1.617.2,0.834751189,"1,263"
+Share High,Missouri,B.1.617.2,0.995056689,"1,263"
+Share,Missouri,B.1.617.3,0,"1,263"
+Share Low,Missouri,B.1.617.3,0,"1,263"
+Share High,Missouri,B.1.617.3,0,"1,263"
+Share,Missouri,B.1.621,0,"1,263"
+Share Low,Missouri,B.1.621,0,"1,263"
+Share High,Missouri,B.1.621,0,"1,263"
+Share,Missouri,Other,0.005702680,"1,263"
+Share Low,Missouri,Other,0.000336782,"1,263"
+Share High,Missouri,Other,0.025556237,"1,263"
+Share,Missouri,P.1,0,"1,263"
+Share Low,Missouri,P.1,0,"1,263"
+Share High,Missouri,P.1,0,"1,263"
+Share,Missouri,P.2,0,"1,263"
+Share Low,Missouri,P.2,0,"1,263"
+Share High,Missouri,P.2,0,"1,263"
+Share,Montana,AY.1,0,127
+Share Low,Montana,AY.1,0,127
+Share High,Montana,AY.1,0,127
+Share,Montana,AY.2,0,127
+Share Low,Montana,AY.2,0,127
+Share High,Montana,AY.2,0,127
+Share,Montana,B.1.1.7,0,127
+Share Low,Montana,B.1.1.7,0,127
+Share High,Montana,B.1.1.7,0,127
+Share,Montana,B.1.1.529,0.019686470,127
+Share Low,Montana,B.1.1.529,0.003002015,127
+Share High,Montana,B.1.1.529,0.063881204,127
+Share,Montana,B.1.351,0,127
+Share Low,Montana,B.1.351,0,127
+Share High,Montana,B.1.351,0,127
+Share,Montana,B.1.427/429,0,127
+Share Low,Montana,B.1.427/429,0,127
+Share High,Montana,B.1.427/429,0,127
+Share,Montana,B.1.525,0,127
+Share Low,Montana,B.1.525,0,127
+Share High,Montana,B.1.525,0,127
+Share,Montana,B.1.526,0,127
+Share Low,Montana,B.1.526,0,127
+Share High,Montana,B.1.526,0,127
+Share,Montana,B.1.617.1,0,127
+Share Low,Montana,B.1.617.1,0,127
+Share High,Montana,B.1.617.1,0,127
+Share,Montana,B.1.617.2,0.980313540,127
+Share Low,Montana,B.1.617.2,0.936118782,127
+Share High,Montana,B.1.617.2,0.996998012,127
+Share,Montana,B.1.617.3,0,127
+Share Low,Montana,B.1.617.3,0,127
+Share High,Montana,B.1.617.3,0,127
+Share,Montana,B.1.621,0,127
+Share Low,Montana,B.1.621,0,127
+Share High,Montana,B.1.621,0,127
+Share,Montana,Other,0,127
+Share Low,Montana,Other,0,127
+Share High,Montana,Other,0,127
+Share,Montana,P.1,0,127
+Share Low,Montana,P.1,0,127
+Share High,Montana,P.1,0,127
+Share,Montana,P.2,0,127
+Share Low,Montana,P.2,0,127
+Share High,Montana,P.2,0,127
+Share,Nebraska,AY.1,0.001095900,642
+Share Low,Nebraska,AY.1,4.724520295e-06,642
+Share High,Nebraska,AY.1,0.008368753,642
+Share,Nebraska,AY.2,0,642
+Share Low,Nebraska,AY.2,0,642
+Share High,Nebraska,AY.2,0,642
+Share,Nebraska,B.1.1.7,0,642
+Share Low,Nebraska,B.1.1.7,0,642
+Share High,Nebraska,B.1.1.7,0,642
+Share,Nebraska,B.1.1.529,0.015007282,642
+Share Low,Nebraska,B.1.1.529,0.004594542,642
+Share High,Nebraska,B.1.1.529,0.035846919,642
+Share,Nebraska,B.1.351,0,642
+Share Low,Nebraska,B.1.351,0,642
+Share High,Nebraska,B.1.351,0,642
+Share,Nebraska,B.1.427/429,0,642
+Share Low,Nebraska,B.1.427/429,0,642
+Share High,Nebraska,B.1.427/429,0,642
+Share,Nebraska,B.1.525,0,642
+Share Low,Nebraska,B.1.525,0,642
+Share High,Nebraska,B.1.525,0,642
+Share,Nebraska,B.1.526,0,642
+Share Low,Nebraska,B.1.526,0,642
+Share High,Nebraska,B.1.526,0,642
+Share,Nebraska,B.1.617.1,0,642
+Share Low,Nebraska,B.1.617.1,0,642
+Share High,Nebraska,B.1.617.1,0,642
+Share,Nebraska,B.1.617.2,0.973864377,642
+Share Low,Nebraska,B.1.617.2,0.928297818,642
+Share High,Nebraska,B.1.617.2,0.994083822,642
+Share,Nebraska,B.1.617.3,0,642
+Share Low,Nebraska,B.1.617.3,0,642
+Share High,Nebraska,B.1.617.3,0,642
+Share,Nebraska,B.1.621,0,642
+Share Low,Nebraska,B.1.621,0,642
+Share High,Nebraska,B.1.621,0,642
+Share,Nebraska,Other,0.010032463,642
+Share Low,Nebraska,Other,0.000692187,642
+Share High,Nebraska,Other,0.042738486,642
+Share,Nebraska,P.1,0,642
+Share Low,Nebraska,P.1,0,642
+Share High,Nebraska,P.1,0,642
+Share,Nebraska,P.2,0,642
+Share Low,Nebraska,P.2,0,642
+Share High,Nebraska,P.2,0,642
+Share,Nevada,AY.1,0,"1,410"
+Share Low,Nevada,AY.1,0,"1,410"
+Share High,Nevada,AY.1,0,"1,410"
+Share,Nevada,AY.2,0,"1,410"
+Share Low,Nevada,AY.2,0,"1,410"
+Share High,Nevada,AY.2,0,"1,410"
+Share,Nevada,B.1.1.7,0,"1,410"
+Share Low,Nevada,B.1.1.7,0,"1,410"
+Share High,Nevada,B.1.1.7,0,"1,410"
+Share,Nevada,B.1.1.529,0.047823019,"1,410"
+Share Low,Nevada,B.1.1.529,0.033152964,"1,410"
+Share High,Nevada,B.1.1.529,0.066494890,"1,410"
+Share,Nevada,B.1.351,0,"1,410"
+Share Low,Nevada,B.1.351,0,"1,410"
+Share High,Nevada,B.1.351,0,"1,410"
+Share,Nevada,B.1.427/429,0,"1,410"
+Share Low,Nevada,B.1.427/429,0,"1,410"
+Share High,Nevada,B.1.427/429,0,"1,410"
+Share,Nevada,B.1.525,0,"1,410"
+Share Low,Nevada,B.1.525,0,"1,410"
+Share High,Nevada,B.1.525,0,"1,410"
+Share,Nevada,B.1.526,0,"1,410"
+Share Low,Nevada,B.1.526,0,"1,410"
+Share High,Nevada,B.1.526,0,"1,410"
+Share,Nevada,B.1.617.1,0,"1,410"
+Share Low,Nevada,B.1.617.1,0,"1,410"
+Share High,Nevada,B.1.617.1,0,"1,410"
+Share,Nevada,B.1.617.2,0.948054731,"1,410"
+Share Low,Nevada,B.1.617.2,0.916615844,"1,410"
+Share High,Nevada,B.1.617.2,0.970219910,"1,410"
+Share,Nevada,B.1.617.3,0,"1,410"
+Share Low,Nevada,B.1.617.3,0,"1,410"
+Share High,Nevada,B.1.617.3,0,"1,410"
+Share,Nevada,B.1.621,0,"1,410"
+Share Low,Nevada,B.1.621,0,"1,410"
+Share High,Nevada,B.1.621,0,"1,410"
+Share,Nevada,Other,0.004122279,"1,410"
+Share Low,Nevada,Other,7.709374586e-06,"1,410"
+Share High,Nevada,Other,0.034976982,"1,410"
+Share,Nevada,P.1,0,"1,410"
+Share Low,Nevada,P.1,0,"1,410"
+Share High,Nevada,P.1,0,"1,410"
+Share,Nevada,P.2,0,"1,410"
+Share Low,Nevada,P.2,0,"1,410"
+Share High,Nevada,P.2,0,"1,410"
+Share,New Hampshire,AY.1,0,"1,125"
+Share Low,New Hampshire,AY.1,0,"1,125"
+Share High,New Hampshire,AY.1,0,"1,125"
+Share,New Hampshire,AY.2,0,"1,125"
+Share Low,New Hampshire,AY.2,0,"1,125"
+Share High,New Hampshire,AY.2,0,"1,125"
+Share,New Hampshire,B.1.1.7,0,"1,125"
+Share Low,New Hampshire,B.1.1.7,0,"1,125"
+Share High,New Hampshire,B.1.1.7,0,"1,125"
+Share,New Hampshire,B.1.1.529,0.013236195,"1,125"
+Share Low,New Hampshire,B.1.1.529,0.001169608,"1,125"
+Share High,New Hampshire,B.1.1.529,0.052143171,"1,125"
+Share,New Hampshire,B.1.351,0,"1,125"
+Share Low,New Hampshire,B.1.351,0,"1,125"
+Share High,New Hampshire,B.1.351,0,"1,125"
+Share,New Hampshire,B.1.427/429,0,"1,125"
+Share Low,New Hampshire,B.1.427/429,0,"1,125"
+Share High,New Hampshire,B.1.427/429,0,"1,125"
+Share,New Hampshire,B.1.525,0,"1,125"
+Share Low,New Hampshire,B.1.525,0,"1,125"
+Share High,New Hampshire,B.1.525,0,"1,125"
+Share,New Hampshire,B.1.526,0,"1,125"
+Share Low,New Hampshire,B.1.526,0,"1,125"
+Share High,New Hampshire,B.1.526,0,"1,125"
+Share,New Hampshire,B.1.617.1,0,"1,125"
+Share Low,New Hampshire,B.1.617.1,0,"1,125"
+Share High,New Hampshire,B.1.617.1,0,"1,125"
+Share,New Hampshire,B.1.617.2,0.984636784,"1,125"
+Share Low,New Hampshire,B.1.617.2,0.944481492,"1,125"
+Share High,New Hampshire,B.1.617.2,0.998242259,"1,125"
+Share,New Hampshire,B.1.617.3,0,"1,125"
+Share Low,New Hampshire,B.1.617.3,0,"1,125"
+Share High,New Hampshire,B.1.617.3,0,"1,125"
+Share,New Hampshire,B.1.621,0,"1,125"
+Share Low,New Hampshire,B.1.621,0,"1,125"
+Share High,New Hampshire,B.1.621,0,"1,125"
+Share,New Hampshire,Other,0.002127002,"1,125"
+Share Low,New Hampshire,Other,0.000159231,"1,125"
+Share High,New Hampshire,Other,0.008960753,"1,125"
+Share,New Hampshire,P.1,0,"1,125"
+Share Low,New Hampshire,P.1,0,"1,125"
+Share High,New Hampshire,P.1,0,"1,125"
+Share,New Hampshire,P.2,0,"1,125"
+Share Low,New Hampshire,P.2,0,"1,125"
+Share High,New Hampshire,P.2,0,"1,125"
+Share,New Jersey,AY.1,0,"4,503"
+Share Low,New Jersey,AY.1,0,"4,503"
+Share High,New Jersey,AY.1,0,"4,503"
+Share,New Jersey,AY.2,0,"4,503"
+Share Low,New Jersey,AY.2,0,"4,503"
+Share High,New Jersey,AY.2,0,"4,503"
+Share,New Jersey,B.1.1.7,0,"4,503"
+Share Low,New Jersey,B.1.1.7,0,"4,503"
+Share High,New Jersey,B.1.1.7,0,"4,503"
+Share,New Jersey,B.1.1.529,0.181372136,"4,503"
+Share Low,New Jersey,B.1.1.529,0.096483447,"4,503"
+Share High,New Jersey,B.1.1.529,0.297060221,"4,503"
+Share,New Jersey,B.1.351,0,"4,503"
+Share Low,New Jersey,B.1.351,0,"4,503"
+Share High,New Jersey,B.1.351,0,"4,503"
+Share,New Jersey,B.1.427/429,0,"4,503"
+Share Low,New Jersey,B.1.427/429,0,"4,503"
+Share High,New Jersey,B.1.427/429,0,"4,503"
+Share,New Jersey,B.1.525,0,"4,503"
+Share Low,New Jersey,B.1.525,0,"4,503"
+Share High,New Jersey,B.1.525,0,"4,503"
+Share,New Jersey,B.1.526,0,"4,503"
+Share Low,New Jersey,B.1.526,0,"4,503"
+Share High,New Jersey,B.1.526,0,"4,503"
+Share,New Jersey,B.1.617.1,0,"4,503"
+Share Low,New Jersey,B.1.617.1,0,"4,503"
+Share High,New Jersey,B.1.617.1,0,"4,503"
+Share,New Jersey,B.1.617.2,0.813349307,"4,503"
+Share Low,New Jersey,B.1.617.2,0.695073247,"4,503"
+Share High,New Jersey,B.1.617.2,0.900522888,"4,503"
+Share,New Jersey,B.1.617.3,0,"4,503"
+Share Low,New Jersey,B.1.617.3,0,"4,503"
+Share High,New Jersey,B.1.617.3,0,"4,503"
+Share,New Jersey,B.1.621,0,"4,503"
+Share Low,New Jersey,B.1.621,0,"4,503"
+Share High,New Jersey,B.1.621,0,"4,503"
+Share,New Jersey,Other,0.005278533,"4,503"
+Share Low,New Jersey,Other,0.000630415,"4,503"
+Share High,New Jersey,Other,0.019036619,"4,503"
+Share,New Jersey,P.1,0,"4,503"
+Share Low,New Jersey,P.1,0,"4,503"
+Share High,New Jersey,P.1,0,"4,503"
+Share,New Jersey,P.2,0,"4,503"
+Share Low,New Jersey,P.2,0,"4,503"
+Share High,New Jersey,P.2,0,"4,503"
+Share,New Mexico,AY.1,0,"2,009"
+Share Low,New Mexico,AY.1,0,"2,009"
+Share High,New Mexico,AY.1,0,"2,009"
+Share,New Mexico,AY.2,0,"2,009"
+Share Low,New Mexico,AY.2,0,"2,009"
+Share High,New Mexico,AY.2,0,"2,009"
+Share,New Mexico,B.1.1.7,0,"2,009"
+Share Low,New Mexico,B.1.1.7,0,"2,009"
+Share High,New Mexico,B.1.1.7,0,"2,009"
+Share,New Mexico,B.1.1.529,0.013762699,"2,009"
+Share Low,New Mexico,B.1.1.529,0.002162730,"2,009"
+Share High,New Mexico,B.1.1.529,0.044430416,"2,009"
+Share,New Mexico,B.1.351,0,"2,009"
+Share Low,New Mexico,B.1.351,0,"2,009"
+Share High,New Mexico,B.1.351,0,"2,009"
+Share,New Mexico,B.1.427/429,0,"2,009"
+Share Low,New Mexico,B.1.427/429,0,"2,009"
+Share High,New Mexico,B.1.427/429,0,"2,009"
+Share,New Mexico,B.1.525,0,"2,009"
+Share Low,New Mexico,B.1.525,0,"2,009"
+Share High,New Mexico,B.1.525,0,"2,009"
+Share,New Mexico,B.1.526,0,"2,009"
+Share Low,New Mexico,B.1.526,0,"2,009"
+Share High,New Mexico,B.1.526,0,"2,009"
+Share,New Mexico,B.1.617.1,0,"2,009"
+Share Low,New Mexico,B.1.617.1,0,"2,009"
+Share High,New Mexico,B.1.617.1,0,"2,009"
+Share,New Mexico,B.1.617.2,0.979195952,"2,009"
+Share Low,New Mexico,B.1.617.2,0.915860116,"2,009"
+Share High,New Mexico,B.1.617.2,0.998379409,"2,009"
+Share,New Mexico,B.1.617.3,0,"2,009"
+Share Low,New Mexico,B.1.617.3,0,"2,009"
+Share High,New Mexico,B.1.617.3,0,"2,009"
+Share,New Mexico,B.1.621,0,"2,009"
+Share Low,New Mexico,B.1.621,0,"2,009"
+Share High,New Mexico,B.1.621,0,"2,009"
+Share,New Mexico,Other,0.007041330,"2,009"
+Share Low,New Mexico,Other,9.087369108e-05,"2,009"
+Share High,New Mexico,Other,0.044083446,"2,009"
+Share,New Mexico,P.1,0,"2,009"
+Share Low,New Mexico,P.1,0,"2,009"
+Share High,New Mexico,P.1,0,"2,009"
+Share,New Mexico,P.2,0,"2,009"
+Share Low,New Mexico,P.2,0,"2,009"
+Share High,New Mexico,P.2,0,"2,009"
+Share,New York,AY.1,0.000362177,"5,780"
+Share Low,New York,AY.1,1.037490733e-06,"5,780"
+Share High,New York,AY.1,0.002942327,"5,780"
+Share,New York,AY.2,0.000157252,"5,780"
+Share Low,New York,AY.2,2.898474577e-06,"5,780"
+Share High,New York,AY.2,0.000936100,"5,780"
+Share,New York,B.1.1.7,0,"5,780"
+Share Low,New York,B.1.1.7,0,"5,780"
+Share High,New York,B.1.1.7,0,"5,780"
+Share,New York,B.1.1.529,0.282813281,"5,780"
+Share Low,New York,B.1.1.529,0.215804592,"5,780"
+Share High,New York,B.1.1.529,0.357740253,"5,780"
+Share,New York,B.1.351,0,"5,780"
+Share Low,New York,B.1.351,0,"5,780"
+Share High,New York,B.1.351,0,"5,780"
+Share,New York,B.1.427/429,0,"5,780"
+Share Low,New York,B.1.427/429,0,"5,780"
+Share High,New York,B.1.427/429,0,"5,780"
+Share,New York,B.1.525,0,"5,780"
+Share Low,New York,B.1.525,0,"5,780"
+Share High,New York,B.1.525,0,"5,780"
+Share,New York,B.1.526,0,"5,780"
+Share Low,New York,B.1.526,0,"5,780"
+Share High,New York,B.1.526,0,"5,780"
+Share,New York,B.1.617.1,0,"5,780"
+Share Low,New York,B.1.617.1,0,"5,780"
+Share High,New York,B.1.617.1,0,"5,780"
+Share,New York,B.1.617.2,0.708824217,"5,780"
+Share Low,New York,B.1.617.2,0.634243548,"5,780"
+Share High,New York,B.1.617.2,0.775942981,"5,780"
+Share,New York,B.1.617.3,0,"5,780"
+Share Low,New York,B.1.617.3,0,"5,780"
+Share High,New York,B.1.617.3,0,"5,780"
+Share,New York,B.1.621,0,"5,780"
+Share Low,New York,B.1.621,0,"5,780"
+Share High,New York,B.1.621,0,"5,780"
+Share,New York,Other,0.007843089,"5,780"
+Share Low,New York,Other,0.002471718,"5,780"
+Share High,New York,Other,0.018523717,"5,780"
+Share,New York,P.1,0,"5,780"
+Share Low,New York,P.1,0,"5,780"
+Share High,New York,P.1,0,"5,780"
+Share,New York,P.2,0,"5,780"
+Share Low,New York,P.2,0,"5,780"
+Share High,New York,P.2,0,"5,780"
+Share,North Carolina,AY.1,0.000428057,"2,187"
+Share Low,North Carolina,AY.1,8.733914910e-06,"2,187"
+Share High,North Carolina,AY.1,0.002494209,"2,187"
+Share,North Carolina,AY.2,0,"2,187"
+Share Low,North Carolina,AY.2,0,"2,187"
+Share High,North Carolina,AY.2,0,"2,187"
+Share,North Carolina,B.1.1.7,0,"2,187"
+Share Low,North Carolina,B.1.1.7,0,"2,187"
+Share High,North Carolina,B.1.1.7,0,"2,187"
+Share,North Carolina,B.1.1.529,0.076012410,"2,187"
+Share Low,North Carolina,B.1.1.529,0.013329062,"2,187"
+Share High,North Carolina,B.1.1.529,0.220923722,"2,187"
+Share,North Carolina,B.1.351,0,"2,187"
+Share Low,North Carolina,B.1.351,0,"2,187"
+Share High,North Carolina,B.1.351,0,"2,187"
+Share,North Carolina,B.1.427/429,0,"2,187"
+Share Low,North Carolina,B.1.427/429,0,"2,187"
+Share High,North Carolina,B.1.427/429,0,"2,187"
+Share,North Carolina,B.1.525,0,"2,187"
+Share Low,North Carolina,B.1.525,0,"2,187"
+Share High,North Carolina,B.1.525,0,"2,187"
+Share,North Carolina,B.1.526,0,"2,187"
+Share Low,North Carolina,B.1.526,0,"2,187"
+Share High,North Carolina,B.1.526,0,"2,187"
+Share,North Carolina,B.1.617.1,0,"2,187"
+Share Low,North Carolina,B.1.617.1,0,"2,187"
+Share High,North Carolina,B.1.617.1,0,"2,187"
+Share,North Carolina,B.1.617.2,0.916771710,"2,187"
+Share Low,North Carolina,B.1.617.2,0.751007438,"2,187"
+Share High,North Carolina,B.1.617.2,0.986850023,"2,187"
+Share,North Carolina,B.1.617.3,0,"2,187"
+Share Low,North Carolina,B.1.617.3,0,"2,187"
+Share High,North Carolina,B.1.617.3,0,"2,187"
+Share,North Carolina,B.1.621,0,"2,187"
+Share Low,North Carolina,B.1.621,0,"2,187"
+Share High,North Carolina,B.1.621,0,"2,187"
+Share,North Carolina,Other,0.006787808,"2,187"
+Share Low,North Carolina,Other,0.000136323,"2,187"
+Share High,North Carolina,Other,0.039071400,"2,187"
+Share,North Carolina,P.1,0,"2,187"
+Share Low,North Carolina,P.1,0,"2,187"
+Share High,North Carolina,P.1,0,"2,187"
+Share,North Carolina,P.2,0,"2,187"
+Share Low,North Carolina,P.2,0,"2,187"
+Share High,North Carolina,P.2,0,"2,187"
+Share,North Dakota,AY.1,0,127
+Share Low,North Dakota,AY.1,0,127
+Share High,North Dakota,AY.1,0,127
+Share,North Dakota,AY.2,0,127
+Share Low,North Dakota,AY.2,0,127
+Share High,North Dakota,AY.2,0,127
+Share,North Dakota,B.1.1.7,0,127
+Share Low,North Dakota,B.1.1.7,0,127
+Share High,North Dakota,B.1.1.7,0,127
+Share,North Dakota,B.1.1.529,0.050373871,127
+Share Low,North Dakota,B.1.1.529,6.111204129e-05,127
+Share High,North Dakota,B.1.1.529,0.375092626,127
+Share,North Dakota,B.1.351,0,127
+Share Low,North Dakota,B.1.351,0,127
+Share High,North Dakota,B.1.351,0,127
+Share,North Dakota,B.1.427/429,0,127
+Share Low,North Dakota,B.1.427/429,0,127
+Share High,North Dakota,B.1.427/429,0,127
+Share,North Dakota,B.1.525,0,127
+Share Low,North Dakota,B.1.525,0,127
+Share High,North Dakota,B.1.525,0,127
+Share,North Dakota,B.1.526,0,127
+Share Low,North Dakota,B.1.526,0,127
+Share High,North Dakota,B.1.526,0,127
+Share,North Dakota,B.1.617.1,0,127
+Share Low,North Dakota,B.1.617.1,0,127
+Share High,North Dakota,B.1.617.1,0,127
+Share,North Dakota,B.1.617.2,0.949626148,127
+Share Low,North Dakota,B.1.617.2,0.624907374,127
+Share High,North Dakota,B.1.617.2,0.999938905,127
+Share,North Dakota,B.1.617.3,0,127
+Share Low,North Dakota,B.1.617.3,0,127
+Share High,North Dakota,B.1.617.3,0,127
+Share,North Dakota,B.1.621,0,127
+Share Low,North Dakota,B.1.621,0,127
+Share High,North Dakota,B.1.621,0,127
+Share,North Dakota,Other,0,127
+Share Low,North Dakota,Other,0,127
+Share High,North Dakota,Other,0,127
+Share,North Dakota,P.1,0,127
+Share Low,North Dakota,P.1,0,127
+Share High,North Dakota,P.1,0,127
+Share,North Dakota,P.2,0,127
+Share Low,North Dakota,P.2,0,127
+Share High,North Dakota,P.2,0,127
+Share,Ohio,AY.1,0,"3,617"
+Share Low,Ohio,AY.1,0,"3,617"
+Share High,Ohio,AY.1,0,"3,617"
+Share,Ohio,AY.2,0,"3,617"
+Share Low,Ohio,AY.2,0,"3,617"
+Share High,Ohio,AY.2,0,"3,617"
+Share,Ohio,B.1.1.7,0,"3,617"
+Share Low,Ohio,B.1.1.7,0,"3,617"
+Share High,Ohio,B.1.1.7,0,"3,617"
+Share,Ohio,B.1.1.529,0.184860349,"3,617"
+Share Low,Ohio,B.1.1.529,0.061439019,"3,617"
+Share High,Ohio,B.1.1.529,0.384080529,"3,617"
+Share,Ohio,B.1.351,0,"3,617"
+Share Low,Ohio,B.1.351,0,"3,617"
+Share High,Ohio,B.1.351,0,"3,617"
+Share,Ohio,B.1.427/429,0,"3,617"
+Share Low,Ohio,B.1.427/429,0,"3,617"
+Share High,Ohio,B.1.427/429,0,"3,617"
+Share,Ohio,B.1.525,0,"3,617"
+Share Low,Ohio,B.1.525,0,"3,617"
+Share High,Ohio,B.1.525,0,"3,617"
+Share,Ohio,B.1.526,0,"3,617"
+Share Low,Ohio,B.1.526,0,"3,617"
+Share High,Ohio,B.1.526,0,"3,617"
+Share,Ohio,B.1.617.1,0,"3,617"
+Share Low,Ohio,B.1.617.1,0,"3,617"
+Share High,Ohio,B.1.617.1,0,"3,617"
+Share,Ohio,B.1.617.2,0.809757710,"3,617"
+Share Low,Ohio,B.1.617.2,0.604161680,"3,617"
+Share High,Ohio,B.1.617.2,0.937471628,"3,617"
+Share,Ohio,B.1.617.3,0,"3,617"
+Share Low,Ohio,B.1.617.3,0,"3,617"
+Share High,Ohio,B.1.617.3,0,"3,617"
+Share,Ohio,B.1.621,0,"3,617"
+Share Low,Ohio,B.1.621,0,"3,617"
+Share High,Ohio,B.1.621,0,"3,617"
+Share,Ohio,Other,0.005381961,"3,617"
+Share Low,Ohio,Other,0.000926756,"3,617"
+Share High,Ohio,Other,0.016899897,"3,617"
+Share,Ohio,P.1,0,"3,617"
+Share Low,Ohio,P.1,0,"3,617"
+Share High,Ohio,P.1,0,"3,617"
+Share,Ohio,P.2,0,"3,617"
+Share Low,Ohio,P.2,0,"3,617"
+Share High,Ohio,P.2,0,"3,617"
+Share,Oklahoma,AY.1,0,217
+Share Low,Oklahoma,AY.1,0,217
+Share High,Oklahoma,AY.1,0,217
+Share,Oklahoma,AY.2,0,217
+Share Low,Oklahoma,AY.2,0,217
+Share High,Oklahoma,AY.2,0,217
+Share,Oklahoma,B.1.1.7,0,217
+Share Low,Oklahoma,B.1.1.7,0,217
+Share High,Oklahoma,B.1.1.7,0,217
+Share,Oklahoma,B.1.1.529,0.046953954,217
+Share Low,Oklahoma,B.1.1.529,0.014889869,217
+Share High,Oklahoma,B.1.1.529,0.108115606,217
+Share,Oklahoma,B.1.351,0,217
+Share Low,Oklahoma,B.1.351,0,217
+Share High,Oklahoma,B.1.351,0,217
+Share,Oklahoma,B.1.427/429,0,217
+Share Low,Oklahoma,B.1.427/429,0,217
+Share High,Oklahoma,B.1.427/429,0,217
+Share,Oklahoma,B.1.525,0,217
+Share Low,Oklahoma,B.1.525,0,217
+Share High,Oklahoma,B.1.525,0,217
+Share,Oklahoma,B.1.526,0,217
+Share Low,Oklahoma,B.1.526,0,217
+Share High,Oklahoma,B.1.526,0,217
+Share,Oklahoma,B.1.617.1,0,217
+Share Low,Oklahoma,B.1.617.1,0,217
+Share High,Oklahoma,B.1.617.1,0,217
+Share,Oklahoma,B.1.617.2,0.948932767,217
+Share Low,Oklahoma,B.1.617.2,0.878638208,217
+Share High,Oklahoma,B.1.617.2,0.984868050,217
+Share,Oklahoma,B.1.617.3,0,217
+Share Low,Oklahoma,B.1.617.3,0,217
+Share High,Oklahoma,B.1.617.3,0,217
+Share,Oklahoma,B.1.621,0,217
+Share Low,Oklahoma,B.1.621,0,217
+Share High,Oklahoma,B.1.621,0,217
+Share,Oklahoma,Other,0.004113276,217
+Share Low,Oklahoma,Other,7.109621220e-05,217
+Share High,Oklahoma,Other,0.024556216,217
+Share,Oklahoma,P.1,0,217
+Share Low,Oklahoma,P.1,0,217
+Share High,Oklahoma,P.1,0,217
+Share,Oklahoma,P.2,0,217
+Share Low,Oklahoma,P.2,0,217
+Share High,Oklahoma,P.2,0,217
+Share,Oregon,AY.1,0,643
+Share Low,Oregon,AY.1,0,643
+Share High,Oregon,AY.1,0,643
+Share,Oregon,AY.2,0,643
+Share Low,Oregon,AY.2,0,643
+Share High,Oregon,AY.2,0,643
+Share,Oregon,B.1.1.7,0,643
+Share Low,Oregon,B.1.1.7,0,643
+Share High,Oregon,B.1.1.7,0,643
+Share,Oregon,B.1.1.529,0.025474910,643
+Share Low,Oregon,B.1.1.529,0.011228888,643
+Share High,Oregon,B.1.1.529,0.049110834,643
+Share,Oregon,B.1.351,0,643
+Share Low,Oregon,B.1.351,0,643
+Share High,Oregon,B.1.351,0,643
+Share,Oregon,B.1.427/429,0,643
+Share Low,Oregon,B.1.427/429,0,643
+Share High,Oregon,B.1.427/429,0,643
+Share,Oregon,B.1.525,0,643
+Share Low,Oregon,B.1.525,0,643
+Share High,Oregon,B.1.525,0,643
+Share,Oregon,B.1.526,0,643
+Share Low,Oregon,B.1.526,0,643
+Share High,Oregon,B.1.526,0,643
+Share,Oregon,B.1.617.1,0,643
+Share Low,Oregon,B.1.617.1,0,643
+Share High,Oregon,B.1.617.1,0,643
+Share,Oregon,B.1.617.2,0.969214737,643
+Share Low,Oregon,B.1.617.2,0.929053366,643
+Share High,Oregon,B.1.617.2,0.990081787,643
+Share,Oregon,B.1.617.3,0,643
+Share Low,Oregon,B.1.617.3,0,643
+Share High,Oregon,B.1.617.3,0,643
+Share,Oregon,B.1.621,0,643
+Share Low,Oregon,B.1.621,0,643
+Share High,Oregon,B.1.621,0,643
+Share,Oregon,Other,0.005310378,643
+Share Low,Oregon,Other,5.504345972e-05,643
+Share High,Oregon,Other,0.034736868,643
+Share,Oregon,P.1,0,643
+Share Low,Oregon,P.1,0,643
+Share High,Oregon,P.1,0,643
+Share,Oregon,P.2,0,643
+Share Low,Oregon,P.2,0,643
+Share High,Oregon,P.2,0,643
+Share,Pennsylvania,AY.1,0.000588892,"4,746"
+Share Low,Pennsylvania,AY.1,3.255045158e-05,"4,746"
+Share High,Pennsylvania,AY.1,0.002711318,"4,746"
+Share,Pennsylvania,AY.2,0,"4,746"
+Share Low,Pennsylvania,AY.2,0,"4,746"
+Share High,Pennsylvania,AY.2,0,"4,746"
+Share,Pennsylvania,B.1.1.7,0,"4,746"
+Share Low,Pennsylvania,B.1.1.7,0,"4,746"
+Share High,Pennsylvania,B.1.1.7,0,"4,746"
+Share,Pennsylvania,B.1.1.529,0.065872565,"4,746"
+Share Low,Pennsylvania,B.1.1.529,0.016692933,"4,746"
+Share High,Pennsylvania,B.1.1.529,0.166709349,"4,746"
+Share,Pennsylvania,B.1.351,0,"4,746"
+Share Low,Pennsylvania,B.1.351,0,"4,746"
+Share High,Pennsylvania,B.1.351,0,"4,746"
+Share,Pennsylvania,B.1.427/429,0,"4,746"
+Share Low,Pennsylvania,B.1.427/429,0,"4,746"
+Share High,Pennsylvania,B.1.427/429,0,"4,746"
+Share,Pennsylvania,B.1.525,0,"4,746"
+Share Low,Pennsylvania,B.1.525,0,"4,746"
+Share High,Pennsylvania,B.1.525,0,"4,746"
+Share,Pennsylvania,B.1.526,0,"4,746"
+Share Low,Pennsylvania,B.1.526,0,"4,746"
+Share High,Pennsylvania,B.1.526,0,"4,746"
+Share,Pennsylvania,B.1.617.1,0,"4,746"
+Share Low,Pennsylvania,B.1.617.1,0,"4,746"
+Share High,Pennsylvania,B.1.617.1,0,"4,746"
+Share,Pennsylvania,B.1.617.2,0.928316116,"4,746"
+Share Low,Pennsylvania,B.1.617.2,0.819853008,"4,746"
+Share High,Pennsylvania,B.1.617.2,0.981721282,"4,746"
+Share,Pennsylvania,B.1.617.3,0,"4,746"
+Share Low,Pennsylvania,B.1.617.3,0,"4,746"
+Share High,Pennsylvania,B.1.617.3,0,"4,746"
+Share,Pennsylvania,B.1.621,0,"4,746"
+Share Low,Pennsylvania,B.1.621,0,"4,746"
+Share High,Pennsylvania,B.1.621,0,"4,746"
+Share,Pennsylvania,Other,0.005222410,"4,746"
+Share Low,Pennsylvania,Other,0.000134188,"4,746"
+Share High,Pennsylvania,Other,0.028660757,"4,746"
+Share,Pennsylvania,P.1,0,"4,746"
+Share Low,Pennsylvania,P.1,0,"4,746"
+Share High,Pennsylvania,P.1,0,"4,746"
+Share,Pennsylvania,P.2,0,"4,746"
+Share Low,Pennsylvania,P.2,0,"4,746"
+Share High,Pennsylvania,P.2,0,"4,746"
+Share,Puerto Rico,AY.1,0,224
+Share Low,Puerto Rico,AY.1,0,224
+Share High,Puerto Rico,AY.1,0,224
+Share,Puerto Rico,AY.2,0,224
+Share Low,Puerto Rico,AY.2,0,224
+Share High,Puerto Rico,AY.2,0,224
+Share,Puerto Rico,B.1.1.7,0,224
+Share Low,Puerto Rico,B.1.1.7,0,224
+Share High,Puerto Rico,B.1.1.7,0,224
+Share,Puerto Rico,B.1.1.529,0.649145246,224
+Share Low,Puerto Rico,B.1.1.529,0.522742152,224
+Share High,Puerto Rico,B.1.1.529,0.761878610,224
+Share,Puerto Rico,B.1.351,0,224
+Share Low,Puerto Rico,B.1.351,0,224
+Share High,Puerto Rico,B.1.351,0,224
+Share,Puerto Rico,B.1.427/429,0,224
+Share Low,Puerto Rico,B.1.427/429,0,224
+Share High,Puerto Rico,B.1.427/429,0,224
+Share,Puerto Rico,B.1.525,0,224
+Share Low,Puerto Rico,B.1.525,0,224
+Share High,Puerto Rico,B.1.525,0,224
+Share,Puerto Rico,B.1.526,0,224
+Share Low,Puerto Rico,B.1.526,0,224
+Share High,Puerto Rico,B.1.526,0,224
+Share,Puerto Rico,B.1.617.1,0,224
+Share Low,Puerto Rico,B.1.617.1,0,224
+Share High,Puerto Rico,B.1.617.1,0,224
+Share,Puerto Rico,B.1.617.2,0.344552666,224
+Share Low,Puerto Rico,B.1.617.2,0.230421379,224
+Share High,Puerto Rico,B.1.617.2,0.473521978,224
+Share,Puerto Rico,B.1.617.3,0,224
+Share Low,Puerto Rico,B.1.617.3,0,224
+Share High,Puerto Rico,B.1.617.3,0,224
+Share,Puerto Rico,B.1.621,0,224
+Share Low,Puerto Rico,B.1.621,0,224
+Share High,Puerto Rico,B.1.621,0,224
+Share,Puerto Rico,Other,0.006302093,224
+Share Low,Puerto Rico,Other,0.000398323,224
+Share High,Puerto Rico,Other,0.027689384,224
+Share,Puerto Rico,P.1,0,224
+Share Low,Puerto Rico,P.1,0,224
+Share High,Puerto Rico,P.1,0,224
+Share,Puerto Rico,P.2,0,224
+Share Low,Puerto Rico,P.2,0,224
+Share High,Puerto Rico,P.2,0,224
+Share,Republic of Palau,AY.1,,0
+Share Low,Republic of Palau,AY.1,0,0
+Share High,Republic of Palau,AY.1,0,0
+Share,Republic of Palau,AY.2,,0
+Share Low,Republic of Palau,AY.2,0,0
+Share High,Republic of Palau,AY.2,0,0
+Share,Republic of Palau,B.1.1.7,,0
+Share Low,Republic of Palau,B.1.1.7,0,0
+Share High,Republic of Palau,B.1.1.7,0,0
+Share,Republic of Palau,B.1.1.529,,0
+Share Low,Republic of Palau,B.1.1.529,0,0
+Share High,Republic of Palau,B.1.1.529,0,0
+Share,Republic of Palau,B.1.351,,0
+Share Low,Republic of Palau,B.1.351,0,0
+Share High,Republic of Palau,B.1.351,0,0
+Share,Republic of Palau,B.1.427/429,,0
+Share Low,Republic of Palau,B.1.427/429,0,0
+Share High,Republic of Palau,B.1.427/429,0,0
+Share,Republic of Palau,B.1.525,,0
+Share Low,Republic of Palau,B.1.525,0,0
+Share High,Republic of Palau,B.1.525,0,0
+Share,Republic of Palau,B.1.526,,0
+Share Low,Republic of Palau,B.1.526,0,0
+Share High,Republic of Palau,B.1.526,0,0
+Share,Republic of Palau,B.1.617.1,,0
+Share Low,Republic of Palau,B.1.617.1,0,0
+Share High,Republic of Palau,B.1.617.1,0,0
+Share,Republic of Palau,B.1.617.2,,0
+Share Low,Republic of Palau,B.1.617.2,0,0
+Share High,Republic of Palau,B.1.617.2,0,0
+Share,Republic of Palau,B.1.617.3,,0
+Share Low,Republic of Palau,B.1.617.3,0,0
+Share High,Republic of Palau,B.1.617.3,0,0
+Share,Republic of Palau,B.1.621,,0
+Share Low,Republic of Palau,B.1.621,0,0
+Share High,Republic of Palau,B.1.621,0,0
+Share,Republic of Palau,Other,,0
+Share Low,Republic of Palau,Other,0,0
+Share High,Republic of Palau,Other,0,0
+Share,Republic of Palau,P.1,,0
+Share Low,Republic of Palau,P.1,0,0
+Share High,Republic of Palau,P.1,0,0
+Share,Republic of Palau,P.2,,0
+Share Low,Republic of Palau,P.2,0,0
+Share High,Republic of Palau,P.2,0,0
+Share,Republic of the Marshall Islands,AY.1,,0
+Share Low,Republic of the Marshall Islands,AY.1,0,0
+Share High,Republic of the Marshall Islands,AY.1,0,0
+Share,Republic of the Marshall Islands,AY.2,,0
+Share Low,Republic of the Marshall Islands,AY.2,0,0
+Share High,Republic of the Marshall Islands,AY.2,0,0
+Share,Republic of the Marshall Islands,B.1.1.7,,0
+Share Low,Republic of the Marshall Islands,B.1.1.7,0,0
+Share High,Republic of the Marshall Islands,B.1.1.7,0,0
+Share,Republic of the Marshall Islands,B.1.1.529,,0
+Share Low,Republic of the Marshall Islands,B.1.1.529,0,0
+Share High,Republic of the Marshall Islands,B.1.1.529,0,0
+Share,Republic of the Marshall Islands,B.1.351,,0
+Share Low,Republic of the Marshall Islands,B.1.351,0,0
+Share High,Republic of the Marshall Islands,B.1.351,0,0
+Share,Republic of the Marshall Islands,B.1.427/429,,0
+Share Low,Republic of the Marshall Islands,B.1.427/429,0,0
+Share High,Republic of the Marshall Islands,B.1.427/429,0,0
+Share,Republic of the Marshall Islands,B.1.525,,0
+Share Low,Republic of the Marshall Islands,B.1.525,0,0
+Share High,Republic of the Marshall Islands,B.1.525,0,0
+Share,Republic of the Marshall Islands,B.1.526,,0
+Share Low,Republic of the Marshall Islands,B.1.526,0,0
+Share High,Republic of the Marshall Islands,B.1.526,0,0
+Share,Republic of the Marshall Islands,B.1.617.1,,0
+Share Low,Republic of the Marshall Islands,B.1.617.1,0,0
+Share High,Republic of the Marshall Islands,B.1.617.1,0,0
+Share,Republic of the Marshall Islands,B.1.617.2,,0
+Share Low,Republic of the Marshall Islands,B.1.617.2,0,0
+Share High,Republic of the Marshall Islands,B.1.617.2,0,0
+Share,Republic of the Marshall Islands,B.1.617.3,,0
+Share Low,Republic of the Marshall Islands,B.1.617.3,0,0
+Share High,Republic of the Marshall Islands,B.1.617.3,0,0
+Share,Republic of the Marshall Islands,B.1.621,,0
+Share Low,Republic of the Marshall Islands,B.1.621,0,0
+Share High,Republic of the Marshall Islands,B.1.621,0,0
+Share,Republic of the Marshall Islands,Other,,0
+Share Low,Republic of the Marshall Islands,Other,0,0
+Share High,Republic of the Marshall Islands,Other,0,0
+Share,Republic of the Marshall Islands,P.1,,0
+Share Low,Republic of the Marshall Islands,P.1,0,0
+Share High,Republic of the Marshall Islands,P.1,0,0
+Share,Republic of the Marshall Islands,P.2,,0
+Share Low,Republic of the Marshall Islands,P.2,0,0
+Share High,Republic of the Marshall Islands,P.2,0,0
+Share,Rhode Island,AY.1,0,"1,593"
+Share Low,Rhode Island,AY.1,0,"1,593"
+Share High,Rhode Island,AY.1,0,"1,593"
+Share,Rhode Island,AY.2,0,"1,593"
+Share Low,Rhode Island,AY.2,0,"1,593"
+Share High,Rhode Island,AY.2,0,"1,593"
+Share,Rhode Island,B.1.1.7,0,"1,593"
+Share Low,Rhode Island,B.1.1.7,0,"1,593"
+Share High,Rhode Island,B.1.1.7,0,"1,593"
+Share,Rhode Island,B.1.1.529,0.043874566,"1,593"
+Share Low,Rhode Island,B.1.1.529,0.023495127,"1,593"
+Share High,Rhode Island,B.1.1.529,0.074010402,"1,593"
+Share,Rhode Island,B.1.351,0,"1,593"
+Share Low,Rhode Island,B.1.351,0,"1,593"
+Share High,Rhode Island,B.1.351,0,"1,593"
+Share,Rhode Island,B.1.427/429,0,"1,593"
+Share Low,Rhode Island,B.1.427/429,0,"1,593"
+Share High,Rhode Island,B.1.427/429,0,"1,593"
+Share,Rhode Island,B.1.525,0,"1,593"
+Share Low,Rhode Island,B.1.525,0,"1,593"
+Share High,Rhode Island,B.1.525,0,"1,593"
+Share,Rhode Island,B.1.526,0,"1,593"
+Share Low,Rhode Island,B.1.526,0,"1,593"
+Share High,Rhode Island,B.1.526,0,"1,593"
+Share,Rhode Island,B.1.617.1,0,"1,593"
+Share Low,Rhode Island,B.1.617.1,0,"1,593"
+Share High,Rhode Island,B.1.617.1,0,"1,593"
+Share,Rhode Island,B.1.617.2,0.950737238,"1,593"
+Share Low,Rhode Island,B.1.617.2,0.910842597,"1,593"
+Share High,Rhode Island,B.1.617.2,0.976304352,"1,593"
+Share,Rhode Island,B.1.617.3,0,"1,593"
+Share Low,Rhode Island,B.1.617.3,0,"1,593"
+Share High,Rhode Island,B.1.617.3,0,"1,593"
+Share,Rhode Island,B.1.621,0,"1,593"
+Share Low,Rhode Island,B.1.621,0,"1,593"
+Share High,Rhode Island,B.1.621,0,"1,593"
+Share,Rhode Island,Other,0.005388178,"1,593"
+Share Low,Rhode Island,Other,2.447469706e-05,"1,593"
+Share High,Rhode Island,Other,0.040243514,"1,593"
+Share,Rhode Island,P.1,0,"1,593"
+Share Low,Rhode Island,P.1,0,"1,593"
+Share High,Rhode Island,P.1,0,"1,593"
+Share,Rhode Island,P.2,0,"1,593"
+Share Low,Rhode Island,P.2,0,"1,593"
+Share High,Rhode Island,P.2,0,"1,593"
+Share,South Carolina,AY.1,0,498
+Share Low,South Carolina,AY.1,0,498
+Share High,South Carolina,AY.1,0,498
+Share,South Carolina,AY.2,0.007832214,498
+Share Low,South Carolina,AY.2,0.000408975,498
+Share High,South Carolina,AY.2,0.036137745,498
+Share,South Carolina,B.1.1.7,0,498
+Share Low,South Carolina,B.1.1.7,0,498
+Share High,South Carolina,B.1.1.7,0,498
+Share,South Carolina,B.1.1.529,0.076640107,498
+Share Low,South Carolina,B.1.1.529,0.038899738,498
+Share High,South Carolina,B.1.1.529,0.132944539,498
+Share,South Carolina,B.1.351,0,498
+Share Low,South Carolina,B.1.351,0,498
+Share High,South Carolina,B.1.351,0,498
+Share,South Carolina,B.1.427/429,0,498
+Share Low,South Carolina,B.1.427/429,0,498
+Share High,South Carolina,B.1.427/429,0,498
+Share,South Carolina,B.1.525,0,498
+Share Low,South Carolina,B.1.525,0,498
+Share High,South Carolina,B.1.525,0,498
+Share,South Carolina,B.1.526,0,498
+Share Low,South Carolina,B.1.526,0,498
+Share High,South Carolina,B.1.526,0,498
+Share,South Carolina,B.1.617.1,0,498
+Share Low,South Carolina,B.1.617.1,0,498
+Share High,South Carolina,B.1.617.1,0,498
+Share,South Carolina,B.1.617.2,0.910735905,498
+Share Low,South Carolina,B.1.617.2,0.841616273,498
+Share High,South Carolina,B.1.617.2,0.956513405,498
+Share,South Carolina,B.1.617.3,0,498
+Share Low,South Carolina,B.1.617.3,0,498
+Share High,South Carolina,B.1.617.3,0,498
+Share,South Carolina,B.1.621,0,498
+Share Low,South Carolina,B.1.621,0,498
+Share High,South Carolina,B.1.621,0,498
+Share,South Carolina,Other,0.004791762,498
+Share Low,South Carolina,Other,5.210438394e-05,498
+Share High,South Carolina,Other,0.031127494,498
+Share,South Carolina,P.1,0,498
+Share Low,South Carolina,P.1,0,498
+Share High,South Carolina,P.1,0,498
+Share,South Carolina,P.2,0,498
+Share Low,South Carolina,P.2,0,498
+Share High,South Carolina,P.2,0,498
+Share,South Dakota,AY.1,0,192
+Share Low,South Dakota,AY.1,0,192
+Share High,South Dakota,AY.1,0,192
+Share,South Dakota,AY.2,0,192
+Share Low,South Dakota,AY.2,0,192
+Share High,South Dakota,AY.2,0,192
+Share,South Dakota,B.1.1.7,0,192
+Share Low,South Dakota,B.1.1.7,0,192
+Share High,South Dakota,B.1.1.7,0,192
+Share,South Dakota,B.1.1.529,0.030841783,192
+Share Low,South Dakota,B.1.1.529,0.000176950,192
+Share High,South Dakota,B.1.1.529,0.205121055,192
+Share,South Dakota,B.1.351,0,192
+Share Low,South Dakota,B.1.351,0,192
+Share High,South Dakota,B.1.351,0,192
+Share,South Dakota,B.1.427/429,0,192
+Share Low,South Dakota,B.1.427/429,0,192
+Share High,South Dakota,B.1.427/429,0,192
+Share,South Dakota,B.1.525,0,192
+Share Low,South Dakota,B.1.525,0,192
+Share High,South Dakota,B.1.525,0,192
+Share,South Dakota,B.1.526,0,192
+Share Low,South Dakota,B.1.526,0,192
+Share High,South Dakota,B.1.526,0,192
+Share,South Dakota,B.1.617.1,0,192
+Share Low,South Dakota,B.1.617.1,0,192
+Share High,South Dakota,B.1.617.1,0,192
+Share,South Dakota,B.1.617.2,0.969158232,192
+Share Low,South Dakota,B.1.617.2,0.794878960,192
+Share High,South Dakota,B.1.617.2,0.999823034,192
+Share,South Dakota,B.1.617.3,0,192
+Share Low,South Dakota,B.1.617.3,0,192
+Share High,South Dakota,B.1.617.3,0,192
+Share,South Dakota,B.1.621,0,192
+Share Low,South Dakota,B.1.621,0,192
+Share High,South Dakota,B.1.621,0,192
+Share,South Dakota,Other,0,192
+Share Low,South Dakota,Other,0,192
+Share High,South Dakota,Other,0,192
+Share,South Dakota,P.1,0,192
+Share Low,South Dakota,P.1,0,192
+Share High,South Dakota,P.1,0,192
+Share,South Dakota,P.2,0,192
+Share Low,South Dakota,P.2,0,192
+Share High,South Dakota,P.2,0,192
+Share,Tennessee,AY.1,0,"1,044"
+Share Low,Tennessee,AY.1,0,"1,044"
+Share High,Tennessee,AY.1,0,"1,044"
+Share,Tennessee,AY.2,0,"1,044"
+Share Low,Tennessee,AY.2,0,"1,044"
+Share High,Tennessee,AY.2,0,"1,044"
+Share,Tennessee,B.1.1.7,0,"1,044"
+Share Low,Tennessee,B.1.1.7,0,"1,044"
+Share High,Tennessee,B.1.1.7,0,"1,044"
+Share,Tennessee,B.1.1.529,0.113282822,"1,044"
+Share Low,Tennessee,B.1.1.529,0.056866094,"1,044"
+Share High,Tennessee,B.1.1.529,0.195911124,"1,044"
+Share,Tennessee,B.1.351,0,"1,044"
+Share Low,Tennessee,B.1.351,0,"1,044"
+Share High,Tennessee,B.1.351,0,"1,044"
+Share,Tennessee,B.1.427/429,0,"1,044"
+Share Low,Tennessee,B.1.427/429,0,"1,044"
+Share High,Tennessee,B.1.427/429,0,"1,044"
+Share,Tennessee,B.1.525,0,"1,044"
+Share Low,Tennessee,B.1.525,0,"1,044"
+Share High,Tennessee,B.1.525,0,"1,044"
+Share,Tennessee,B.1.526,0,"1,044"
+Share Low,Tennessee,B.1.526,0,"1,044"
+Share High,Tennessee,B.1.526,0,"1,044"
+Share,Tennessee,B.1.617.1,0,"1,044"
+Share Low,Tennessee,B.1.617.1,0,"1,044"
+Share High,Tennessee,B.1.617.1,0,"1,044"
+Share,Tennessee,B.1.617.2,0.882544160,"1,044"
+Share Low,Tennessee,B.1.617.2,0.796016157,"1,044"
+Share High,Tennessee,B.1.617.2,0.941551864,"1,044"
+Share,Tennessee,B.1.617.3,0,"1,044"
+Share Low,Tennessee,B.1.617.3,0,"1,044"
+Share High,Tennessee,B.1.617.3,0,"1,044"
+Share,Tennessee,B.1.621,0,"1,044"
+Share Low,Tennessee,B.1.621,0,"1,044"
+Share High,Tennessee,B.1.621,0,"1,044"
+Share,Tennessee,Other,0.004173046,"1,044"
+Share Low,Tennessee,Other,0.001221663,"1,044"
+Share High,Tennessee,Other,0.010270345,"1,044"
+Share,Tennessee,P.1,0,"1,044"
+Share Low,Tennessee,P.1,0,"1,044"
+Share High,Tennessee,P.1,0,"1,044"
+Share,Tennessee,P.2,0,"1,044"
+Share Low,Tennessee,P.2,0,"1,044"
+Share High,Tennessee,P.2,0,"1,044"
+Share,Texas,AY.1,0.000404909,"4,360"
+Share Low,Texas,AY.1,3.982214184e-05,"4,360"
+Share High,Texas,AY.1,0.001569996,"4,360"
+Share,Texas,AY.2,0,"4,360"
+Share Low,Texas,AY.2,0,"4,360"
+Share High,Texas,AY.2,0,"4,360"
+Share,Texas,B.1.1.7,0,"4,360"
+Share Low,Texas,B.1.1.7,0,"4,360"
+Share High,Texas,B.1.1.7,0,"4,360"
+Share,Texas,B.1.1.529,0.373888731,"4,360"
+Share Low,Texas,B.1.1.529,0.208438843,"4,360"
+Share High,Texas,B.1.1.529,0.564163923,"4,360"
+Share,Texas,B.1.351,0,"4,360"
+Share Low,Texas,B.1.351,0,"4,360"
+Share High,Texas,B.1.351,0,"4,360"
+Share,Texas,B.1.427/429,0,"4,360"
+Share Low,Texas,B.1.427/429,0,"4,360"
+Share High,Texas,B.1.427/429,0,"4,360"
+Share,Texas,B.1.525,0,"4,360"
+Share Low,Texas,B.1.525,0,"4,360"
+Share High,Texas,B.1.525,0,"4,360"
+Share,Texas,B.1.526,0,"4,360"
+Share Low,Texas,B.1.526,0,"4,360"
+Share High,Texas,B.1.526,0,"4,360"
+Share,Texas,B.1.617.1,0,"4,360"
+Share Low,Texas,B.1.617.1,0,"4,360"
+Share High,Texas,B.1.617.1,0,"4,360"
+Share,Texas,B.1.617.2,0.620585561,"4,360"
+Share Low,Texas,B.1.617.2,0.425881028,"4,360"
+Share High,Texas,B.1.617.2,0.790485263,"4,360"
+Share,Texas,B.1.617.3,0,"4,360"
+Share Low,Texas,B.1.617.3,0,"4,360"
+Share High,Texas,B.1.617.3,0,"4,360"
+Share,Texas,B.1.621,0,"4,360"
+Share Low,Texas,B.1.621,0,"4,360"
+Share High,Texas,B.1.621,0,"4,360"
+Share,Texas,Other,0.005120793,"4,360"
+Share Low,Texas,Other,0.000415739,"4,360"
+Share High,Texas,Other,0.020955119,"4,360"
+Share,Texas,P.1,0,"4,360"
+Share Low,Texas,P.1,0,"4,360"
+Share High,Texas,P.1,0,"4,360"
+Share,Texas,P.2,0,"4,360"
+Share Low,Texas,P.2,0,"4,360"
+Share High,Texas,P.2,0,"4,360"
+Share,US Virgin Islands,AY.1,0,0
+Share Low,US Virgin Islands,AY.1,0,0
+Share High,US Virgin Islands,AY.1,0,0
+Share,US Virgin Islands,AY.2,0,0
+Share Low,US Virgin Islands,AY.2,0,0
+Share High,US Virgin Islands,AY.2,0,0
+Share,US Virgin Islands,B.1.1.7,0,0
+Share Low,US Virgin Islands,B.1.1.7,0,0
+Share High,US Virgin Islands,B.1.1.7,0,0
+Share,US Virgin Islands,B.1.1.529,0,0
+Share Low,US Virgin Islands,B.1.1.529,0,0
+Share High,US Virgin Islands,B.1.1.529,0,0
+Share,US Virgin Islands,B.1.351,0,0
+Share Low,US Virgin Islands,B.1.351,0,0
+Share High,US Virgin Islands,B.1.351,0,0
+Share,US Virgin Islands,B.1.427/429,0,0
+Share Low,US Virgin Islands,B.1.427/429,0,0
+Share High,US Virgin Islands,B.1.427/429,0,0
+Share,US Virgin Islands,B.1.525,0,0
+Share Low,US Virgin Islands,B.1.525,0,0
+Share High,US Virgin Islands,B.1.525,0,0
+Share,US Virgin Islands,B.1.526,0,0
+Share Low,US Virgin Islands,B.1.526,0,0
+Share High,US Virgin Islands,B.1.526,0,0
+Share,US Virgin Islands,B.1.617.1,0,0
+Share Low,US Virgin Islands,B.1.617.1,0,0
+Share High,US Virgin Islands,B.1.617.1,0,0
+Share,US Virgin Islands,B.1.617.2,0,0
+Share Low,US Virgin Islands,B.1.617.2,0,0
+Share High,US Virgin Islands,B.1.617.2,0,0
+Share,US Virgin Islands,B.1.617.3,0,0
+Share Low,US Virgin Islands,B.1.617.3,0,0
+Share High,US Virgin Islands,B.1.617.3,0,0
+Share,US Virgin Islands,B.1.621,0,0
+Share Low,US Virgin Islands,B.1.621,0,0
+Share High,US Virgin Islands,B.1.621,0,0
+Share,US Virgin Islands,Other,0,0
+Share Low,US Virgin Islands,Other,0,0
+Share High,US Virgin Islands,Other,0,0
+Share,US Virgin Islands,P.1,0,0
+Share Low,US Virgin Islands,P.1,0,0
+Share High,US Virgin Islands,P.1,0,0
+Share,US Virgin Islands,P.2,0,0
+Share Low,US Virgin Islands,P.2,0,0
+Share High,US Virgin Islands,P.2,0,0
+Share,Utah,AY.1,0.001764404,"2,730"
+Share Low,Utah,AY.1,0.000557739,"2,730"
+Share High,Utah,AY.1,0.004174415,"2,730"
+Share,Utah,AY.2,0,"2,730"
+Share Low,Utah,AY.2,0,"2,730"
+Share High,Utah,AY.2,0,"2,730"
+Share,Utah,B.1.1.7,0,"2,730"
+Share Low,Utah,B.1.1.7,0,"2,730"
+Share High,Utah,B.1.1.7,0,"2,730"
+Share,Utah,B.1.1.529,0.011926812,"2,730"
+Share Low,Utah,B.1.1.529,0.007440671,"2,730"
+Share High,Utah,B.1.1.529,0.018092699,"2,730"
+Share,Utah,B.1.351,0,"2,730"
+Share Low,Utah,B.1.351,0,"2,730"
+Share High,Utah,B.1.351,0,"2,730"
+Share,Utah,B.1.427/429,0,"2,730"
+Share Low,Utah,B.1.427/429,0,"2,730"
+Share High,Utah,B.1.427/429,0,"2,730"
+Share,Utah,B.1.525,0,"2,730"
+Share Low,Utah,B.1.525,0,"2,730"
+Share High,Utah,B.1.525,0,"2,730"
+Share,Utah,B.1.526,0,"2,730"
+Share Low,Utah,B.1.526,0,"2,730"
+Share High,Utah,B.1.526,0,"2,730"
+Share,Utah,B.1.617.1,0,"2,730"
+Share Low,Utah,B.1.617.1,0,"2,730"
+Share High,Utah,B.1.617.1,0,"2,730"
+Share,Utah,B.1.617.2,0.985211790,"2,730"
+Share Low,Utah,B.1.617.2,0.977660358,"2,730"
+Share High,Utah,B.1.617.2,0.990728736,"2,730"
+Share,Utah,B.1.617.3,0,"2,730"
+Share Low,Utah,B.1.617.3,0,"2,730"
+Share High,Utah,B.1.617.3,0,"2,730"
+Share,Utah,B.1.621,0,"2,730"
+Share Low,Utah,B.1.621,0,"2,730"
+Share High,Utah,B.1.621,0,"2,730"
+Share,Utah,Other,0.001096965,"2,730"
+Share Low,Utah,Other,3.396569809e-05,"2,730"
+Share High,Utah,Other,0.005828787,"2,730"
+Share,Utah,P.1,0,"2,730"
+Share Low,Utah,P.1,0,"2,730"
+Share High,Utah,P.1,0,"2,730"
+Share,Utah,P.2,0,"2,730"
+Share Low,Utah,P.2,0,"2,730"
+Share High,Utah,P.2,0,"2,730"
+Share,Vermont,AY.1,0,"2,391"
+Share Low,Vermont,AY.1,0,"2,391"
+Share High,Vermont,AY.1,0,"2,391"
+Share,Vermont,AY.2,0.000374776,"2,391"
+Share Low,Vermont,AY.2,6.570552614e-06,"2,391"
+Share High,Vermont,AY.2,0.002252274,"2,391"
+Share,Vermont,B.1.1.7,0,"2,391"
+Share Low,Vermont,B.1.1.7,0,"2,391"
+Share High,Vermont,B.1.1.7,0,"2,391"
+Share,Vermont,B.1.1.529,0.041237857,"2,391"
+Share Low,Vermont,B.1.1.529,0.032858785,"2,391"
+Share High,Vermont,B.1.1.529,0.051027026,"2,391"
+Share,Vermont,B.1.351,0,"2,391"
+Share Low,Vermont,B.1.351,0,"2,391"
+Share High,Vermont,B.1.351,0,"2,391"
+Share,Vermont,B.1.427/429,0,"2,391"
+Share Low,Vermont,B.1.427/429,0,"2,391"
+Share High,Vermont,B.1.427/429,0,"2,391"
+Share,Vermont,B.1.525,0,"2,391"
+Share Low,Vermont,B.1.525,0,"2,391"
+Share High,Vermont,B.1.525,0,"2,391"
+Share,Vermont,B.1.526,0,"2,391"
+Share Low,Vermont,B.1.526,0,"2,391"
+Share High,Vermont,B.1.526,0,"2,391"
+Share,Vermont,B.1.617.1,0,"2,391"
+Share Low,Vermont,B.1.617.1,0,"2,391"
+Share High,Vermont,B.1.617.1,0,"2,391"
+Share,Vermont,B.1.617.2,0.958387375,"2,391"
+Share Low,Vermont,B.1.617.2,0.948657990,"2,391"
+Share High,Vermont,B.1.617.2,0.966733634,"2,391"
+Share,Vermont,B.1.617.3,0,"2,391"
+Share Low,Vermont,B.1.617.3,0,"2,391"
+Share High,Vermont,B.1.617.3,0,"2,391"
+Share,Vermont,B.1.621,0,"2,391"
+Share Low,Vermont,B.1.621,0,"2,391"
+Share High,Vermont,B.1.621,0,"2,391"
+Share,Vermont,Other,0,"2,391"
+Share Low,Vermont,Other,0,"2,391"
+Share High,Vermont,Other,0,"2,391"
+Share,Vermont,P.1,0,"2,391"
+Share Low,Vermont,P.1,0,"2,391"
+Share High,Vermont,P.1,0,"2,391"
+Share,Vermont,P.2,0,"2,391"
+Share Low,Vermont,P.2,0,"2,391"
+Share High,Vermont,P.2,0,"2,391"
+Share,Virginia,AY.1,0,"1,602"
+Share Low,Virginia,AY.1,0,"1,602"
+Share High,Virginia,AY.1,0,"1,602"
+Share,Virginia,AY.2,0,"1,602"
+Share Low,Virginia,AY.2,0,"1,602"
+Share High,Virginia,AY.2,0,"1,602"
+Share,Virginia,B.1.1.7,0,"1,602"
+Share Low,Virginia,B.1.1.7,0,"1,602"
+Share High,Virginia,B.1.1.7,0,"1,602"
+Share,Virginia,B.1.1.529,0.093181938,"1,602"
+Share Low,Virginia,B.1.1.529,0.056633078,"1,602"
+Share High,Virginia,B.1.1.529,0.142416775,"1,602"
+Share,Virginia,B.1.351,0,"1,602"
+Share Low,Virginia,B.1.351,0,"1,602"
+Share High,Virginia,B.1.351,0,"1,602"
+Share,Virginia,B.1.427/429,0,"1,602"
+Share Low,Virginia,B.1.427/429,0,"1,602"
+Share High,Virginia,B.1.427/429,0,"1,602"
+Share,Virginia,B.1.525,0,"1,602"
+Share Low,Virginia,B.1.525,0,"1,602"
+Share High,Virginia,B.1.525,0,"1,602"
+Share,Virginia,B.1.526,0,"1,602"
+Share Low,Virginia,B.1.526,0,"1,602"
+Share High,Virginia,B.1.526,0,"1,602"
+Share,Virginia,B.1.617.1,0,"1,602"
+Share Low,Virginia,B.1.617.1,0,"1,602"
+Share High,Virginia,B.1.617.1,0,"1,602"
+Share,Virginia,B.1.617.2,0.904483795,"1,602"
+Share Low,Virginia,B.1.617.2,0.849653184,"1,602"
+Share High,Virginia,B.1.617.2,0.944344580,"1,602"
+Share,Virginia,B.1.617.3,0,"1,602"
+Share Low,Virginia,B.1.617.3,0,"1,602"
+Share High,Virginia,B.1.617.3,0,"1,602"
+Share,Virginia,B.1.621,0,"1,602"
+Share Low,Virginia,B.1.621,0,"1,602"
+Share High,Virginia,B.1.621,0,"1,602"
+Share,Virginia,Other,0.002334261,"1,602"
+Share Low,Virginia,Other,7.627367268e-06,"1,602"
+Share High,Virginia,Other,0.018483069,"1,602"
+Share,Virginia,P.1,0,"1,602"
+Share Low,Virginia,P.1,0,"1,602"
+Share High,Virginia,P.1,0,"1,602"
+Share,Virginia,P.2,0,"1,602"
+Share Low,Virginia,P.2,0,"1,602"
+Share High,Virginia,P.2,0,"1,602"
+Share,Washington,AY.1,0.000568455,"3,794"
+Share Low,Washington,AY.1,2.321354032e-06,"3,794"
+Share High,Washington,AY.1,0.004384100,"3,794"
+Share,Washington,AY.2,0,"3,794"
+Share Low,Washington,AY.2,0,"3,794"
+Share High,Washington,AY.2,0,"3,794"
+Share,Washington,B.1.1.7,0,"3,794"
+Share Low,Washington,B.1.1.7,0,"3,794"
+Share High,Washington,B.1.1.7,0,"3,794"
+Share,Washington,B.1.1.529,0.208280355,"3,794"
+Share Low,Washington,B.1.1.529,0.097373344,"3,794"
+Share High,Washington,B.1.1.529,0.363834471,"3,794"
+Share,Washington,B.1.351,0,"3,794"
+Share Low,Washington,B.1.351,0,"3,794"
+Share High,Washington,B.1.351,0,"3,794"
+Share,Washington,B.1.427/429,0,"3,794"
+Share Low,Washington,B.1.427/429,0,"3,794"
+Share High,Washington,B.1.427/429,0,"3,794"
+Share,Washington,B.1.525,0,"3,794"
+Share Low,Washington,B.1.525,0,"3,794"
+Share High,Washington,B.1.525,0,"3,794"
+Share,Washington,B.1.526,0,"3,794"
+Share Low,Washington,B.1.526,0,"3,794"
+Share High,Washington,B.1.526,0,"3,794"
+Share,Washington,B.1.617.1,0,"3,794"
+Share Low,Washington,B.1.617.1,0,"3,794"
+Share High,Washington,B.1.617.1,0,"3,794"
+Share,Washington,B.1.617.2,0.789595485,"3,794"
+Share Low,Washington,B.1.617.2,0.635775447,"3,794"
+Share High,Washington,B.1.617.2,0.900083959,"3,794"
+Share,Washington,B.1.617.3,0,"3,794"
+Share Low,Washington,B.1.617.3,0,"3,794"
+Share High,Washington,B.1.617.3,0,"3,794"
+Share,Washington,B.1.621,0.000254822,"3,794"
+Share Low,Washington,B.1.621,1.042363124e-06,"3,794"
+Share High,Washington,B.1.621,0.001966870,"3,794"
+Share,Washington,Other,0.001300865,"3,794"
+Share Low,Washington,Other,0.000418570,"3,794"
+Share High,Washington,Other,0.003048847,"3,794"
+Share,Washington,P.1,0,"3,794"
+Share Low,Washington,P.1,0,"3,794"
+Share High,Washington,P.1,0,"3,794"
+Share,Washington,P.2,0,"3,794"
+Share Low,Washington,P.2,0,"3,794"
+Share High,Washington,P.2,0,"3,794"
+Share,West Virginia,AY.1,0,"1,103"
+Share Low,West Virginia,AY.1,0,"1,103"
+Share High,West Virginia,AY.1,0,"1,103"
+Share,West Virginia,AY.2,0,"1,103"
+Share Low,West Virginia,AY.2,0,"1,103"
+Share High,West Virginia,AY.2,0,"1,103"
+Share,West Virginia,B.1.1.7,0.002524070,"1,103"
+Share Low,West Virginia,B.1.1.7,0.000478783,"1,103"
+Share High,West Virginia,B.1.1.7,0.007633077,"1,103"
+Share,West Virginia,B.1.1.529,0.013622706,"1,103"
+Share Low,West Virginia,B.1.1.529,0.001117987,"1,103"
+Share High,West Virginia,B.1.1.529,0.054854095,"1,103"
+Share,West Virginia,B.1.351,0,"1,103"
+Share Low,West Virginia,B.1.351,0,"1,103"
+Share High,West Virginia,B.1.351,0,"1,103"
+Share,West Virginia,B.1.427/429,0,"1,103"
+Share Low,West Virginia,B.1.427/429,0,"1,103"
+Share High,West Virginia,B.1.427/429,0,"1,103"
+Share,West Virginia,B.1.525,0,"1,103"
+Share Low,West Virginia,B.1.525,0,"1,103"
+Share High,West Virginia,B.1.525,0,"1,103"
+Share,West Virginia,B.1.526,0,"1,103"
+Share Low,West Virginia,B.1.526,0,"1,103"
+Share High,West Virginia,B.1.526,0,"1,103"
+Share,West Virginia,B.1.617.1,0,"1,103"
+Share Low,West Virginia,B.1.617.1,0,"1,103"
+Share High,West Virginia,B.1.617.1,0,"1,103"
+Share,West Virginia,B.1.617.2,0.981087863,"1,103"
+Share Low,West Virginia,B.1.617.2,0.927078307,"1,103"
+Share High,West Virginia,B.1.617.2,0.998255551,"1,103"
+Share,West Virginia,B.1.617.3,0,"1,103"
+Share Low,West Virginia,B.1.617.3,0,"1,103"
+Share High,West Virginia,B.1.617.3,0,"1,103"
+Share,West Virginia,B.1.621,0,"1,103"
+Share Low,West Virginia,B.1.621,0,"1,103"
+Share High,West Virginia,B.1.621,0,"1,103"
+Share,West Virginia,Other,0.002765339,"1,103"
+Share Low,West Virginia,Other,7.674218068e-06,"1,103"
+Share High,West Virginia,Other,0.022369822,"1,103"
+Share,West Virginia,P.1,0,"1,103"
+Share Low,West Virginia,P.1,0,"1,103"
+Share High,West Virginia,P.1,0,"1,103"
+Share,West Virginia,P.2,0,"1,103"
+Share Low,West Virginia,P.2,0,"1,103"
+Share High,West Virginia,P.2,0,"1,103"
+Share,Wisconsin,AY.1,0.000855834,"3,226"
+Share Low,Wisconsin,AY.1,0.000160706,"3,226"
+Share High,Wisconsin,AY.1,0.002603348,"3,226"
+Share,Wisconsin,AY.2,0,"3,226"
+Share Low,Wisconsin,AY.2,0,"3,226"
+Share High,Wisconsin,AY.2,0,"3,226"
+Share,Wisconsin,B.1.1.7,0,"3,226"
+Share Low,Wisconsin,B.1.1.7,0,"3,226"
+Share High,Wisconsin,B.1.1.7,0,"3,226"
+Share,Wisconsin,B.1.1.529,0.068869747,"3,226"
+Share Low,Wisconsin,B.1.1.529,0.028018173,"3,226"
+Share High,Wisconsin,B.1.1.529,0.137089670,"3,226"
+Share,Wisconsin,B.1.351,0,"3,226"
+Share Low,Wisconsin,B.1.351,0,"3,226"
+Share High,Wisconsin,B.1.351,0,"3,226"
+Share,Wisconsin,B.1.427/429,0,"3,226"
+Share Low,Wisconsin,B.1.427/429,0,"3,226"
+Share High,Wisconsin,B.1.427/429,0,"3,226"
+Share,Wisconsin,B.1.525,0,"3,226"
+Share Low,Wisconsin,B.1.525,0,"3,226"
+Share High,Wisconsin,B.1.525,0,"3,226"
+Share,Wisconsin,B.1.526,0,"3,226"
+Share Low,Wisconsin,B.1.526,0,"3,226"
+Share High,Wisconsin,B.1.526,0,"3,226"
+Share,Wisconsin,B.1.617.1,0,"3,226"
+Share Low,Wisconsin,B.1.617.1,0,"3,226"
+Share High,Wisconsin,B.1.617.1,0,"3,226"
+Share,Wisconsin,B.1.617.2,0.924249351,"3,226"
+Share Low,Wisconsin,B.1.617.2,0.847867072,"3,226"
+Share High,Wisconsin,B.1.617.2,0.969814181,"3,226"
+Share,Wisconsin,B.1.617.3,0,"3,226"
+Share Low,Wisconsin,B.1.617.3,0,"3,226"
+Share High,Wisconsin,B.1.617.3,0,"3,226"
+Share,Wisconsin,B.1.621,0,"3,226"
+Share Low,Wisconsin,B.1.621,0,"3,226"
+Share High,Wisconsin,B.1.621,0,"3,226"
+Share,Wisconsin,Other,0.006025057,"3,226"
+Share Low,Wisconsin,Other,0.000750376,"3,226"
+Share High,Wisconsin,Other,0.021389481,"3,226"
+Share,Wisconsin,P.1,0,"3,226"
+Share Low,Wisconsin,P.1,0,"3,226"
+Share High,Wisconsin,P.1,0,"3,226"
+Share,Wisconsin,P.2,0,"3,226"
+Share Low,Wisconsin,P.2,0,"3,226"
+Share High,Wisconsin,P.2,0,"3,226"
+Share,Wyoming,AY.1,0,91
+Share Low,Wyoming,AY.1,0,91
+Share High,Wyoming,AY.1,0,91
+Share,Wyoming,AY.2,0,91
+Share Low,Wyoming,AY.2,0,91
+Share High,Wyoming,AY.2,0,91
+Share,Wyoming,B.1.1.7,0,91
+Share Low,Wyoming,B.1.1.7,0,91
+Share High,Wyoming,B.1.1.7,0,91
+Share,Wyoming,B.1.1.529,0.057177987,91
+Share Low,Wyoming,B.1.1.529,0.010645236,91
+Share High,Wyoming,B.1.1.529,0.165535450,91
+Share,Wyoming,B.1.351,0,91
+Share Low,Wyoming,B.1.351,0,91
+Share High,Wyoming,B.1.351,0,91
+Share,Wyoming,B.1.427/429,0,91
+Share Low,Wyoming,B.1.427/429,0,91
+Share High,Wyoming,B.1.427/429,0,91
+Share,Wyoming,B.1.525,0,91
+Share Low,Wyoming,B.1.525,0,91
+Share High,Wyoming,B.1.525,0,91
+Share,Wyoming,B.1.526,0,91
+Share Low,Wyoming,B.1.526,0,91
+Share High,Wyoming,B.1.526,0,91
+Share,Wyoming,B.1.617.1,0,91
+Share Low,Wyoming,B.1.617.1,0,91
+Share High,Wyoming,B.1.617.1,0,91
+Share,Wyoming,B.1.617.2,0.942822039,91
+Share Low,Wyoming,B.1.617.2,0.834464550,91
+Share High,Wyoming,B.1.617.2,0.989354789,91
+Share,Wyoming,B.1.617.3,0,91
+Share Low,Wyoming,B.1.617.3,0,91
+Share High,Wyoming,B.1.617.3,0,91
+Share,Wyoming,B.1.621,0,91
+Share Low,Wyoming,B.1.621,0,91
+Share High,Wyoming,B.1.621,0,91
+Share,Wyoming,Other,0,91
+Share Low,Wyoming,Other,0,91
+Share High,Wyoming,Other,0,91
+Share,Wyoming,P.1,0,91
+Share Low,Wyoming,P.1,0,91
+Share High,Wyoming,P.1,0,91
+Share,Wyoming,P.2,0,91
+Share Low,Wyoming,P.2,0,91
+Share High,Wyoming,P.2,0,91
